@@ -1,0 +1,1287 @@
+{
+ "ниша": "Логопеды",
+ "ключ": "zdorove/logopedy",
+ "запросы": [
+  "логопед"
+ ],
+ "найдено_в_яндексе": {
+  "логопед": 105
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "188488993300",
+   "название": "Смитра",
+   "seoname": "smitra",
+   "адрес": "Железнодорожная ул., 18, Железнодорожный район",
+   "координаты": [
+    82.90649,
+    55.046622
+   ],
+   "рейтинг": 5,
+   "оценок": 300,
+   "отзывов": 142,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://smitra.ru/?rs=%D1%8F%D0%BD%D0%B4%D0%B5%D0%BA%D1%81-%D0%BA%D0%B0%D1%80%D1%82%D1%8B_y-centr"
+   ],
+   "телефоны": [
+    "+7 (383) 202-20-13"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "гинекологическая клиника",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "bike_parking",
+    "car_park",
+    "childrens_specialists",
+    "clinical_examination",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "hospital_day_care",
+    "massage_services",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preventive_checkup",
+    "show_briefly_about_the_place_block",
+    "tick_removal",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/smitra/188488993300/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 55
+  },
+  {
+   "id": "239039244888",
+   "название": "Кругозор",
+   "seoname": "krugozor",
+   "адрес": "Линейная ул., 53, Новосибирск",
+   "координаты": [
+    82.92746,
+    55.052683
+   ],
+   "рейтинг": 5,
+   "оценок": 167,
+   "отзывов": 92,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://krugozor-nsk.ru/",
+    "https://krugozor-nsk.ru/onlayn-zapis-na-priem-k-vrachu"
+   ],
+   "телефоны": [
+    "+7 (383) 375-24-80",
+    "+7 (383) 375-54-94",
+    "+7 (923) 100-24-60"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "логопеды",
+    "нейропсихолог"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "integrative_medicine",
+    "kinesio_taping",
+    "kinesis_training",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "physical_therapy",
+    "prayer_room",
+    "preliminary_registration",
+    "preparation_for_school",
+    "preventive_checkup",
+    "ramp",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/krugozor/239039244888/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1310312591",
+   "название": "Клиника Пасман",
+   "seoname": "klinika_pasman",
+   "адрес": "просп. Дзержинского, 1/1, Новосибирск",
+   "координаты": [
+    82.949191,
+    55.043631
+   ],
+   "рейтинг": 4.4,
+   "оценок": 114,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.pasman-clinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-73-46"
+   ],
+   "часы": "пн-сб 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "гинекологическая клиника",
+    "медицинская реабилитация"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "car_park",
+    "childrens_specialists",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "guarantee",
+    "in_vitro_fertilisation",
+    "kinesio_taping",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "spermogram",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_pasman/1310312591/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1135779010",
+   "название": "Кругозор",
+   "seoname": "krugozor",
+   "адрес": "Линейная ул., 51, Новосибирск",
+   "координаты": [
+    82.925902,
+    55.052436
+   ],
+   "рейтинг": 5,
+   "оценок": 144,
+   "отзывов": 41,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://krugozor-nsk.ru/",
+    "https://krugozor-nsk.ru/onlayn-zapis-na-priem-k-vrachu"
+   ],
+   "телефоны": [
+    "+7 (923) 100-24-60",
+    "+7 (383) 375-54-94",
+    "+7 (383) 375-24-80"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "психологический центр",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "call_button",
+    "conflictologists",
+    "dyslexia_dysgraphy_correction",
+    "early_development_group",
+    "educational_license",
+    "extended_day_group",
+    "for_kids",
+    "foregn_language_children",
+    "gift_certificate",
+    "massage_services",
+    "maternity_capital_payment",
+    "neurologopedia",
+    "neuropsychologist",
+    "neuropsychology",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "ramp",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "speech_therapist",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "write_learning"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/krugozor/1135779010/",
+   "последний_отзыв": "2026-08-31",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 57
+  },
+  {
+   "id": "236496028374",
+   "название": "Айгер",
+   "seoname": "ayger",
+   "адрес": "ул. Дуси Ковальчук, 272/4",
+   "координаты": [
+    82.919985,
+    55.060447
+   ],
+   "рейтинг": 4.9,
+   "оценок": 66,
+   "отзывов": 34,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://aigercenter.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 009-97-98"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Центр развития ребёнка",
+    "логопеды",
+    "нейропсихолог"
+   ],
+   "признаки": [
+    "disable_photopoi",
+    "dyslexia_dysgraphy_correction",
+    "emotional_discharge_room",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "speech_therapist",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi",
+    "write_learning"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ayger/236496028374/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 52
+  },
+  {
+   "id": "4287692188",
+   "название": "Логопед-дефектолог, нейропсихолог Кузьменко С. В.",
+   "seoname": "logoped_defektolog_neyropsikholog_kuzmenko_s_v_",
+   "адрес": "ул. Зорге, 41, Затулинский жилмассив",
+   "координаты": [
+    82.9055,
+    54.935757
+   ],
+   "рейтинг": 5,
+   "оценок": 35,
+   "отзывов": 32,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://svetlanalp.ru/"
+   ],
+   "телефоны": [
+    "+7 (993) 011-64-80",
+    "+7 (933) 550-66-86",
+    "+7 (926) 291-11-39"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "дефектологи"
+   ],
+   "признаки": [
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logoped_defektolog_neyropsikholog_kuzmenko_s_v_/4287692188/",
+   "последний_отзыв": "2026-06-08",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 54
+  },
+  {
+   "id": "124144881149",
+   "название": "Томатис",
+   "seoname": "tomatis",
+   "адрес": "ул. Сакко и Ванцетти, 77",
+   "координаты": [
+    82.946555,
+    55.020864
+   ],
+   "рейтинг": 4.7,
+   "оценок": 43,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://tomatis-novosibirsk.ru/",
+    "https://tomatis-praktika.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 287-50-06"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "speech_therapist",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "write_learning"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tomatis/124144881149/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 46
+  },
+  {
+   "id": "37590057034",
+   "название": "Центр Томатис Результат",
+   "seoname": "tsentr_tomatis_rezultat",
+   "адрес": "просп. Карла Маркса, 47/1",
+   "координаты": [
+    82.908675,
+    54.991827
+   ],
+   "рейтинг": 4.9,
+   "оценок": 41,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://томатис-результат.рф/"
+   ],
+   "телефоны": [
+    "+7 (923) 703-80-50",
+    "+7 (383) 304-89-88",
+    "+7 (913) 065-09-85"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "aba_therapy",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_tomatis_rezultat/37590057034/",
+   "последний_отзыв": "2026-07-28",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 29
+  },
+  {
+   "id": "108237410861",
+   "название": "Нейродети",
+   "seoname": "neyrodeti",
+   "адрес": "Вокзальная магистраль, 6/1",
+   "координаты": [
+    82.904293,
+    55.033439
+   ],
+   "рейтинг": 4.7,
+   "оценок": 34,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://neuro-school.pro/"
+   ],
+   "телефоны": [
+    "+7 (923) 101-80-51"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "психологический центр",
+    "семейный психологический центр"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/neyrodeti/108237410861/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 42
+  },
+  {
+   "id": "227009469044",
+   "название": "Logo Пазл",
+   "seoname": "logo_pazl",
+   "адрес": "ул. Фрунзе, 63",
+   "координаты": [
+    82.953172,
+    55.040222
+   ],
+   "рейтинг": 4.9,
+   "оценок": 25,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://logo-pazl.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 892-96-09",
+    "+7 (383) 383-02-60"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "дефектологи",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "uni_medic_adult"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logo_pazl/227009469044/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 27
+  },
+  {
+   "id": "79493269279",
+   "название": "Логопед",
+   "seoname": "logoped",
+   "адрес": "ул. Адриена Лежена, 25, Новосибирск",
+   "координаты": [
+    82.982354,
+    55.042756
+   ],
+   "рейтинг": 4.9,
+   "оценок": 29,
+   "отзывов": 21,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 948-80-08"
+   ],
+   "часы": "пн-пт 09:00–20:30; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды"
+   ],
+   "признаки": [
+    "dyslexia_dysgraphy_correction",
+    "massage_services",
+    "neurologopedia",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logoped/79493269279/",
+   "последний_отзыв": "2026-06-11",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 25
+  },
+  {
+   "id": "195855485710",
+   "название": "Остров детства",
+   "seoname": "ostrov_detstva",
+   "адрес": "ул. Олеко Дундича, 1/3",
+   "координаты": [
+    82.957892,
+    55.071069
+   ],
+   "рейтинг": 4.8,
+   "оценок": 30,
+   "отзывов": 20,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ostrovdetstvansk.ru/"
+   ],
+   "телефоны": [
+    "+7 (994) 256-07-22",
+    "+7 (923) 171-89-29"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "клуб для детей и подростков",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "car_park",
+    "child_psychologist",
+    "dyslexia_dysgraphy_correction",
+    "early_development_group",
+    "foregn_language_children",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "preliminary_registration",
+    "ramp",
+    "speech_therapist",
+    "street_entrance",
+    "uni_medic_adult",
+    "wheelchair_accessability",
+    "write_learning"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ostrov_detstva/195855485710/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 21
+  },
+  {
+   "id": "201144649239",
+   "название": "Центр Томатис-Результат",
+   "seoname": "tsentr_tomatis_rezultat",
+   "адрес": "ул. Толстого, 5",
+   "координаты": [
+    82.942412,
+    55.021455
+   ],
+   "рейтинг": 4.6,
+   "оценок": 35,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://томатис-результат.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 304-89-88",
+    "+7 (923) 703-80-50",
+    "+7 (913) 065-09-85"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "aba_therapy",
+    "call_button",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_tomatis_rezultat/201144649239/",
+   "последний_отзыв": "2026-04-03",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 24
+  },
+  {
+   "id": "141213513713",
+   "название": "СемьяМед",
+   "seoname": "semyamed",
+   "адрес": "Новосибирск, Ленинский район, микрорайон Горский, 6",
+   "координаты": [
+    82.907781,
+    54.99455
+   ],
+   "рейтинг": 4.5,
+   "оценок": 44,
+   "отзывов": 19,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://family-med54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-11-44"
+   ],
+   "часы": "пн-пт 07:30–20:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "медицинская лаборатория",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "car_park",
+    "childrens_specialists",
+    "disable_captions",
+    "doubloons_loyalty_card",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "hospital_day_care",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "single_window",
+    "spermogram",
+    "street_entrance",
+    "tick_removal",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/semyamed/141213513713/",
+   "последний_отзыв": "2026-07-29",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 33
+  },
+  {
+   "id": "130047121188",
+   "название": "Центр Томатис Результат",
+   "seoname": "tsentr_tomatis_rezultat",
+   "адрес": "ул. Титова, 10/1",
+   "координаты": [
+    82.885427,
+    54.98346
+   ],
+   "рейтинг": 4.7,
+   "оценок": 37,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://томатис-результат.рф/"
+   ],
+   "телефоны": [
+    "+7 (923) 703-80-50",
+    "+7 (383) 304-89-88"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "психологический центр",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "aba_therapy",
+    "call_button",
+    "correction_of_autism",
+    "disable_captions",
+    "for_kids",
+    "gift_certificate",
+    "neuropsychologist",
+    "neuropsychology",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "ramp",
+    "reception_oms",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "uni_medic_adult",
+    "uni_medic_cmi",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_tomatis_rezultat/130047121188/",
+   "последний_отзыв": "2026-02-02",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 21
+  },
+  {
+   "id": "82568670007",
+   "название": "Центр логопедии и коррекции заикания Анны Шатохиной",
+   "seoname": "tsentr_logopedii_i_korrektsii_zaikaniya_anny_shatokhinoy",
+   "адрес": "ул. Шевченко, 31А",
+   "координаты": [
+    82.940663,
+    55.02329
+   ],
+   "рейтинг": 4.8,
+   "оценок": 18,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://центр-логопедии-и-коррекции-заикания.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 757-87-88"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "дефектологи",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "disable_captions",
+    "dyslexia_dysgraphy_correction",
+    "neurologopedia",
+    "neuropsychologist",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "speech_therapist",
+    "write_learning"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_logopedii_i_korrektsii_zaikaniya_anny_shatokhinoy/82568670007/",
+   "последний_отзыв": "2026-08-31",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 13
+  },
+  {
+   "id": "240550253100",
+   "название": "Разноцветные Цыплята",
+   "seoname": "raznotsvetnyye_tsyplyata",
+   "адрес": "ул. Державина, 73, Новосибирск",
+   "координаты": [
+    82.943437,
+    55.040944
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://color-chicks.ru/novosibirsk/derzhavina"
+   ],
+   "телефоны": [
+    "+7 (977) 089-10-69"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "дефектологи",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "uni_medic_adult"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/raznotsvetnyye_tsyplyata/240550253100/",
+   "последний_отзыв": "2025-11-19",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 18
+  },
+  {
+   "id": "207151131411",
+   "название": "Томатис 54",
+   "seoname": "tomatis_54",
+   "адрес": "ул. Гоголя, 42, Новосибирск",
+   "координаты": [
+    82.939115,
+    55.043612
+   ],
+   "рейтинг": 4.9,
+   "оценок": 28,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.tomatis54.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 006-06-54",
+    "+7 (383) 287-06-54"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "психологический центр",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "call_button",
+    "foregn_language_children",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tomatis_54/207151131411/",
+   "последний_отзыв": "2026-09-20",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 23
+  },
+  {
+   "id": "228218512961",
+   "название": "Logo пазл",
+   "seoname": "logo_pazl",
+   "адрес": "Красный просп., 167/3",
+   "координаты": [
+    82.906061,
+    55.062611
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://logo-pazl.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 892-90-89",
+    "+7 (383) 383-02-60"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды"
+   ],
+   "признаки": [
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/logo_pazl/228218512961/",
+   "последний_отзыв": "2026-04-07",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 13
+  },
+  {
+   "id": "136005628497",
+   "название": "Центр Томатис-Результат",
+   "seoname": "tsentr_tomatis_rezultat",
+   "адрес": "Красный просп., 81",
+   "координаты": [
+    82.914126,
+    55.050871
+   ],
+   "рейтинг": 4.6,
+   "оценок": 33,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://томатис-результат.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 304-89-88",
+    "+7 (923) 703-80-50",
+    "+7 (913) 065-09-85"
+   ],
+   "часы": "пн-сб 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_tomatis_rezultat/136005628497/",
+   "последний_отзыв": "2026-02-09",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 15
+  },
+  {
+   "id": "174709102071",
+   "название": "СуперРечь",
+   "seoname": "superrech",
+   "адрес": "Троллейная ул., 15",
+   "координаты": [
+    82.85869,
+    54.989668
+   ],
+   "рейтинг": 4.5,
+   "оценок": 9,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "dyslexia_dysgraphy_correction",
+    "massage_services",
+    "neurologopedia",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/superrech/174709102071/"
+  },
+  {
+   "id": "3453296323",
+   "название": "Речь",
+   "seoname": "rech",
+   "адрес": "ул. Мясниковой, 26",
+   "координаты": [
+    82.930607,
+    55.10836
+   ],
+   "рейтинг": 4.1,
+   "оценок": 13,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://taplink.cc/rech_logopedcentr"
+   ],
+   "телефоны": [
+    "+7 (913) 727-62-70"
+   ],
+   "часы": "пн-пт 08:00–19:00; сб,вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rech/3453296323/"
+  },
+  {
+   "id": "32057911110",
+   "название": "Диалог",
+   "seoname": "dialog",
+   "адрес": "Ленинский район, микрорайон Горский, 64",
+   "координаты": [
+    82.893999,
+    54.993255
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 011-77-53",
+    "+7 (923) 220-39-99"
+   ],
+   "часы": "пн-пт 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dialog/32057911110/"
+  },
+  {
+   "id": "36698156021",
+   "название": "Феникс",
+   "seoname": "feniks",
+   "адрес": "Нижегородская ул., 18",
+   "координаты": [
+    82.938268,
+    55.015739
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://phoenixovz.ru/",
+    "https://vk.link/phoenix_ovz"
+   ],
+   "телефоны": [
+    "+7 (913) 717-65-45"
+   ],
+   "часы": "пн-пт 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Центр развития ребёнка",
+    "логопеды",
+    "психологическое консультирование"
+   ],
+   "признаки": [
+    "emotional_discharge_room",
+    "extended_day_group",
+    "family_classes",
+    "for_kids",
+    "foregn_language_children",
+    "massage_services",
+    "montessori",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pedagogical_consulting",
+    "preliminary_registration",
+    "ramp",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "speech_therapist",
+    "street_entrance",
+    "transformational_games",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/feniks/36698156021/"
+  },
+  {
+   "id": "54552888610",
+   "название": "Центр коррекционной педагогики",
+   "seoname": "tsentr_korrektsionnoy_pedagogiki",
+   "адрес": "Серебренниковская ул., 2",
+   "координаты": [
+    82.92799,
+    55.017885
+   ],
+   "рейтинг": 4.2,
+   "оценок": 3,
+   "отзывов": 3,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ckp-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 002-72-26",
+    "+7 (383) 286-72-26"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Детский коррекционный центр",
+    "логопеды",
+    "дефектологи"
+   ],
+   "признаки": [
+    "call_button",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_korrektsionnoy_pedagogiki/54552888610/"
+  }
+ ],
+ "волны": [
+  "nsk2"
+ ]
+}

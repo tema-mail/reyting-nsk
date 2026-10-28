@@ -1,11 +1,14 @@
 {
- "ниша": "Психологические центры",
+ "ниша": "Психологи",
  "ключ": "zdorove/psikhologi",
  "запросы": [
-  "психологический центр"
+  "психолог",
+  "психотерапевт"
  ],
  "найдено_в_яндексе": {
-  "психологический центр": 43
+  "психологический центр": 43,
+  "психолог": 114,
+  "психотерапевт": 90
  },
  "дата_съёма": "2026-10-28",
  "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
@@ -127,7 +130,7 @@
    "реклама": false,
    "статус": "open",
    "карточка": "https://yandex.ru/maps/org/tsentr_psikhoterapii/52127220103/",
-   "последний_отзыв": "2026-09-22",
+   "последний_отзыв": "2026-09-03",
    "отзывов_за_12_мес_из_загруженных": 40,
    "загружено_дат": 69
   },
@@ -198,8 +201,8 @@
    "круглосуточно": false,
    "рубрики": [
     "Врач-психотерапевт",
-    "психологическая служба",
-    "психологическое консультирование"
+    "психологическое консультирование",
+    "психологическая служба"
    ],
    "признаки": [
     "business_psychology",
@@ -579,8 +582,8 @@
    "круглосуточно": false,
    "рубрики": [
     "Психологическое консультирование",
-    "психологическая служба",
-    "семейный психологический центр"
+    "семейный психологический центр",
+    "психологическая служба"
    ],
    "признаки": [
     "elevator_wheelchair_accessible",
@@ -740,6 +743,1274 @@
    "реклама": false,
    "статус": "open",
    "карточка": "https://yandex.ru/maps/org/nika/1095967824/"
+  },
+  {
+   "id": "214698729521",
+   "название": "Результат",
+   "seoname": "rezultat",
+   "адрес": "ул. Блюхера, 71/1",
+   "координаты": [
+    82.902246,
+    54.992177
+   ],
+   "рейтинг": 5,
+   "оценок": 319,
+   "отзывов": 271,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://novosibirsk.klinika-rezultat.ru/"
+   ],
+   "телефоны": [
+    "+7 (961) 225-35-15"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Общая наркология",
+    "медцентр, клиника",
+    "медицинская реабилитация"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "binge drinking at home",
+    "call_button",
+    "car_park",
+    "covid_test",
+    "doctor home visit",
+    "droppers",
+    "free drug treatment",
+    "guarantee",
+    "hospital_day_care",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "roszdrav_license",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rezultat/214698729521/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 68
+  },
+  {
+   "id": "37247362335",
+   "название": "Госпитализация",
+   "seoname": "gospitalizatsiya",
+   "адрес": "Учительская ул., 66, Новосибирск",
+   "координаты": [
+    82.954228,
+    55.091919
+   ],
+   "рейтинг": 4.9,
+   "оценок": 298,
+   "отзывов": 203,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://lch-med.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 210-52-74",
+    "+7 (383) 209-31-31"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Медицинская комиссия",
+    "перевозка больных",
+    "платная скорая медпомощь"
+   ],
+   "признаки": [
+    "call_button",
+    "driver_pre_trip_inspection",
+    "gift_certificate",
+    "narcolog_help",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "view_medicine_booking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gospitalizatsiya/37247362335/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 73
+  },
+  {
+   "id": "74512569619",
+   "название": "Свобода",
+   "seoname": "svoboda",
+   "адрес": "ул. Тимирязева, 71/2",
+   "координаты": [
+    82.88856,
+    55.056041
+   ],
+   "рейтинг": 5,
+   "оценок": 225,
+   "отзывов": 190,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.svoboda.clinic/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-75-53"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Медцентр, клиника",
+    "психиатрическая клиника",
+    "общая наркология"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "an_injection",
+    "anonymous_medical",
+    "car_park",
+    "covid_test",
+    "doctor home visit",
+    "droppers",
+    "guarantee",
+    "hospital_day_care",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svoboda/74512569619/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 73
+  },
+  {
+   "id": "27649838093",
+   "название": "Остеомед",
+   "seoname": "osteomed",
+   "адрес": "ул. Семьи Шамшиных, 64",
+   "координаты": [
+    82.930169,
+    55.042038
+   ],
+   "рейтинг": 4.7,
+   "оценок": 195,
+   "отзывов": 128,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://osteomed54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 390-24-10",
+    "+7 (913) 463-06-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "остеопатия, мануальная терапия",
+    "медицинская реабилитация"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "bike_parking",
+    "car_park",
+    "childrens_specialists",
+    "doctor home visit",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "good_place",
+    "guarantee",
+    "kinesio_taping",
+    "kinesis_training",
+    "massage_services",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "shock_wave_therapy",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/osteomed/27649838093/",
+   "последний_отзыв": "2026-09-07",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 86
+  },
+  {
+   "id": "83858152929",
+   "название": "Профмедика",
+   "seoname": "profmedika",
+   "адрес": "ул. Челюскинцев, 44/1",
+   "координаты": [
+    82.908814,
+    55.040116
+   ],
+   "рейтинг": 5,
+   "оценок": 106,
+   "отзывов": 102,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://profmedika54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 258-08-00",
+    "+7 (962) 838-08-00"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Общая наркология",
+    "врач-психотерапевт",
+    "медицинская помощь на дому"
+   ],
+   "признаки": [
+    "anonymous_medical",
+    "binge drinking at home",
+    "car_park",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "hospital_day_care",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/profmedika/83858152929/",
+   "последний_отзыв": "2026-07-18",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 58
+  },
+  {
+   "id": "239039244888",
+   "название": "Кругозор",
+   "seoname": "krugozor",
+   "адрес": "Линейная ул., 53, Новосибирск",
+   "координаты": [
+    82.92746,
+    55.052683
+   ],
+   "рейтинг": 5,
+   "оценок": 167,
+   "отзывов": 92,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://krugozor-nsk.ru/",
+    "https://krugozor-nsk.ru/onlayn-zapis-na-priem-k-vrachu"
+   ],
+   "телефоны": [
+    "+7 (383) 375-24-80",
+    "+7 (383) 375-54-94",
+    "+7 (923) 100-24-60"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "логопеды",
+    "нейропсихолог"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "integrative_medicine",
+    "kinesio_taping",
+    "kinesis_training",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "physical_therapy",
+    "prayer_room",
+    "preliminary_registration",
+    "preparation_for_school",
+    "preventive_checkup",
+    "ramp",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/krugozor/239039244888/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 74
+  },
+  {
+   "id": "136042796605",
+   "название": "Клиника Пасман",
+   "seoname": "klinika_pasman",
+   "адрес": "ул. Блюхера, 71/1, Новосибирск",
+   "координаты": [
+    82.901804,
+    54.992302
+   ],
+   "рейтинг": 4.5,
+   "оценок": 221,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.pasman-clinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-73-46"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "гинекологическая клиника",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "car_park",
+    "childrens_specialists",
+    "disable_photopoi",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "guarantee",
+    "in_vitro_fertilisation",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "single_window",
+    "spermogram",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_pasman/136042796605/",
+   "последний_отзыв": "2026-10-20",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 72
+  },
+  {
+   "id": "58315393511",
+   "название": "Спасение",
+   "seoname": "spaseniye",
+   "адрес": "ул. Станиславского, 3/1",
+   "координаты": [
+    82.871049,
+    54.990643
+   ],
+   "рейтинг": 5,
+   "оценок": 82,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://novosibirsk.spasenie.site/"
+   ],
+   "телефоны": [
+    "+7 (383) 390-22-59"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "психиатрическая клиника",
+    "общая наркология"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "an_injection",
+    "anonymous_medical",
+    "automatic_door",
+    "binge drinking at home",
+    "call_button",
+    "car_park",
+    "covid_test",
+    "doctor home visit",
+    "droppers",
+    "guarantee",
+    "hospital_day_care",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spaseniye/58315393511/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 31,
+   "загружено_дат": 70
+  },
+  {
+   "id": "147723813636",
+   "название": "Центр психотерапии и неврологии доктора Ермакова",
+   "seoname": "tsentr_psikhoterapii_i_nevrologii_doktora_yermakova",
+   "адрес": "ул. Орджоникидзе, 30",
+   "координаты": [
+    82.931263,
+    55.031738
+   ],
+   "рейтинг": 4.5,
+   "оценок": 107,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://doctorermakov.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 373-54-64",
+    "+7 (913) 929-06-40"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "врач-психотерапевт"
+   ],
+   "признаки": [
+    "child_psychologist",
+    "for_kids",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_psikhoterapii_i_nevrologii_doktora_yermakova/147723813636/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 77
+  },
+  {
+   "id": "136812408199",
+   "название": "Забота и Спасение",
+   "seoname": "zabota_i_spaseniye",
+   "адрес": "ул. Станиславского, 3/1",
+   "координаты": [
+    82.871027,
+    54.990712
+   ],
+   "рейтинг": 5,
+   "оценок": 76,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://novosibirsk-psy.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-98-63"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Психиатрическая клиника",
+    "психиатр",
+    "врач-психотерапевт"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zabota_i_spaseniye/136812408199/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 39
+  },
+  {
+   "id": "201702191743",
+   "название": "Анима",
+   "seoname": "anima",
+   "адрес": "ул. Кирова, 27/3",
+   "координаты": [
+    82.945375,
+    55.019131
+   ],
+   "рейтинг": 4.7,
+   "оценок": 106,
+   "отзывов": 63,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://anima-clinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-63-33"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Семейный психологический центр",
+    "психологическое консультирование",
+    "психиатрическая клиника"
+   ],
+   "признаки": [
+    "for_kids",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "pedagogical_consulting",
+    "preliminary_registration",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/anima/201702191743/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 44
+  },
+  {
+   "id": "70365229859",
+   "название": "Асанна",
+   "seoname": "asanna",
+   "адрес": "ул. Галущака, 2А, Новосибирск",
+   "координаты": [
+    82.901498,
+    55.051123
+   ],
+   "рейтинг": 5,
+   "оценок": 101,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://asannaspa.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 905-27-58",
+    "+7 (383) 209-10-80"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "психологическое консультирование",
+    "спа-салон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "Spa_for_two",
+    "baby_massage",
+    "call_button",
+    "car_park",
+    "cedar_barrel",
+    "disable_photopoi",
+    "emotional_discharge_room",
+    "gift_certificate",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/asanna/70365229859/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 65
+  },
+  {
+   "id": "124896678086",
+   "название": "Анима",
+   "seoname": "anima",
+   "адрес": "ул. Семьи Шамшиных, 30",
+   "координаты": [
+    82.933245,
+    55.032319
+   ],
+   "рейтинг": 4.7,
+   "оценок": 71,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://anima-clinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-63-33"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Врач-психотерапевт",
+    "психологическое консультирование",
+    "семейный психологический центр"
+   ],
+   "признаки": [
+    "child_psychologist",
+    "for_kids",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "pedagogical_consulting",
+    "preliminary_registration",
+    "roszdrav_license",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/anima/124896678086/",
+   "последний_отзыв": "2026-10-20",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 48
+  },
+  {
+   "id": "42042455746",
+   "название": "Забота Сибири",
+   "seoname": "zabota_sibiri",
+   "адрес": "Гурьевская ул., 45/1",
+   "координаты": [
+    82.947319,
+    55.011818
+   ],
+   "рейтинг": 4.9,
+   "оценок": 76,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://zabota-sibiri.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-07-93"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Медцентр, клиника",
+    "общая наркология"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "bike_parking",
+    "binge drinking at home",
+    "car_park",
+    "covid_test",
+    "doctor home visit",
+    "droppers",
+    "gift_certificate",
+    "hospital_day_care",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "roszdrav_license",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tick_removal",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zabota_sibiri/42042455746/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 73
+  },
+  {
+   "id": "124144881149",
+   "название": "Томатис",
+   "seoname": "tomatis",
+   "адрес": "ул. Сакко и Ванцетти, 77",
+   "координаты": [
+    82.946555,
+    55.020864
+   ],
+   "рейтинг": 4.7,
+   "оценок": 43,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://tomatis-novosibirsk.ru/",
+    "https://tomatis-praktika.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 287-50-06"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб,вс 09:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "центр развития ребёнка"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "massage_services",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "speech_therapist",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "write_learning"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tomatis/124144881149/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 46
+  },
+  {
+   "id": "166857479979",
+   "название": "Наш Врач",
+   "seoname": "nash_vrach",
+   "адрес": "ул. Бородина, 58",
+   "координаты": [
+    82.877212,
+    54.936491
+   ],
+   "рейтинг": 5,
+   "оценок": 49,
+   "отзывов": 29,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://без-запоя.рф/"
+   ],
+   "телефоны": [
+    "+7 (938) 543-35-16",
+    "+7 (952) 934-28-70"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Общая наркология",
+    "врач-психотерапевт",
+    "медицинская помощь на дому"
+   ],
+   "признаки": [
+    "anonymous_medical",
+    "binge drinking at home",
+    "call_button",
+    "car_park",
+    "free drug treatment",
+    "hospital_day_care",
+    "massage_services",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "round_the_clock_inpatient",
+    "street_entrance",
+    "uni_medic_adult"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nash_vrach/166857479979/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 46
+  },
+  {
+   "id": "37590057034",
+   "название": "Центр Томатис Результат",
+   "seoname": "tsentr_tomatis_rezultat",
+   "адрес": "просп. Карла Маркса, 47/1",
+   "координаты": [
+    82.908675,
+    54.991827
+   ],
+   "рейтинг": 4.9,
+   "оценок": 41,
+   "отзывов": 26,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://томатис-результат.рф/"
+   ],
+   "телефоны": [
+    "+7 (923) 703-80-50",
+    "+7 (383) 304-89-88",
+    "+7 (913) 065-09-85"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "aba_therapy",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_tomatis_rezultat/37590057034/",
+   "последний_отзыв": "2026-07-28",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 29
+  },
+  {
+   "id": "201144649239",
+   "название": "Центр Томатис-Результат",
+   "seoname": "tsentr_tomatis_rezultat",
+   "адрес": "ул. Толстого, 5",
+   "координаты": [
+    82.942412,
+    55.021455
+   ],
+   "рейтинг": 4.6,
+   "оценок": 35,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://томатис-результат.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 304-89-88",
+    "+7 (923) 703-80-50",
+    "+7 (913) 065-09-85"
+   ],
+   "часы": "ежедневно, 08:30–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Логопеды",
+    "нейропсихолог",
+    "детский коррекционный центр"
+   ],
+   "признаки": [
+    "aba_therapy",
+    "call_button",
+    "correction_of_autism",
+    "dyslexia_dysgraphy_correction",
+    "gift_certificate",
+    "neurologopedia",
+    "neuropsychologist",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation_for_school",
+    "sensory_integration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_tomatis_rezultat/201144649239/",
+   "последний_отзыв": "2026-04-03",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 24
+  },
+  {
+   "id": "69225927106",
+   "название": "Центр психотерапии и неврологии доктора Ермакова",
+   "seoname": "tsentr_psikhoterapii_i_nevrologii_doktora_yermakova",
+   "адрес": "Коммунистическая ул., 50, Новосибирск",
+   "координаты": [
+    82.924207,
+    55.023548
+   ],
+   "рейтинг": 4.6,
+   "оценок": 26,
+   "отзывов": 19,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://doctorermakov.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 373-54-64",
+    "+7 (913) 929-06-40"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "психологическое консультирование",
+    "психологическая служба"
+   ],
+   "признаки": [
+    "anonymous_medical",
+    "business_psychology",
+    "child_psychologist",
+    "childrens_specialists",
+    "covid_test",
+    "doctor home visit",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "gift_certificate",
+    "home_visit",
+    "neuropsychology",
+    "online_consultations",
+    "payment_by_credit_card",
+    "pedagogical_consulting",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "transformational_games",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_psikhoterapii_i_nevrologii_doktora_yermakova/69225927106/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 29
+  },
+  {
+   "id": "207566196351",
+   "название": "Психолог Ольга Ярощук",
+   "seoname": "psikholog_olga_yaroshchuk",
+   "адрес": "просп. Карла Маркса, 2",
+   "координаты": [
+    82.897118,
+    54.983225
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://olga-yaroschuk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 386-70-87"
+   ],
+   "часы": "пн-сб 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Психологическое консультирование",
+    "психологический центр",
+    "семейный психологический центр"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/psikholog_olga_yaroshchuk/207566196351/",
+   "последний_отзыв": "2026-07-12",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 11
+  },
+  {
+   "id": "220366325769",
+   "название": "Спасение",
+   "seoname": "spaseniye",
+   "адрес": "ул. Тимирязева, 71/2",
+   "координаты": [
+    82.888549,
+    55.056053
+   ],
+   "рейтинг": 4.5,
+   "оценок": 9,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://novosibirsk-psy.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-77-14"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Психиатрическая клиника",
+    "психологический центр",
+    "врач-психотерапевт"
+   ],
+   "признаки": [
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spaseniye/220366325769/"
+  },
+  {
+   "id": "1888417989",
+   "название": "Ваше решение",
+   "seoname": "vashe_resheniye",
+   "адрес": "ул. Тургенева, 261",
+   "координаты": [
+    82.971308,
+    55.011907
+   ],
+   "рейтинг": 4.4,
+   "оценок": 11,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://reshenie-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 916-98-76",
+    "+7 (383) 292-98-76"
+   ],
+   "часы": "ежедневно, 08:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Врач-психотерапевт",
+    "психологическая служба"
+   ],
+   "признаки": [
+    "uni_medic_adult"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vashe_resheniye/1888417989/"
+  },
+  {
+   "id": "12725561282",
+   "название": "Психолог Березин И. К.",
+   "seoname": "psikholog_berezin_i_k_",
+   "адрес": "ул. Крылова, 36",
+   "координаты": [
+    82.930276,
+    55.040974
+   ],
+   "рейтинг": 4.3,
+   "оценок": 8,
+   "отзывов": 4,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 005-70-29"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Врач-психотерапевт",
+    "психологическое консультирование",
+    "психологический центр",
+    "психологическая служба"
+   ],
+   "признаки": [],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/psikholog_berezin_i_k_/12725561282/"
+  },
+  {
+   "id": "241457830743",
+   "название": "Феникс",
+   "seoname": "feniks",
+   "адрес": "ул. Богдана Хмельницкого, 20/1",
+   "координаты": [
+    82.944513,
+    55.069901
+   ],
+   "рейтинг": 4,
+   "оценок": 6,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 213-30-94"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Психологическая служба",
+    "врач-психотерапевт",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "disable_captions",
+    "disable_photopoi",
+    "for_kids",
+    "gift_certificate",
+    "integrative_medicine",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/feniks/241457830743/"
+  },
+  {
+   "id": "163247439027",
+   "название": "Психологика",
+   "seoname": "psikhologika",
+   "адрес": "Коммунистическая ул., 48А",
+   "координаты": [
+    82.923888,
+    55.02297
+   ],
+   "рейтинг": 4.2,
+   "оценок": 5,
+   "отзывов": 1,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://chernikovapsy.com/"
+   ],
+   "телефоны": [
+    "+7 (923) 130-80-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Психологическое консультирование",
+    "психологический центр",
+    "психологическая служба"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "preliminary_registration",
+    "transformational_games",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/psikhologika/163247439027/"
   }
+ ],
+ "волны": [
+  "nsk",
+  "nsk2"
  ]
 }

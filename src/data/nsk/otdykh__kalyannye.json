@@ -1,0 +1,1286 @@
+{
+ "ниша": "Кальянные",
+ "ключ": "otdykh/kalyannye",
+ "запросы": [
+  "кальянная"
+ ],
+ "найдено_в_яндексе": {
+  "кальянная": 45
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "163907793753",
+   "название": "Nebar",
+   "seoname": "nebar",
+   "адрес": "Ядринцевская ул., 14",
+   "координаты": [
+    82.921211,
+    55.032825
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1969,
+   "отзывов": 1007,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.nebar.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-41-57"
+   ],
+   "часы": "пн-чт 21:00–06:00; пт,сб 21:00–09:00; вс 21:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ночной клуб",
+    "кальян-бар",
+    "бар"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "dancefloor",
+    "disable_captions",
+    "dress_code",
+    "face_control",
+    "good_place",
+    "has_restaurant",
+    "karaoke",
+    "payment_by_credit_card",
+    "show_program",
+    "sports_broadcasts",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nebar/163907793753/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 77
+  },
+  {
+   "id": "79499248626",
+   "название": "Абдула, поджигай!",
+   "seoname": "abdula_podzhigay_",
+   "адрес": "ул. Максима Горького, 87",
+   "координаты": [
+    82.928692,
+    55.028213
+   ],
+   "рейтинг": 5,
+   "оценок": 976,
+   "отзывов": 386,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 287-94-87"
+   ],
+   "часы": "пн-пт 13:00–03:00; сб 14:00–04:00; вс 14:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "adults only",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "gift_certificate",
+    "good_place",
+    "kondicioner",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abdula_podzhigay_/79499248626/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 83
+  },
+  {
+   "id": "14937001896",
+   "название": "Елка lounge на крыше",
+   "seoname": "yelka_lounge_na_kryshe",
+   "адрес": "Красный просп., 182/1, Новосибирск",
+   "координаты": [
+    82.913712,
+    55.057172
+   ],
+   "рейтинг": 5,
+   "оценок": 914,
+   "отзывов": 342,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 880-00-80"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–04:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан"
+   ],
+   "признаки": [
+    "car_park",
+    "coffee_to_go",
+    "craft_beer",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "projector",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yelka_lounge_na_kryshe/14937001896/",
+   "последний_отзыв": "2026-07-19",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 94
+  },
+  {
+   "id": "41041768206",
+   "название": "Мята Lounge",
+   "seoname": "myata_lounge",
+   "адрес": "ул. Кирова, 29/1",
+   "координаты": [
+    82.947747,
+    55.016368
+   ],
+   "рейтинг": 5,
+   "оценок": 482,
+   "отзывов": 317,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://taplink.cc/myatagpntb",
+    "https://api.whatsapp.com/send/?app_absent=0&phone=79231197326&text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%0A%0A%D0%9F%D0%B8%D1%88%D1%83+%D0%B8%D0%B7+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F+2%D0%93%D0%98%D0%A1.%0A%0A&type=phone_number"
+   ],
+   "телефоны": [
+    "+7 (923) 119-73-26"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–04:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "business_lunch",
+    "call_button",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "hookah_rental",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/myata_lounge/41041768206/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 76
+  },
+  {
+   "id": "146198522176",
+   "название": "Digital Clan",
+   "seoname": "digital_clan",
+   "адрес": "ул. Бориса Богаткова, 213",
+   "координаты": [
+    82.972022,
+    55.039114
+   ],
+   "рейтинг": 5,
+   "оценок": 448,
+   "отзывов": 252,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://digitalclan.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 471-51-94"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Компьютерный клуб",
+    "кальян-бар"
+   ],
+   "признаки": [
+    "bike_parking",
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/digital_clan/146198522176/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 69
+  },
+  {
+   "id": "57072595609",
+   "название": "Craft Lounge",
+   "seoname": "craft_lounge",
+   "адрес": "Ядринцевская ул., 16А",
+   "координаты": [
+    82.922634,
+    55.032931
+   ],
+   "рейтинг": 4.8,
+   "оценок": 640,
+   "отзывов": 203,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://brooks-nsk.ru/ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 239-22-29",
+    "+7 (383) 239-66-69",
+    "+7 (383) 202-15-59"
+   ],
+   "часы": "ежедневно, 10:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "магазин табака и курительных принадлежностей",
+    "кафе"
+   ],
+   "признаки": [
+    "food_delivery",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/craft_lounge/57072595609/",
+   "последний_отзыв": "2026-09-15",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 58
+  },
+  {
+   "id": "47585882710",
+   "название": "Фабрика",
+   "seoname": "fabrika",
+   "адрес": "Советская ул., 33",
+   "координаты": [
+    82.916418,
+    55.029085
+   ],
+   "рейтинг": 4.7,
+   "оценок": 434,
+   "отзывов": 196,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 255-08-05"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Кальян-бар",
+    "бар"
+   ],
+   "признаки": [
+    "breakfast",
+    "business_lunch",
+    "call_button",
+    "coffee_to_go",
+    "food_delivery",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "table_games",
+    "takeaway",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fabrika/47585882710/",
+   "последний_отзыв": "2026-10-20",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 64
+  },
+  {
+   "id": "216448710795",
+   "название": "Мята Lounge",
+   "seoname": "myata_lounge",
+   "адрес": "ул. Ленина, 1",
+   "координаты": [
+    82.918733,
+    55.029728
+   ],
+   "рейтинг": 4.6,
+   "оценок": 320,
+   "отзывов": 147,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://111615.restoplace.ws/"
+   ],
+   "телефоны": [
+    "+7 (913) 989-67-78"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–03:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adults only",
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/myata_lounge/216448710795/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 64
+  },
+  {
+   "id": "235742109047",
+   "название": "Rave by Buster",
+   "seoname": "rave_by_buster",
+   "адрес": "Железнодорожная ул., 22, Железнодорожный район",
+   "координаты": [
+    82.910438,
+    55.047763
+   ],
+   "рейтинг": 5,
+   "оценок": 166,
+   "отзывов": 147,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ravebybuster.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 000-03-22"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Компьютерный клуб",
+    "кальян-бар",
+    "киберспорт"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "good_place",
+    "online_games",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rave_by_buster/235742109047/",
+   "последний_отзыв": "2026-09-06",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 66
+  },
+  {
+   "id": "64458175568",
+   "название": "Shape",
+   "seoname": "shape",
+   "адрес": "ул. Ленина, 3",
+   "координаты": [
+    82.917446,
+    55.029629
+   ],
+   "рейтинг": 4.8,
+   "оценок": 252,
+   "отзывов": 140,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shapensk.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 950-27-46"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–03:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "магазин табака и курительных принадлежностей",
+    "кафе"
+   ],
+   "признаки": [
+    "adults only",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "delivery",
+    "dimmed_lights",
+    "electroniccigarette",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "hookah_rental",
+    "hqd",
+    "kalyan",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pod_systems",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "traffic_congestion_charge",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shape/64458175568/",
+   "последний_отзыв": "2026-09-12",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 74
+  },
+  {
+   "id": "216315706511",
+   "название": "Абдула, Поджигай!",
+   "seoname": "abdula_podzhigay_",
+   "адрес": "Комсомольский просп., 24",
+   "координаты": [
+    82.907679,
+    55.031632
+   ],
+   "рейтинг": 4.8,
+   "оценок": 454,
+   "отзывов": 140,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 286-06-86"
+   ],
+   "часы": "ежедневно, 14:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adults only",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "gift_certificate",
+    "good_place",
+    "kondicioner",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "traffic_congestion_charge",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abdula_podzhigay_/216315706511/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 71
+  },
+  {
+   "id": "185889293512",
+   "название": "Grek Lounge",
+   "seoname": "grek_lounge",
+   "адрес": "ул. Гоголя, 51",
+   "координаты": [
+    82.942548,
+    55.044711
+   ],
+   "рейтинг": 4.7,
+   "оценок": 214,
+   "отзывов": 120,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 903-50-49"
+   ],
+   "часы": "пн-чт 15:00–02:00; пт,сб 15:00–03:00; вс 15:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "business_lunch",
+    "call_button",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grek_lounge/185889293512/",
+   "последний_отзыв": "2026-09-18",
+   "отзывов_за_12_мес_из_загруженных": 38,
+   "загружено_дат": 66
+  },
+  {
+   "id": "128472401574",
+   "название": "Tangiers Lounge",
+   "seoname": "tangiers_lounge",
+   "адрес": "Военная ул., 1",
+   "координаты": [
+    82.935692,
+    55.030194
+   ],
+   "рейтинг": 4.7,
+   "оценок": 292,
+   "отзывов": 107,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://tangierslounge.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 381-48-14",
+    "+7 (993) 010-00-22"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–04:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан",
+    "кафе"
+   ],
+   "признаки": [
+    "food_delivery",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tangiers_lounge/128472401574/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 84
+  },
+  {
+   "id": "87342006078",
+   "название": "Totem",
+   "seoname": "totem",
+   "адрес": "ул. Романова, 28",
+   "координаты": [
+    82.917338,
+    55.034381
+   ],
+   "рейтинг": 4.9,
+   "оценок": 265,
+   "отзывов": 105,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://totemlounge.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 959-88-88"
+   ],
+   "часы": "пн-чт 10:00–02:00; пт 10:00–04:00; сб 12:00–04:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/totem/87342006078/",
+   "последний_отзыв": "2026-07-14",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 46
+  },
+  {
+   "id": "54399449241",
+   "название": "League Smoke",
+   "seoname": "league_smoke",
+   "адрес": "Новосибирск, микрорайон Горский, 53",
+   "координаты": [
+    82.900092,
+    54.993331
+   ],
+   "рейтинг": 5,
+   "оценок": 228,
+   "отзывов": 102,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 796-49-22"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "adults only",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "hookah_rental",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/league_smoke/54399449241/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 46
+  },
+  {
+   "id": "221198900900",
+   "название": "Hypreme",
+   "seoname": "hypreme",
+   "адрес": "Красный просп., 22",
+   "координаты": [
+    82.922793,
+    55.02309
+   ],
+   "рейтинг": 4.8,
+   "оценок": 234,
+   "отзывов": 95,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ezha.online/r/hypreme"
+   ],
+   "телефоны": [
+    "+7 (965) 822-00-22"
+   ],
+   "часы": "пн-чт 15:00–02:00; пт,сб 15:00–04:00; вс 15:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "кафе",
+    "бар"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "disable_captions",
+    "disable_photopoi",
+    "good_place",
+    "hookah_rental",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hypreme/221198900900/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 83
+  },
+  {
+   "id": "44080572908",
+   "название": "Bad Habits",
+   "seoname": "bad_habits",
+   "адрес": "Октябрьская ул., 42",
+   "координаты": [
+    82.920833,
+    55.02453
+   ],
+   "рейтинг": 4.9,
+   "оценок": 207,
+   "отзывов": 87,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://badhabitslounge.ru/oktyabrskaya",
+    "https://badhabitslounge.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-78-80"
+   ],
+   "часы": "пн-чт 10:00–03:00; пт 10:00–04:00; сб 12:00–04:00; вс 12:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "кафе",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adults only",
+    "breakfast",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bad_habits/44080572908/",
+   "последний_отзыв": "2026-04-29",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 50
+  },
+  {
+   "id": "126976104555",
+   "название": "Nuovo neolounge",
+   "seoname": "nuovo_neolounge",
+   "адрес": "Военная ул., 1",
+   "координаты": [
+    82.935432,
+    55.030046
+   ],
+   "рейтинг": 4.9,
+   "оценок": 178,
+   "отзывов": 75,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 320-66-99"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–03:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "bike_parking",
+    "business_lunch",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "sports_broadcasts",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nuovo_neolounge/126976104555/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 72
+  },
+  {
+   "id": "88722603407",
+   "название": "Vdoohe",
+   "seoname": "vdoohe",
+   "адрес": "ул. Некрасова, 39",
+   "координаты": [
+    82.924697,
+    55.046027
+   ],
+   "рейтинг": 5,
+   "оценок": 101,
+   "отзывов": 73,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://vdoohe.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 945-02-87"
+   ],
+   "часы": "пн-чт 12:00–01:00; пт 12:00–03:00; сб 13:00–03:00; вс 13:00–01:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "breakfast",
+    "business_lunch",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "dancefloor",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vdoohe/88722603407/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 59
+  },
+  {
+   "id": "1669053177",
+   "название": "HookahPlace",
+   "seoname": "hookahplace",
+   "адрес": "Ядринцевская ул., 18",
+   "координаты": [
+    82.924949,
+    55.033145
+   ],
+   "рейтинг": 4.9,
+   "оценок": 218,
+   "отзывов": 72,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (929) 385-05-05"
+   ],
+   "часы": "ежедневно, 15:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "adults only",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "good_place",
+    "hookah_rental",
+    "kondicioner",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "table_games",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hookahplace/1669053177/",
+   "последний_отзыв": "2026-09-01",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 61
+  },
+  {
+   "id": "19114419063",
+   "название": "Депо",
+   "seoname": "depo",
+   "адрес": "ул. Мичурина, 12, Новосибирск",
+   "координаты": [
+    82.923784,
+    55.041751
+   ],
+   "рейтинг": 4.9,
+   "оценок": 82,
+   "отзывов": 62,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 733-13-42"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "магазин табака и курительных принадлежностей",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "breakfast",
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dimmed_lights",
+    "food_court1",
+    "gift_certificate",
+    "good_place",
+    "kalyan",
+    "karaoke",
+    "menu for children",
+    "nursery",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/depo/19114419063/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 66
+  },
+  {
+   "id": "100568749183",
+   "название": "Art Lounge",
+   "seoname": "art_lounge",
+   "адрес": "Красный просп., 29/1",
+   "координаты": [
+    82.919454,
+    55.031837
+   ],
+   "рейтинг": 4.7,
+   "оценок": 150,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://artlounge-nsk.online/",
+    "https://registration.lo.cards/?hash=DBDSRw2T5dvr2MJs"
+   ],
+   "телефоны": [
+    "+7 (923) 141-11-14"
+   ],
+   "часы": "пн-чт 12:00–02:00; пт,сб 12:00–04:00; вс 12:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "coffee_to_go",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "table_games",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/art_lounge/100568749183/",
+   "последний_отзыв": "2026-09-03",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 58
+  },
+  {
+   "id": "154341154501",
+   "название": "Garage",
+   "seoname": "garage",
+   "адрес": "Советская ул., 23",
+   "координаты": [
+    82.916767,
+    55.026494
+   ],
+   "рейтинг": 4.9,
+   "оценок": 99,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://garage-1673793542.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (953) 895-26-99"
+   ],
+   "часы": "пн-чт 14:00–02:00; пт,сб 14:00–04:00; вс 14:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар"
+   ],
+   "признаки": [
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/garage/154341154501/",
+   "последний_отзыв": "2026-06-05",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 83
+  },
+  {
+   "id": "1648230707",
+   "название": "Loft Crown",
+   "seoname": "loft_crown",
+   "адрес": "Вокзальная магистраль, 18",
+   "координаты": [
+    82.915107,
+    55.030958
+   ],
+   "рейтинг": 4.8,
+   "оценок": 151,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://loft-crown.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-03-93",
+    "+7 (983) 510-03-93"
+   ],
+   "часы": "пн-чт 12:00–01:00; пт,сб 12:00–03:00; вс 12:00–01:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "кафе"
+   ],
+   "признаки": [
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "hookah_rental",
+    "payment_by_credit_card",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/loft_crown/1648230707/",
+   "последний_отзыв": "2025-09-29",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 48
+  },
+  {
+   "id": "29788730309",
+   "название": "DaBro",
+   "seoname": "dabro",
+   "адрес": "Красный просп., 33, Новосибирск",
+   "координаты": [
+    82.919188,
+    55.032962
+   ],
+   "рейтинг": 4.8,
+   "оценок": 112,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dabroparty.ru/"
+   ],
+   "телефоны": [
+    "+7 (999) 305-33-63",
+    "+7 (913) 372-06-88"
+   ],
+   "часы": "пн-чт 15:00–02:00; пт,сб 16:00–06:00; вс 16:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dimmed_lights",
+    "gift_certificate",
+    "good_place",
+    "hookah_rental",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dabro/29788730309/",
+   "последний_отзыв": "2026-03-30",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 55
+  }
+ ],
+ "волны": [
+  "nsk2"
+ ]
+}

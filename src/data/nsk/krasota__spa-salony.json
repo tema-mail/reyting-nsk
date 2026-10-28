@@ -1,0 +1,1256 @@
+{
+ "ниша": "СПА-салоны",
+ "ключ": "krasota/spa-salony",
+ "запросы": [
+  "спа салон"
+ ],
+ "найдено_в_яндексе": {
+  "спа салон": 45
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "109184187750",
+   "название": "Мира СПА",
+   "seoname": "mira_spa",
+   "адрес": "Окружная ул., 33",
+   "координаты": [
+    82.93883,
+    55.081609
+   ],
+   "рейтинг": 5,
+   "оценок": 1726,
+   "отзывов": 633,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://miraspa.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 363-21-30",
+    "+7 (383) 363-38-27"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "call_button",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mira_spa/109184187750/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 71
+  },
+  {
+   "id": "1604584640",
+   "название": "Гринвуд СПА",
+   "seoname": "grinvud_spa",
+   "адрес": "Дачное ш., 2/4",
+   "координаты": [
+    82.810362,
+    55.069098
+   ],
+   "рейтинг": 5,
+   "оценок": 1299,
+   "отзывов": 440,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://spa-greenwood.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-03-00",
+    "+7 (913) 985-51-32"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Термальный комплекс",
+    "спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "cafe",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "hydro_massage_pool",
+    "jacuzzi",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "pool",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/grinvud_spa/1604584640/",
+   "последний_отзыв": "2026-07-22",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 70
+  },
+  {
+   "id": "44218749441",
+   "название": "Алтайская Здравница",
+   "seoname": "altayskaya_zdravnitsa",
+   "адрес": "ул. Кирова, 159А, Новосибирск",
+   "координаты": [
+    82.959062,
+    55.010757
+   ],
+   "рейтинг": 5,
+   "оценок": 644,
+   "отзывов": 411,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://altayspa.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 299-44-04",
+    "+7 (913) 917-44-04"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "car_park",
+    "cedar_barrel",
+    "emotional_discharge_room",
+    "for_women_only",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/altayskaya_zdravnitsa/44218749441/",
+   "последний_отзыв": "2026-09-19",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 77
+  },
+  {
+   "id": "141047404438",
+   "название": "СПА Контраст",
+   "seoname": "spa_kontrast",
+   "адрес": "Восточная ул., 29, рабочий посёлок Краснообск",
+   "координаты": [
+    82.997438,
+    54.925489
+   ],
+   "рейтинг": 5,
+   "оценок": 919,
+   "отзывов": 362,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://spa-kontrast.ru/"
+   ],
+   "телефоны": [
+    "+7 (968) 222-50-94",
+    "+7 (383) 209-03-58"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "сауна",
+    "оздоровительный центр"
+   ],
+   "признаки": [
+    "car_park",
+    "cedar_barrel",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "hydro_massage_pool",
+    "mens spa",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pool",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/spa_kontrast/141047404438/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 85
+  },
+  {
+   "id": "8446678807",
+   "название": "Мнёшь Трёшь",
+   "seoname": "mnyosh_tryosh",
+   "адрес": "Пролетарская ул., 54",
+   "координаты": [
+    82.957031,
+    55.024838
+   ],
+   "рейтинг": 5,
+   "оценок": 451,
+   "отзывов": 319,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mneshtresh.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 104-10-72"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mnyosh_tryosh/8446678807/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 87
+  },
+  {
+   "id": "217138855318",
+   "название": "Минус стресс",
+   "seoname": "minus_stress",
+   "адрес": "ул. Ленина, 12",
+   "координаты": [
+    82.913477,
+    55.029722
+   ],
+   "рейтинг": 5,
+   "оценок": 327,
+   "отзывов": 294,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://no-stress-ulitsa-lenina.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 305-98-95"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон",
+    "косметология"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "Spa_for_two",
+    "car_park",
+    "cosmetology for men",
+    "elevator_wheelchair_accessible",
+    "emotional_discharge_room",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/minus_stress/217138855318/",
+   "последний_отзыв": "2026-03-16",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 61
+  },
+  {
+   "id": "1557212328",
+   "название": "Royal Thai",
+   "seoname": "royal_thai",
+   "адрес": "ул. Ленина, 9, Новосибирск",
+   "координаты": [
+    82.913367,
+    55.029238
+   ],
+   "рейтинг": 5,
+   "оценок": 322,
+   "отзывов": 189,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 312-03-83"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "cedar_barrel",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/royal_thai/1557212328/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 63
+  },
+  {
+   "id": "47236510675",
+   "название": "Атмосфера здоровья",
+   "seoname": "atmosfera_zdorovya",
+   "адрес": "ул. Толстого, 5",
+   "координаты": [
+    82.941759,
+    55.021403
+   ],
+   "рейтинг": 5,
+   "оценок": 195,
+   "отзывов": 162,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://atmosfera-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 763-15-15"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон",
+    "оздоровительный центр"
+   ],
+   "признаки": [
+    "baby_massage",
+    "cedar_barrel",
+    "gift_certificate",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atmosfera_zdorovya/47236510675/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 79
+  },
+  {
+   "id": "100291509887",
+   "название": "Sfera",
+   "seoname": "sfera",
+   "адрес": "ул. Романова, 23, Новосибирск",
+   "координаты": [
+    82.916547,
+    55.034604
+   ],
+   "рейтинг": 5,
+   "оценок": 185,
+   "отзывов": 135,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.sfera-float.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 205-18-15"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "флоатинг",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "spa_bachelorette",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sfera/100291509887/",
+   "последний_отзыв": "2026-08-20",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 92
+  },
+  {
+   "id": "13942173182",
+   "название": "Бали",
+   "seoname": "bali",
+   "адрес": "Большевистская ул., 94",
+   "координаты": [
+    82.976753,
+    54.991037
+   ],
+   "рейтинг": 5,
+   "оценок": 152,
+   "отзывов": 126,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://taplink.cc/balimassagensk"
+   ],
+   "телефоны": [
+    "+7 (923) 315-00-66"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "Spa_for_two",
+    "call_button",
+    "cedar_barrel",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bali/13942173182/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 76
+  },
+  {
+   "id": "33484746613",
+   "название": "727 Relax&Spa",
+   "seoname": "727_relax_spa",
+   "адрес": "Инская ул., 39, Новосибирск",
+   "координаты": [
+    82.931166,
+    55.012402
+   ],
+   "рейтинг": 5,
+   "оценок": 165,
+   "отзывов": 111,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://727relax.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-54-59",
+    "+7 (383) 316-29-19"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон",
+    "солярий"
+   ],
+   "признаки": [
+    "car_park",
+    "emotional_discharge_room",
+    "gift_certificate",
+    "massage_services",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/727_relax_spa/33484746613/",
+   "последний_отзыв": "2026-08-07",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1034013663",
+   "название": "Лотос-спа",
+   "seoname": "lotos_spa",
+   "адрес": "ул. Галущака, 2",
+   "координаты": [
+    82.900858,
+    55.051038
+   ],
+   "рейтинг": 5,
+   "оценок": 213,
+   "отзывов": 107,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (961) 227-53-83"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lotos_spa/1034013663/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 72
+  },
+  {
+   "id": "176701546142",
+   "название": "Royal Thai",
+   "seoname": "royal_thai",
+   "адрес": "Новосибирск, Ленинский район, микрорайон Горский, 1",
+   "координаты": [
+    82.909957,
+    54.993747
+   ],
+   "рейтинг": 5,
+   "оценок": 132,
+   "отзывов": 96,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 312-03-83"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "cedar_barrel",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/royal_thai/176701546142/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 64
+  },
+  {
+   "id": "1074435613",
+   "название": "Оазис-спа",
+   "seoname": "oazis_spa",
+   "адрес": "Советская ул., 19",
+   "координаты": [
+    82.916663,
+    55.025188
+   ],
+   "рейтинг": 5,
+   "оценок": 220,
+   "отзывов": 92,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://oasis-spa.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-95-09",
+    "+7 (383) 230-49-84"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон",
+    "оздоровительный центр"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oazis_spa/1074435613/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1076162558",
+   "название": "Сочи",
+   "seoname": "sochi",
+   "адрес": "площадь Карла Маркса, 3",
+   "координаты": [
+    82.890161,
+    54.983317
+   ],
+   "рейтинг": 5,
+   "оценок": 139,
+   "отзывов": 87,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://new.nsk-sochi.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 482-67-32"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон",
+    "косметология"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "car_park",
+    "cedar_barrel",
+    "cosmetology for men",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "hammam",
+    "massage_services",
+    "mens spa",
+    "payment_by_credit_card",
+    "piercing",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sochi/1076162558/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 90
+  },
+  {
+   "id": "108934725550",
+   "название": "Стелла",
+   "seoname": "stella",
+   "адрес": "Ядринцевская ул., 71",
+   "координаты": [
+    82.93521,
+    55.034736
+   ],
+   "рейтинг": 5,
+   "оценок": 150,
+   "отзывов": 63,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://stellansk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 464-02-61",
+    "+7 (383) 209-07-48"
+   ],
+   "часы": "пн-сб 08:00–20:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон",
+    "оздоровительный центр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "disable_captions",
+    "for_women_only",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "massage_services",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stella/108934725550/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 83
+  },
+  {
+   "id": "226511601219",
+   "название": "Massage Me",
+   "seoname": "massage_me",
+   "адрес": "ул. Михаила Перевозчикова, 4",
+   "координаты": [
+    82.908824,
+    55.06068
+   ],
+   "рейтинг": 5,
+   "оценок": 64,
+   "отзывов": 55,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://massageme-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 107-89-08",
+    "+7 (923) 114-96-92",
+    "+7 (923) 000-05-46"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/massage_me/226511601219/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 60,
+   "загружено_дат": 66
+  },
+  {
+   "id": "221429258321",
+   "название": "Royal Thai",
+   "seoname": "royal_thai",
+   "адрес": "ул. Гоголя, 42, Новосибирск",
+   "координаты": [
+    82.939116,
+    55.043802
+   ],
+   "рейтинг": 4.9,
+   "оценок": 63,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 312-03-83"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "massage_services",
+    "mens spa",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/royal_thai/221429258321/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 66
+  },
+  {
+   "id": "168776724475",
+   "название": "Алтайская Здравница",
+   "seoname": "altayskaya_zdravnitsa",
+   "адрес": "ул. Семьи Шамшиных, 66",
+   "координаты": [
+    82.929765,
+    55.042755
+   ],
+   "рейтинг": 5,
+   "оценок": 90,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://altayspa.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 917-44-04",
+    "+7 (383) 299-44-04"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон"
+   ],
+   "признаки": [
+    "car_park",
+    "cedar_barrel",
+    "disable_captions",
+    "emotional_discharge_room",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/altayskaya_zdravnitsa/168776724475/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 84
+  },
+  {
+   "id": "240949157808",
+   "название": "Оттай",
+   "seoname": "ottay",
+   "адрес": "ул. Орджоникидзе, 47",
+   "координаты": [
+    82.934771,
+    55.032468
+   ],
+   "рейтинг": 5,
+   "оценок": 62,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ot-tai.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 209-55-09",
+    "+7 (383) 209-92-09"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон"
+   ],
+   "признаки": [
+    "car_park",
+    "cedar_barrel",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ottay/240949157808/",
+   "последний_отзыв": "2026-08-10",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 72
+  },
+  {
+   "id": "32051962787",
+   "название": "Аваджи",
+   "seoname": "avadzhi",
+   "адрес": "ул. Максима Горького, 79",
+   "координаты": [
+    82.926854,
+    55.027884
+   ],
+   "рейтинг": 4.9,
+   "оценок": 44,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.awaji-spa.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 980-94-95"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "cedar_barrel",
+    "disable_photopoi",
+    "gift_certificate",
+    "hammam",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avadzhi/32051962787/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 54
+  },
+  {
+   "id": "237352781437",
+   "название": "Сибирика СПА",
+   "seoname": "sibirika_spa",
+   "адрес": "ул. Дмитрия Шамшурина, 2, Новосибирск",
+   "координаты": [
+    82.904683,
+    55.029392
+   ],
+   "рейтинг": 4.9,
+   "оценок": 54,
+   "отзывов": 37,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sibirikaspa.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 510-80-70"
+   ],
+   "часы": "ежедневно, 12:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "баня",
+    "массажный салон"
+   ],
+   "признаки": [
+    "antler_baths",
+    "automatic_door",
+    "baby_massage",
+    "car_park",
+    "cedar_barrel",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "hydro_massage_pool",
+    "massage_services",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pool",
+    "public_bath",
+    "ramp",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibirika_spa/237352781437/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 52
+  },
+  {
+   "id": "63113570318",
+   "название": "Твойтай",
+   "seoname": "tvoytay",
+   "адрес": "ул. Крылова, 63",
+   "координаты": [
+    82.937074,
+    55.04251
+   ],
+   "рейтинг": 4.9,
+   "оценок": 47,
+   "отзывов": 32,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.tvoitaispa.ru/",
+    "http://tvoitaispa.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 382-82-52"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "cedar_barrel",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tvoytay/63113570318/",
+   "последний_отзыв": "2026-05-04",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 36
+  },
+  {
+   "id": "227997184635",
+   "название": "Оазис-спа",
+   "seoname": "oazis_spa",
+   "адрес": "ул. Орджоникидзе, 31",
+   "координаты": [
+    82.923783,
+    55.03149
+   ],
+   "рейтинг": 4.7,
+   "оценок": 57,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.oasis-spa.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-49-84"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Спа-салон",
+    "массажный салон",
+    "оздоровительный центр"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "automatic_door",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "hydro_massage_pool",
+    "massage_services",
+    "mens spa",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pool",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "spa_bachelorette",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oazis_spa/227997184635/",
+   "последний_отзыв": "2026-07-21",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 50
+  },
+  {
+   "id": "230383659977",
+   "название": "Самуи СПА",
+   "seoname": "samui_spa",
+   "адрес": "Линейная ул., 114, корп. 2",
+   "координаты": [
+    82.921025,
+    55.051318
+   ],
+   "рейтинг": 4.6,
+   "оценок": 38,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.spa-samui.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 375-42-43",
+    "+7 (923) 775-42-43"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "спа-салон"
+   ],
+   "признаки": [
+    "Spa_for_two",
+    "baby_massage",
+    "car_park",
+    "gift_certificate",
+    "massage_services",
+    "mens spa",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "spa_bachelorette",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/samui_spa/230383659977/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 30
+  }
+ ],
+ "волны": [
+  "nsk2"
+ ]
+}

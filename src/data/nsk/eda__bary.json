@@ -1,0 +1,1247 @@
+{
+ "ниша": "Бары",
+ "ключ": "eda/bary",
+ "запросы": [
+  "бар"
+ ],
+ "найдено_в_яндексе": {
+  "бар": 54
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1126715545",
+   "название": "Schulz",
+   "seoname": "schulz",
+   "адрес": "Советская ул., 20",
+   "координаты": [
+    82.916125,
+    55.031993
+   ],
+   "рейтинг": 5,
+   "оценок": 3114,
+   "отзывов": 1220,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://schulz-bar.vsite.biz/"
+   ],
+   "телефоны": [
+    "+7 (383) 210-39-07",
+    "+7 (913) 466-03-09"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт 12:00–02:00; сб 14:00–02:00; вс 14:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан"
+   ],
+   "признаки": [
+    "food_delivery",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/schulz/1126715545/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 47
+  },
+  {
+   "id": "203445775134",
+   "название": "John Gregor Old Pub",
+   "seoname": "john_gregor_old_pub",
+   "адрес": "ул. Ленина, 8",
+   "координаты": [
+    82.915107,
+    55.029698
+   ],
+   "рейтинг": 5,
+   "оценок": 1752,
+   "отзывов": 674,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://taplink.cc/jg_old_pub_nsk"
+   ],
+   "телефоны": [
+    "+7 (962) 827-98-70",
+    "+7 (383) 222-51-06",
+    "+7 (923) 000-04-01"
+   ],
+   "часы": "пн,вт 12:00–00:00; ср,чт 12:00–01:00; пт 12:00–02:00; сб 14:00–02:00; вс 14:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар"
+   ],
+   "признаки": [
+    "coffee_to_go",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/john_gregor_old_pub/203445775134/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 50
+  },
+  {
+   "id": "232190936268",
+   "название": "Типография",
+   "seoname": "tipografiya",
+   "адрес": "Коммунистическая ул., 48А",
+   "координаты": [
+    82.923362,
+    55.022913
+   ],
+   "рейтинг": 4.8,
+   "оценок": 2248,
+   "отзывов": 661,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ruinpub.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 779-00-73"
+   ],
+   "часы": "ср,чт 17:00–02:00; пт,сб 17:00–05:00; вс 17:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "booking_by_alice",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "cigar_zone",
+    "coffee_to_go",
+    "craft_beer",
+    "dancefloor",
+    "dimmed_lights",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "sports_broadcasts",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tipografiya/232190936268/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 56
+  },
+  {
+   "id": "1045127156",
+   "название": "Отдых",
+   "seoname": "otdykh",
+   "адрес": "ул. Гоголя, 15, Новосибирск",
+   "координаты": [
+    82.923948,
+    55.043218
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2132,
+   "отзывов": 657,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://клуб-отдых.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 276-35-00",
+    "+7 (383) 276-34-80"
+   ],
+   "часы": "пн-чт 10:00–19:00; пт 10:00–06:00; сб 22:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "adults only",
+    "booking_by_alice",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dancefloor",
+    "dimmed_lights",
+    "dress_code",
+    "face_control",
+    "gift_certificate",
+    "good_place",
+    "has_restaurant",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "show_program",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/otdykh/1045127156/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 74
+  },
+  {
+   "id": "151243811941",
+   "название": "Кабанчик",
+   "seoname": "kabanchik",
+   "адрес": "ул. Восход, 32",
+   "координаты": [
+    82.9455,
+    55.015325
+   ],
+   "рейтинг": 5,
+   "оценок": 1288,
+   "отзывов": 624,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 310-52-12"
+   ],
+   "часы": "пн-чт 12:00–23:00; пт,сб 12:00–00:00; вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан",
+    "кафе"
+   ],
+   "признаки": [
+    "bike_parking",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dimmed_lights",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kabanchik/151243811941/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 50
+  },
+  {
+   "id": "108730857537",
+   "название": "Schulz",
+   "seoname": "schulz",
+   "адрес": "Красный просп., 47",
+   "координаты": [
+    82.917612,
+    55.036234
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1591,
+   "отзывов": 609,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 222-19-99",
+    "+7 (983) 309-89-17"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт 12:00–02:00; сб 14:00–02:00; вс 14:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан",
+    "кафе"
+   ],
+   "признаки": [
+    "business_lunch",
+    "payment_by_credit_card",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/schulz/108730857537/",
+   "последний_отзыв": "2026-10-01",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 47
+  },
+  {
+   "id": "168112963537",
+   "название": "The Chops",
+   "seoname": "the_chops",
+   "адрес": "ул. Щетинкина, 36",
+   "координаты": [
+    82.912473,
+    55.027263
+   ],
+   "рейтинг": 5,
+   "оценок": 1405,
+   "отзывов": 579,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://friendsorchestra.ru/thechops"
+   ],
+   "телефоны": [
+    "+7 (383) 230-15-24"
+   ],
+   "часы": "пн-пт 17:00–01:00; сб,вс 12:00–01:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан",
+    "кафе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "breakfast",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/the_chops/168112963537/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 92
+  },
+  {
+   "id": "169723866157",
+   "название": "The Rooks",
+   "seoname": "the_rooks",
+   "адрес": "Коммунистическая ул., 45",
+   "координаты": [
+    82.923505,
+    55.023989
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1638,
+   "отзывов": 362,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (923) 733-25-72",
+    "+7 (383) 214-74-73"
+   ],
+   "часы": "пн-чт 17:00–02:00; пт,сб 17:00–04:00; вс 17:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "магазин пива",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "craft_beer",
+    "payment_by_credit_card",
+    "projector",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/the_rooks/169723866157/",
+   "последний_отзыв": "2026-06-30",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 50
+  },
+  {
+   "id": "54778484690",
+   "название": "Britney",
+   "seoname": "britney",
+   "адрес": "просп. Димитрова, 1",
+   "координаты": [
+    82.908652,
+    55.031071
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1281,
+   "отзывов": 326,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sabyget.ru/shop/eltonbar"
+   ],
+   "телефоны": [
+    "+7 (966) 505-05-07"
+   ],
+   "часы": "пн-чт 22:00–05:00; пт,сб 22:00–07:00; вс 22:00–05:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dancefloor",
+    "food_delivery",
+    "gift_certificate",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/britney/54778484690/",
+   "последний_отзыв": "2026-09-18",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 72
+  },
+  {
+   "id": "148951474717",
+   "название": "Амстердам",
+   "seoname": "amsterdam",
+   "адрес": "Красный просп., 17",
+   "координаты": [
+    82.92083,
+    55.0267
+   ],
+   "рейтинг": 4.6,
+   "оценок": 857,
+   "отзывов": 290,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://pubamsterdam.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 303-44-53",
+    "+7 (913) 917-97-55"
+   ],
+   "часы": "пн-чт 16:00–02:00; пт,сб 16:00–03:00; вс 16:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "паб",
+    "кафе"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "dimmed_lights",
+    "food_delivery",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/amsterdam/148951474717/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 59
+  },
+  {
+   "id": "1387592292",
+   "название": "Йохохо",
+   "seoname": "yokhokho",
+   "адрес": "ул. Фрунзе, 5",
+   "координаты": [
+    82.917391,
+    55.036655
+   ],
+   "рейтинг": 4.7,
+   "оценок": 661,
+   "отзывов": 254,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://yohbar.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 368-70-38"
+   ],
+   "часы": "пн-чт 16:00–00:00; пт,сб 15:00–02:00; вс 15:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "магазин пива",
+    "спортбар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "craft_beer",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "projector",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yokhokho/1387592292/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 58
+  },
+  {
+   "id": "85009102432",
+   "название": "Fry",
+   "seoname": "fry",
+   "адрес": "ул. Ленина, 6, корп. 1",
+   "координаты": [
+    82.917307,
+    55.030186
+   ],
+   "рейтинг": 4.8,
+   "оценок": 838,
+   "отзывов": 229,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (923) 252-75-51"
+   ],
+   "часы": "пн-чт 14:00–02:00; пт,сб 14:00–04:00; вс 14:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "кафе",
+    "быстрое питание"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "disable_photopoi",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fry/85009102432/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 54
+  },
+  {
+   "id": "119903268520",
+   "название": "Federico Fellini",
+   "seoname": "federico_fellini",
+   "адрес": "ул. Романова, 27",
+   "координаты": [
+    82.918107,
+    55.034693
+   ],
+   "рейтинг": 4.5,
+   "оценок": 510,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fellini.rest/"
+   ],
+   "телефоны": [
+    "+7 (913) 916-23-23"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dancefloor",
+    "dimmed_lights",
+    "food_delivery",
+    "gift_certificate",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/federico_fellini/119903268520/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 57
+  },
+  {
+   "id": "16944010592",
+   "название": "Энималс",
+   "seoname": "enimals",
+   "адрес": "Красный просп., 17",
+   "координаты": [
+    82.920763,
+    55.026628
+   ],
+   "рейтинг": 4.7,
+   "оценок": 301,
+   "отзывов": 178,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (999) 301-99-31"
+   ],
+   "часы": "пн-чт 20:00–04:00; пт,сб 20:00–08:00; вс 20:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "рюмочная",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "adults only",
+    "bike_parking",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dancefloor",
+    "dimmed_lights",
+    "dress_code",
+    "face_control",
+    "gift_certificate",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "traffic_congestion_charge",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/enimals/16944010592/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 64,
+   "загружено_дат": 72
+  },
+  {
+   "id": "15086901582",
+   "название": "Джоусспот",
+   "seoname": "dzhousspot",
+   "адрес": "ул. Максима Горького, 54",
+   "координаты": [
+    82.919022,
+    55.026916
+   ],
+   "рейтинг": 4.7,
+   "оценок": 491,
+   "отзывов": 169,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 258-60-09"
+   ],
+   "часы": "пн-чт 15:00–01:00; пт,сб 15:00–03:00; вс 15:00–01:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "магазин пива"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "dimmed_lights",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "projector",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhousspot/15086901582/",
+   "последний_отзыв": "2026-06-06",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 51
+  },
+  {
+   "id": "115357095907",
+   "название": "Улицы",
+   "seoname": "ulitsy",
+   "адрес": "ул. Ленина, 12/2",
+   "координаты": [
+    82.912967,
+    55.029579
+   ],
+   "рейтинг": 5,
+   "оценок": 228,
+   "отзывов": 148,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://taplink.cc/streets_bar_nsk"
+   ],
+   "телефоны": [
+    "+7 (913) 017-88-25"
+   ],
+   "часы": "пн-чт 16:00–02:00; пт,сб 16:00–04:00; вс 16:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "рюмочная",
+    "кафе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ulitsy/115357095907/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 48
+  },
+  {
+   "id": "155817032140",
+   "название": "Естествознание",
+   "seoname": "yestestvoznaniye",
+   "адрес": "Вокзальная магистраль, 1, Новосибирск",
+   "координаты": [
+    82.901033,
+    55.035187
+   ],
+   "рейтинг": 4.8,
+   "оценок": 202,
+   "отзывов": 93,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://russtriptease.com/novosibirsk/estestvoznanie/"
+   ],
+   "телефоны": [
+    "8 (800) 500-65-05"
+   ],
+   "часы": "ежедневно, 22:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "стриптиз-клуб",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "good_place",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "strip",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yestestvoznaniye/155817032140/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 89
+  },
+  {
+   "id": "202917850578",
+   "название": "Ёмкость24",
+   "seoname": "yomkost24",
+   "адрес": "Большевистская ул., 12",
+   "координаты": [
+    82.936276,
+    55.007908
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 73,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ёмкостьнск.рф/"
+   ],
+   "телефоны": [
+    "+7 (996) 380-07-54"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Алкогольные напитки",
+    "бар",
+    "магазин пива"
+   ],
+   "признаки": [
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "dancefloor",
+    "dimmed_lights",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "sports_broadcasts",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yomkost24/202917850578/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 57
+  },
+  {
+   "id": "19114419063",
+   "название": "Депо",
+   "seoname": "depo",
+   "адрес": "ул. Мичурина, 12, Новосибирск",
+   "координаты": [
+    82.923784,
+    55.041751
+   ],
+   "рейтинг": 4.9,
+   "оценок": 82,
+   "отзывов": 62,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 733-13-42"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кальян-бар",
+    "бар",
+    "магазин табака и курительных принадлежностей"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "breakfast",
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dimmed_lights",
+    "food_court1",
+    "gift_certificate",
+    "good_place",
+    "kalyan",
+    "karaoke",
+    "menu for children",
+    "nursery",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/depo/19114419063/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 66
+  },
+  {
+   "id": "117066823398",
+   "название": "Ёмкость24",
+   "seoname": "yomkost24",
+   "адрес": "просп. Карла Маркса, 5",
+   "координаты": [
+    82.897729,
+    54.984414
+   ],
+   "рейтинг": 5,
+   "оценок": 68,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ёмкостьнск.рф/"
+   ],
+   "телефоны": [
+    "+7 (905) 937-65-11"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Магазин пива",
+    "бар",
+    "алкогольные напитки"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dancefloor",
+    "delivery",
+    "dimmed_lights",
+    "food_delivery",
+    "gift_certificate",
+    "karaoke",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "vinotheque",
+    "wine_tasting"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yomkost24/117066823398/",
+   "последний_отзыв": "2026-09-07",
+   "отзывов_за_12_мес_из_загруженных": 33,
+   "загружено_дат": 75
+  },
+  {
+   "id": "41387684535",
+   "название": "Ёмкость 24",
+   "seoname": "yomkost_24",
+   "адрес": "просп. Карла Маркса, 37/2",
+   "координаты": [
+    82.904743,
+    54.989344
+   ],
+   "рейтинг": 4.2,
+   "оценок": 151,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://ёмкостьнск.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 011-56-38"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Магазин пива",
+    "бар",
+    "алкогольные напитки"
+   ],
+   "признаки": [
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dimmed_lights",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yomkost_24/41387684535/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 62
+  },
+  {
+   "id": "1191081430",
+   "название": "Чарли",
+   "seoname": "charli",
+   "адрес": "ул. Ленина, 21/1к2",
+   "координаты": [
+    82.905255,
+    55.028603
+   ],
+   "рейтинг": 4.6,
+   "оценок": 122,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://charlie-strip.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 775-01-11",
+    "+7 (383) 358-01-11"
+   ],
+   "часы": "ежедневно, 21:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стриптиз-клуб",
+    "бар",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "car_park",
+    "chillout",
+    "dancefloor",
+    "dress_code",
+    "face_control",
+    "payment_by_credit_card",
+    "show_program",
+    "street_entrance",
+    "strip",
+    "vip_zone",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/charli/1191081430/",
+   "последний_отзыв": "2025-11-12",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 36
+  },
+  {
+   "id": "237030043292",
+   "название": "ПоСтоГрамм",
+   "seoname": "postogramm",
+   "адрес": "Красный просп., 22",
+   "координаты": [
+    82.92306,
+    55.023038
+   ],
+   "рейтинг": 4.6,
+   "оценок": 14,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://постограмм.рф/"
+   ],
+   "телефоны": [
+    "+7 (993) 001-00-33"
+   ],
+   "часы": "чт 17:00–02:00; пт,сб 17:00–04:00; вс 17:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Рюмочная",
+    "бар",
+    "кафе"
+   ],
+   "признаки": [
+    "adults only",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "dancefloor",
+    "dimmed_lights",
+    "kondicioner",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/postogramm/237030043292/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 18
+  },
+  {
+   "id": "104979641850",
+   "название": "The бар",
+   "seoname": "the_bar",
+   "адрес": "ул. Мичурина, 12",
+   "координаты": [
+    82.923628,
+    55.041934
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://main-the-bar.ru/"
+   ],
+   "телефоны": [
+    "+7 (963) 949-87-73",
+    "+7 (963) 949-98-73"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар"
+   ],
+   "признаки": [],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/the_bar/104979641850/"
+  }
+ ],
+ "волны": [
+  "nsk2"
+ ]
+}

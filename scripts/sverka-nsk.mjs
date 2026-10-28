@@ -33,25 +33,27 @@ for (const t of texts.values()) { if (intros.has(t.intro)) errs.push(`${t.key}: 
 let published = 0, rowsTotal = 0;
 const report = [];
 for (const [key, cfg] of Object.entries(NISHI)) {
-  if (!texts.has(key)) errs.push(`${key}: нет текстов`);
   const raw = JSON.parse(readFileSync(new URL(`src/data/nsk/${key.replace('/', '__')}.json`, ROOT), 'utf8'));
   const srez = raw['дата_съёма'];
   if (raw.ключ && raw.ключ !== key) errs.push(`${key}: в файле ключ ${raw.ключ}`);
   const res = computeYa(raw, cfg.rule, srez);
   if (!res.published) { report.push(`${key}: НЕ ОПУБЛИКОВАН, прошли ${res.rows.length}`); continue; }
+  if (!texts.has(key)) errs.push(`${key}: нет текстов`);
   published++; rowsTotal += res.rows.length;
 
   // Независимый пересчёт
   const alt = res.rows.map((r) => {
+    // Главная точка сети – своя реализация: максимум оценок, затем отзывов, затем меньший id
     const pts = r.points;
-    const w = pts.reduce((s, p) => s + p.оценок, 0);
-    const rating = pts.reduce((s, p) => s + p.рейтинг * p.оценок, 0) / w;
-    const reviews = pts.reduce((s, p) => s + p.отзывов, 0);
-    const last = pts.map((p) => p.последний_отзыв).filter(Boolean).sort().pop();
-    const n12 = pts.reduce((s, p) => s + (p.отзывов_за_12_мес_из_загруженных || 0), 0);
-    const any = (f) => pts.some(f);
+    let m = pts[0];
+    for (const p of pts) if (p.оценок > m.оценок || (p.оценок === m.оценок && (p.отзывов > m.отзывов || (p.отзывов === m.отзывов && String(p.id) < String(m.id))))) m = p;
+    const rating = m.рейтинг;
+    const reviews = m.отзывов;
+    const last = m.последний_отзыв;
+    const n12 = m.отзывов_за_12_мес_из_загруженных || 0;
     const fresh = last ? 0.5 * Math.max(0, 1 - Math.round((Date.parse(srez) - Date.parse(last)) / DAY) / 365) + 0.5 * Math.min(1, n12 / 12) : 0;
-    const open = 0.25 * [any((p) => p.сайты?.length), any((p) => p.часы || p.круглосуточно), any((p) => p.владелец_подтвердил), any((p) => p.хорошее_место)].filter(Boolean).length;
+    const open = 0.25 * [m.сайты?.length, m.часы || m.круглосуточно, m.владелец_подтвердил, m.хорошее_место].filter(Boolean).length;
+    if (new Set(res.rows.flatMap((x) => x.points.map((p) => p.id))).size !== res.rows.reduce((s2, x) => s2 + x.points.length, 0)) errs.push(`${key}: точка в двух строках`);
     if (rating < OTBOR.minRating) errs.push(`${key}: ${r.name} оценка ${rating} < 4,0`);
     if (reviews < OTBOR.minReviews) errs.push(`${key}: ${r.name} отзывов ${reviews} < 10`);
     if (pts.some((p) => /closed/.test(p.статус))) errs.push(`${key}: ${r.name} закрыт`);
@@ -70,7 +72,8 @@ for (const [key, cfg] of Object.entries(NISHI)) {
   });
   report.push(`${key}: ${res.rows.length} из ${raw.компании.length}, №1 ${res.rows[0].name} ${res.rows[0].calc.ballRound}`);
 }
-for (const k of texts.keys()) if (!NISHI[k]) errs.push(`тексты: лишний ключ ${k}`);
+const spare = [...texts.keys()].filter((k) => !NISHI[k]);
+if (spare.length) console.log(`Тексты без ниши в конфиге (ждут данных): ${spare.length}`);
 
 console.log(report.join('\n'));
 console.log(`\nОпубликовано ниш: ${published} из ${Object.keys(NISHI).length}, строк рейтинга: ${rowsTotal}`);

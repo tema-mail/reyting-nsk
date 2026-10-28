@@ -3,7 +3,8 @@
 //   норм. – min-max внутри опубликованного списка ниши (лучший = 1, худший = 0);
 //   свежесть = 0,5·max(0; 1 − дней с последнего отзыва/365) + 0,5·min(1; отзывов за 12 мес./12); нет даты – 0 и пометка;
 //   открытость = 0,25·сайт + 0,25·часы + 0,25·владелец подтвердил + 0,25·«Хорошее место».
-// Отбор: правило рубрик ниши (nishi.mjs), статус не «закрыто», оценка ≥ 4,0, отзывов ≥ 10. Сеть (одно название) = одна строка.
+// Отбор: правило рубрик ниши (nishi.mjs), статус не «закрыто», оценка ≥ 4,0, отзывов ≥ 10. Сеть (одно название) = одна строка,
+// все показатели – главной точки сети (больше всего оценок), остальные филиалы только перечисляются.
 import { OTBOR, ALIASES } from './nishi.mjs';
 
 export const W = { rating: 0.35, reviews: 0.35, fresh: 0.15, open: 0.15 };
@@ -18,7 +19,8 @@ export function rejectPoint(p, rule) {
   if (/closed/.test(p.статус || '')) return 'закрыто';
   const rub = (p.рубрики || []).map(norm);
   const need = rule.need.map(norm);
-  const ok = rule.where === 'first' ? need.includes(rub[0]) : rub.some((r) => need.includes(r));
+  const alt = rule.alsoFirst && rule.alsoFirst.first.map(norm).includes(rub[0]) && rule.alsoFirst.has.map(norm).some((h) => rub.includes(h));
+  const ok = alt || (rule.where === 'first' ? need.includes(rub[0]) : rub.some((r) => need.includes(r)));
   if (!ok) return 'рубрика';
   if ((rule.ban || []).map(norm).some((b) => rub.includes(b))) return 'рубрика-исключение';
   if (rule.banName && new RegExp(rule.banName, 'i').test(norm(p.название))) return 'название';
@@ -27,26 +29,26 @@ export function rejectPoint(p, rule) {
   return null;
 }
 
-/** Склеивает филиалы одной сети (одинаковое название) в строку рейтинга. */
+/** Главная точка сети: больше всего оценок, при равенстве – больше отзывов, затем меньший id. */
+export const mainPoint = (points) => [...points].sort((a, b) => (b.оценок || 0) - (a.оценок || 0) || (b.отзывов || 0) - (a.отзывов || 0) || String(a.id).localeCompare(String(b.id)))[0];
+
+/** Сеть (одинаковое название) = одна строка; баллы – по главной точке (решение владельца 28.10.2026), остальные филиалы – списком. */
 export function mergeChain(points) {
-  const main = [...points].sort((a, b) => b.отзывов - a.отзывов)[0];
-  const w = points.reduce((s, p) => s + (p.оценок || 0), 0);
-  const rating = w ? points.reduce((s, p) => s + p.рейтинг * (p.оценок || 0), 0) / w : main.рейтинг;
-  const dates = points.map((p) => p.последний_отзыв).filter(Boolean).sort();
+  const main = mainPoint(points);
   return {
     name: main.название.trim(),
     main,
-    points,
-    rating,
-    ratings: points.reduce((s, p) => s + (p.оценок || 0), 0),
-    reviews: points.reduce((s, p) => s + (p.отзывов || 0), 0),
-    last: dates.length ? dates[dates.length - 1] : null,
-    n12: points.reduce((s, p) => s + (p.отзывов_за_12_мес_из_загруженных || 0), 0),
-    site: points.some((p) => (p.сайты || []).length > 0),
-    hours: points.some((p) => !!p.часы || p.круглосуточно),
-    owner: points.some((p) => p.владелец_подтвердил),
-    good: points.some((p) => p.хорошее_место),
-    h24: points.some((p) => p.круглосуточно),
+    points: [main, ...points.filter((p) => p !== main)],
+    rating: main.рейтинг,
+    ratings: main.оценок || 0,
+    reviews: main.отзывов || 0,
+    last: main.последний_отзыв || null,
+    n12: main.отзывов_за_12_мес_из_загруженных || 0,
+    site: (main.сайты || []).length > 0,
+    hours: !!main.часы || !!main.круглосуточно,
+    owner: !!main.владелец_подтвердил,
+    good: !!main.хорошее_место,
+    h24: !!main.круглосуточно,
   };
 }
 

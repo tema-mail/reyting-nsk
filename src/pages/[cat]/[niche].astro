@@ -1,0 +1,155 @@
+---
+// Рейтинг новой ниши /<категория>/<ниша>/ – общий шаблон. Цифры – из съёма Яндекс Карт и формулы (formula-ya.mjs), тексты – src/data/teksty.
+// Доставка цветов живёт на своей странице prazdniki/dostavka-tsvetov/ (статический маршрут важнее этого).
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import Faq from '../../components/Faq.astro';
+import Filtr from '../../components/Filtr.astro';
+import { NICHES, SUMMARIES, type Niche, type Row } from '../../lib/reytingi';
+import { kratko, nominations, hoursCell, otz, r1, units } from '../../lib/reyting-text';
+import { RAYONY, ZA_GORODOM } from '../../lib/rayon.mjs';
+import { u, abs } from '../../lib/url';
+import { dec, date, int, plural } from '../../lib/fmt';
+import { PUBLISHED_ISO } from '../../lib/site';
+import { org, orgId, crumbs, graph } from '../../lib/ld';
+import { W } from '../../lib/formula-ya.mjs';
+
+export function getStaticPaths() {
+  return NICHES.map((n) => ({ params: { cat: n.cat.slug, niche: n.slug }, props: { n } }));
+}
+const { n } = Astro.props as { n: Niche };
+const site = Astro.site;
+const t = n.text;
+const SREZ = date(n.srezIso);
+const nf = { rel: 'nofollow noopener', target: '_blank' };
+const flags = (r: Row) => [r.h24 && 'h24', r.rating >= 4.8 && 'r48', r.reviews >= 300 && 'o300', r.good && 'good', r.site && 'site'].filter(Boolean).join(' ');
+const present = new Set(n.rows.flatMap((r) => r.rayony));
+const rayony = [...RAYONY.filter((x) => present.has(x)), ...(present.has(ZA_GORODOM) ? [ZA_GORODOM] : [])];
+const noms = nominations(n);
+const neighbours = SUMMARIES.filter((s) => s.cat === n.cat.slug && s.key !== n.key);
+const noDates = n.rows.filter((r) => r.calc.noDate).length;
+const total = n.rows.reduce((s, r) => s + r.reviews, 0);
+const pts = n.rows.reduce((s, r) => s + r.points.length, 0);
+const pct = (x: number) => Math.round(x * 100) + '%';
+const cardLink = (r: Row) => (r.slug ? u(`/kompanii/${r.slug}/`) : null);
+
+const pageUrl = abs(n.path, site);
+const ld = graph(
+  org(site),
+  { '@type': 'CollectionPage', '@id': pageUrl + '#page', url: pageUrl, name: t.h1, inLanguage: 'ru', datePublished: PUBLISHED_ISO, dateModified: n.srezIso, publisher: { '@id': orgId(site) }, mainEntity: { '@id': pageUrl + '#list' } },
+  {
+    '@type': 'ItemList', '@id': pageUrl + '#list', name: `Рейтинг: ${n.name.toLowerCase()} Новосибирска`, numberOfItems: n.rows.length, itemListOrder: 'https://schema.org/ItemListOrderDescending',
+    itemListElement: n.rows.map((r) => ({
+      '@type': 'ListItem', position: r.place,
+      item: { '@type': 'LocalBusiness', name: r.name, ...(r.slug ? { '@id': abs(`/kompanii/${r.slug}/`, site) + '#company', url: abs(`/kompanii/${r.slug}/`, site) } : {}), address: { '@type': 'PostalAddress', streetAddress: r.points[0].adr, addressLocality: 'Новосибирск', addressCountry: 'RU' } },
+    })),
+  },
+  crumbs([{ name: 'Главная', path: '/' }, { name: n.cat.name, path: `/${n.cat.slug}/` }, { name: n.name, path: n.path }], site),
+  { '@type': 'FAQPage', mainEntity: t.faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a.replace(/<[^>]+>/g, '') } })) },
+);
+const rowCells = (r: Row) => ({ ry: r.rayony.join('|'), f: flags(r) });
+---
+<Base title={t.title} description={`${n.name} Новосибирска: ${units(n, n.rows.length)} по баллам из 10. №1 – ${n.rows[0].name} (${dec(n.rows[0].ball)}). Оценки и отзывы Яндекс Карт на ${SREZ}.`} path={n.path} active={n.cat.slug} ld={ld}>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: n.cat.name, href: `/${n.cat.slug}/` }, { name: n.name }]} />
+      <h1>{t.h1}</h1>
+      <p class="kratko"><b>Кратко:</b> {kratko(n)}</p>
+      <p class="lead">{t.intro}</p>
+      <ul class="facts">
+        <li>{units(n, n.rows.length)}, {otz(total)} на Яндекс Картах</li>
+        <li>Срез {SREZ}</li>
+        <li>Платных мест нет</li>
+      </ul>
+      <a class="btn" href="#tablitsa">К таблице</a>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="tablitsa">
+    <div class="wrap">
+      <h2>Рейтинг: таблица баллов</h2>
+      <p class="lead">Баллы из 10 – по формуле со страницы «<a href={u(`/metodika/#${n.cat.slug}-${n.slug}`)}>Как считаем</a>». Сеть с одним названием – одна строка, отзывы филиалов сложены. Фильтр скрывает строки, места не меняет.</p>
+      <Filtr target="spisok" rayony={rayony} total={n.rows.length} />
+      <div id="spisok">
+        <table class="rt rt--ya">
+          <thead><tr><th>Место</th><th>Компания</th><th>Балл</th><th>Яндекс Карты</th><th>Район</th><th>Часы</th><th>Сайт</th></tr></thead>
+          <tbody>
+            {n.top.map((r) => (
+              <tr data-row data-ry={rowCells(r).ry} data-f={rowCells(r).f}>
+                <td class="rt__place">{r.place}</td>
+                <td class="rt__name">{cardLink(r) ? <a href={cardLink(r)}>{r.name}</a> : r.name}{r.points.length > 1 && <small>{r.points.length} {plural(r.points.length, ['филиал', 'филиала', 'филиалов'])}</small>}</td>
+                <td class="rt__ball"><span class:list={['score', { 'score--top': r.place === 1 }]}>{dec(r.ball)}<small>/10</small></span></td>
+                <td data-l="Яндекс Карты"><span>{r1(r.rating)} · {otz(r.reviews)}</span></td>
+                <td data-l="Район"><span>{r.rayony.join(', ')}</span></td>
+                <td data-l="Часы"><span>{hoursCell(r)}</span></td>
+                <td data-l="Сайт"><span>{r.siteUrl ? <a href={r.siteUrl} {...nf}>есть</a> : 'не указан'}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+        {n.rest.length > 0 && (
+          <div data-grp>
+            <h3 class="rest-h">Ещё в рейтинге</h3>
+            <p class="rest-line">
+              {n.rest.map((r, i) => (
+                <span data-row data-ry={rowCells(r).ry} data-f={rowCells(r).f}>{i > 0 && ' · '}{r.place}. {cardLink(r) ? <a href={cardLink(r)}>{r.name}</a> : r.name} – {dec(r.ball)}</span>
+              ))}
+            </p>
+          </div>
+        )}
+        <p class="note" data-empty hidden>Под выбранные условия в рейтинге никто не подходит. Снимите один из фильтров.</p>
+      </div>
+      <p class="cap">Источник – только Яндекс Карты, срез {SREZ}: {pts} {plural(pts, ['точка', 'точки', 'точек'])} из {n.found} найденных по запросу. Часы и круглосуточная работа – по карточкам; уточняйте у компании.{noDates > 0 && ` У ${noDates} из ${n.rows.length} в срезе нет дат отзывов – свежесть у них посчитана как ноль.`}</p>
+    </div>
+  </section>
+
+  <section class="section" id="luchshie">
+    <div class="wrap">
+      <h2>Лучшие по данным</h2>
+      <ul class="noms">
+        {noms.map((m) => <li><h3>{m.t} – {m.slug ? <a href={u(`/kompanii/${m.slug}/`)}>{m.who}</a> : m.who}</h3><p>{m.d[0].toUpperCase() + m.d.slice(1)}</p></li>)}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="kak">
+    <div class="wrap narrow">
+      <h2>Как мы составляли рейтинг</h2>
+      <p>Взяли {n.found} компаний, которые Яндекс Карты показывают по запросу «{n.name.toLowerCase()}» в Новосибирске. Оставили тех, у кого {n.rule.why}, оценка от 4,0 и не меньше 10 отзывов; закрытые не берём. Прошли {units(n, n.rows.length)}.</p>
+      <p>Балл из 10: оценка – {pct(W.rating)}, число отзывов – {pct(W.reviews)}, свежесть отзывов – {pct(W.fresh)}, открытость карточки (сайт, часы, подтверждение владельца, «Хорошее место») – {pct(W.open)}. Оценку и отзывы сравниваем внутри рейтинга: лучший получает полную долю. 2ГИС, сайты и цены в этом рейтинге не учтены – только Яндекс Карты.</p>
+      <a class="link-arrow" href={u(`/metodika/#${n.cat.slug}-${n.slug}`)}>Формула и правило отбора</a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Что проверить перед выбором</h2>
+      <ol class="steps">
+        {t.check.map((c) => <li><b>{c.t}.</b> {c.d}</li>)}
+      </ol>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap narrow">
+      <h2>Частые вопросы</h2>
+      <Faq items={t.faq} />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      {neighbours.length > 0 && (
+        <>
+          <h2>Ещё в разделе «{n.cat.name}»</h2>
+          <ul class="rest">
+            {neighbours.map((s) => <li><a href={u(s.path)}>{s.name}</a> – №1 {s.first} ({dec(s.firstBall)}), {s.count} в рейтинге</li>)}
+          </ul>
+        </>
+      )}
+      <h2 style="margin-top:40px">Вашей компании нет в рейтинге?</h2>
+      <p>Пришлите название и ссылку на Яндекс Карты – посчитаем балл по общей формуле. Устарели часы, сайт или адрес – напишите туда же. Место не продаётся.</p>
+      <a class="btn btn--ghost" href={u('/dobavit-kompaniyu/')}>Предложить компанию</a>
+    </div>
+  </section>
+</Base>

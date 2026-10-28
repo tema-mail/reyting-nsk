@@ -1,0 +1,57 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { u, abs } from '../lib/url';
+import { NOINDEX_ALL, SITE_NAME } from '../lib/site';
+
+interface Props {
+  title: string;
+  description?: string;
+  /** noindex страницы по карте сайта (спасибо, 404, карта сайта, хаб с одной нишей) */
+  noindex?: boolean;
+  /** Путь страницы без base, со слэшем: /metodika/ */
+  path: string;
+  active?: string;
+  /** JSON-LD (@graph) – собирается из тех же данных, что видимый текст */
+  ld?: object | null;
+  srezLine?: boolean;
+  /** Не ставить canonical (404) */
+  noCanonical?: boolean;
+}
+const { title, description = '', noindex = false, path, active, ld = null, srezLine = false, noCanonical = false } = Astro.props;
+const canonical = abs(path, Astro.site);
+// Тестовый показ на Pages закрыт целиком; иначе – по карте сайта (noindex, follow).
+const robots = NOINDEX_ALL ? 'noindex, nofollow' : noindex ? 'noindex, follow' : '';
+---
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    {!noCanonical && <link rel="canonical" href={canonical} />}
+    {robots && <meta name="robots" content={robots} />}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={SITE_NAME} />
+    <meta property="og:title" content={title} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:locale" content="ru_RU" />
+    <meta name="theme-color" content="#f4ece0" />
+    <link rel="icon" href={u('/favicon.svg')} type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,500;0,7..72,700;0,7..72,800;1,7..72,500;1,7..72,700&display=swap" rel="stylesheet" />
+    {ld && <script type="application/ld+json" set:html={JSON.stringify(ld)} />}
+  </head>
+  <body>
+    <a class="sr-only" href="#main">К содержимому</a>
+    <Header active={active} />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer srezLine={srezLine} />
+    <slot name="after" />
+  </body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "reyting-nsk",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "sverka": "node scripts/sverka.mjs",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check-links": "node scripts/check-links.mjs"
+  },
+  "dependencies": {
+    "astro": "^7.3.8"
+  }
+}

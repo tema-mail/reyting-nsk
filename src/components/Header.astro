@@ -1,0 +1,33 @@
+---
+import Logo from './Logo.astro';
+import { u } from '../lib/url';
+import { CATEGORIES } from '../lib/site';
+interface Props { active?: string }
+const { active = '' } = Astro.props;
+---
+<header class="hdr">
+  <div class="wrap hdr__in">
+    <Logo />
+    <nav class="hdr__nav" aria-label="Основное меню">
+      <details class="dd">
+        <summary class:list={[{ 'is-active': CATEGORIES.some((c) => c.slug === active) }]}>Категории</summary>
+        <div class="dd__menu">
+          {CATEGORIES.map((c) => (
+            <div class="dd__grp">
+              <a class="dd__cat" href={u(`/${c.slug}/`)}>{c.name}</a>
+              {c.niches.map((n) => <a class="dd__item" href={u(n.path)}>{n.name}</a>)}
+            </div>
+          ))}
+        </div>
+      </details>
+      <a href={u('/metodika/')} class:list={[{ 'is-active': active === 'metodika' }]}>Как считаем</a>
+      <a class="btn btn--sm btn--ghost hdr__cta" href={u('/dobavit-kompaniyu/')}>Предложить компанию</a>
+    </nav>
+  </div>
+</header>
+<script>
+  // Закрыть меню категорий по клику мимо и по Esc
+  const dd = document.querySelector('.dd') as HTMLDetailsElement | null;
+  document.addEventListener('click', (e) => { if (dd && !dd.contains(e.target as Node)) dd.open = false; });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dd) dd.open = false; });
+</script>

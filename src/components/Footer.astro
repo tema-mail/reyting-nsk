@@ -1,0 +1,37 @@
+---
+import Logo from './Logo.astro';
+import Tbc from './Tbc.astro';
+import { u } from '../lib/url';
+import { SITE_NAME, SITE_NAME_NOTE, SREZ, CATEGORIES } from '../lib/site';
+interface Props { srezLine?: boolean }
+const { srezLine = false } = Astro.props;
+---
+<footer class="ftr">
+  <div class="wrap ftr__in">
+    <div class="ftr__brand">
+      <Logo />
+      <p>{SITE_NAME} – рейтинги компаний Новосибирска по открытой формуле. Срез данных: {SREZ}.</p>
+      {srezLine && <p>Срез данных {SREZ}. Следующий пересчёт – <Tbc text="дата" /></p>}
+      <p class="ftr__small">Платных мест нет. <Tbc text="юр. лицо и контакт в подвале" /></p>
+      <p class="ftr__small">«{SITE_NAME}» – {SITE_NAME_NOTE}.</p>
+    </div>
+    <nav class="ftr__nav" aria-label="Подвал">
+      <div>
+        <p class="ftr__h">Рейтинги</p>
+        {CATEGORIES.map((c) => c.niches.map((n) => <a href={u(n.path)}>{n.name}</a>))}
+      </div>
+      <div>
+        <p class="ftr__h">Проект</p>
+        <a href={u('/metodika/')}>Как считаем</a>
+        <a href={u('/o-proekte/')}>О проекте</a>
+        <a href={u('/dobavit-kompaniyu/')}>Предложить компанию</a>
+      </div>
+      <div>
+        <p class="ftr__h">Документы</p>
+        <a href={u('/politika-konfidentsialnosti/')}>Политика конфиденциальности</a>
+        <a href={u('/soglasie-na-obrabotku-dannykh/')}>Согласие на обработку данных</a>
+        <a href={u('/karta-sayta/')}>Карта сайта</a>
+      </div>
+    </nav>
+  </div>
+</footer>

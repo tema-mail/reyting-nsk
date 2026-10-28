@@ -1,0 +1,145 @@
+---
+// Карточка компании из новых ниш (Яндекс Карты), /kompanii/<slug>/. Компания в нескольких рейтингах – одна карточка со списком мест.
+// Только факты среза: оценка, отзывы, даты, часы, адреса, телефон, сайт. Без AggregateRating/Review.
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import type { Company } from '../lib/reytingi';
+import { breakdown, whyPlace, strengths, attention, otz, r1 } from '../lib/reyting-text';
+import { tel } from '../lib/niche';
+import { u, abs } from '../lib/url';
+import { int, dec, date, plural } from '../lib/fmt';
+import { org, orgId, crumbs, graph } from '../lib/ld';
+
+interface Props { c: Company }
+const { c } = Astro.props;
+const site = Astro.site;
+const m = c.main;
+const n = m.niche;
+const path = `/kompanii/${c.slug}/`;
+const SREZ = date(n.srezIso);
+const nf = { rel: 'nofollow noopener', target: '_blank' };
+const host = (s: string) => s.replace(/^https?:\/\//, '').replace(/^www\./, '').replace(/\/.*$/, '');
+const rubrika = m.points[0].rubrics[0] || n.name;
+const places = c.rows.map((r) => `${r.place}-е место в рейтинге «${r.niche.name}»`).join(', ');
+const strong = strengths(c);
+const att = attention(c);
+const sim = n.rows.filter((x) => x !== m && x.slug && x.slug !== c.slug).sort((a, b) => Math.abs(a.place - m.place) - Math.abs(b.place - m.place) || a.place - b.place).slice(0, 3);
+const sites = [...new Set(c.points.flatMap((p) => p.sites))].slice(0, 2);
+const phones = [...new Set(c.points.flatMap((p) => p.phones))].slice(0, 3);
+const pageUrl = abs(path, site);
+const ld = graph(
+  org(site),
+  { '@type': 'WebPage', '@id': pageUrl + '#page', url: pageUrl, name: c.name, inLanguage: 'ru', dateModified: n.srezIso, publisher: { '@id': orgId(site) }, about: { '@id': pageUrl + '#company' } },
+  {
+    '@type': 'LocalBusiness', '@id': pageUrl + '#company', name: c.name,
+    address: c.points.map((p) => ({ '@type': 'PostalAddress', streetAddress: p.adr, addressLocality: 'Новосибирск', addressCountry: 'RU' })),
+    ...(phones.length ? { telephone: phones } : {}),
+    ...(sites[0] ? { url: sites[0] } : {}),
+    sameAs: c.points.map((p) => p.card),
+  },
+  crumbs([{ name: 'Главная', path: '/' }, { name: n.cat.name, path: `/${n.cat.slug}/` }, { name: n.name, path: n.path }, { name: c.name, path }], site),
+);
+---
+<Base title={`${c.name}, Новосибирск: отзывы и место в рейтинге`} description={`${c.name}: ${places}. ${r1(m.rating)} на Яндекс Картах, ${otz(m.reviews)}. Срез ${SREZ}.`} path={path} active={n.cat.slug} ld={ld}>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: n.cat.name, href: `/${n.cat.slug}/` }, { name: n.name, href: n.path }, { name: c.name }]} />
+      <div class="co-hero">
+        <div>
+          <h1>{c.name}</h1>
+          <p class="lead" style="margin-top:-6px">{rubrika} в Новосибирске{c.points.length === 1 ? `, ${c.points[0].adr}` : `, ${c.points.length} ${plural(c.points.length, ['адрес', 'адреса', 'адресов'])}`}</p>
+          <p class="kratko">{c.name} – {places}; балл {dec(m.ball)} из 10, оценка {r1(m.rating)} на Яндекс Картах по {int(m.ratings)} {plural(m.ratings, ['оценке', 'оценкам', 'оценкам'])}, срез {SREZ}.</p>
+          <div class="src-grid">
+            <div class="src"><div class="src__k">Оценка на Яндекс Картах</div><div class="src__v">{r1(m.rating)}</div><div class="src__s">{int(m.ratings)} {plural(m.ratings, ['оценка', 'оценки', 'оценок'])}</div></div>
+            <div class="src"><div class="src__k">Отзывы</div><div class="src__v">{int(m.reviews)}</div><div class="src__s">за 12 месяцев – {m.n12} среди загруженных</div></div>
+            <div class="src"><div class="src__k">Последний отзыв</div><div class="src__v">{m.last ? date(m.last) : 'нет даты'}</div><div class="src__s">срез {SREZ}</div></div>
+          </div>
+          <div class="btns">
+            {phones[0] && <a class="btn" href={tel(phones[0])}>Позвонить</a>}
+            {sites[0] && <a class="btn btn--ghost" href={sites[0]} {...nf}>Сайт</a>}
+            <a class="btn btn--ghost" href={c.points[0].card} {...nf}>На Яндекс Картах</a>
+          </div>
+        </div>
+        <div class="big-score">
+          <div class="muted">Балл в рейтинге «{n.name}»</div>
+          <div class="big-score__n">{dec(m.ball)}<small> / 10</small></div>
+          <p style="margin:6px 0 0"><b>{m.place}-е место</b> из {n.rows.length}</p>
+          <a class="link-arrow" href={u(n.path)}>Весь рейтинг</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap narrow">
+      <h2>Место в рейтингах</h2>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead><tr><th>Рейтинг</th><th>Место</th><th>Балл</th></tr></thead>
+          <tbody>{c.rows.map((r) => <tr><td><a href={u(r.niche.path)}>{r.niche.name}</a></td><td>{r.place} из {r.niche.rows.length}</td><td>{dec(r.ball)}/10</td></tr>)}</tbody>
+        </table>
+      </div>
+      {c.rows.map((r) => (
+        <>
+          <h3 style="margin-top:26px">{r.niche.name}: из чего балл</h3>
+          <p>{whyPlace(r)}</p>
+          <div class="tbl-wrap">
+            <table class="tbl">
+              <thead><tr><th>Показатель</th><th>Вклад в балл</th></tr></thead>
+              <tbody>
+                {breakdown(r).map((x) => <tr><td>{x.name[0].toUpperCase() + x.name.slice(1)}</td><td>{dec(x.got, 2)} из {dec(x.max, 1)}</td></tr>)}
+                <tr><td><b>Итого</b></td><td><b>{dec(r.ballExact, 2)} → {dec(r.ball)}</b></td></tr>
+              </tbody>
+            </table>
+          </div>
+        </>
+      ))}
+      <p style="margin-top:14px"><a class="link-arrow" href={u(`/metodika/#${n.cat.slug}-${n.slug}`)}>Как устроен балл</a></p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Сильные стороны и на что обратить внимание</h2>
+      <div class="co">
+        <div class="co__grid">
+          <div><h4>Сильные стороны по данным</h4>{strong.length ? <ul>{strong.map((s) => <li>{s}</li>)}</ul> : <p>В срезе нет показателя, по которому компания выделяется.</p>}</div>
+          <div><h4>Обратите внимание</h4>{att.length ? <ul>{att.map((s) => <li>{s}</li>)}</ul> : <p>По данным среза явных слабых мест нет.</p>}</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap narrow">
+      <h2>{c.points.length > 1 ? 'Адреса и часы работы' : 'Адрес и часы работы'}</h2>
+      <ul class="rest">
+        {c.points.map((p) => (
+          <li>
+            <b>{p.adr}</b>{p.rayon === 'За городом' ? ' – за городом' : ` – ${p.rayon} район`}<br />
+            Часы: {p.hours || 'не указаны'}{p.phones[0] && <> · <a href={tel(p.phones[0])}>{p.phones[0]}</a></>}<br />
+            {r1(p.rating)} · {otz(p.reviews)} · <a href={p.card} {...nf}>отзывы на Яндекс Картах →</a>
+          </li>
+        ))}
+      </ul>
+      {sites.length > 0 && <p style="margin-top:12px">Сайт: {sites.map((s, i) => <>{i > 0 && ', '}<a href={s} {...nf}>{host(s)}</a></>)}</p>}
+    </div>
+  </section>
+
+  {sim.length > 0 && (
+    <section class="section">
+      <div class="wrap narrow">
+        <h2>Рядом в рейтинге «{n.name}»</h2>
+        <ul class="rest">{sim.map((x) => <li><a href={u(`/kompanii/${x.slug}/`)}>{x.name}</a> – {x.place}-е место, {dec(x.ball)}</li>)}</ul>
+      </div>
+    </section>
+  )}
+
+  <section class="section section--alt">
+    <div class="wrap narrow">
+      <h2>Это ваша компания?</h2>
+      <p>Устарели часы, адрес или телефон – пришлите правку со ссылкой на источник. Проверим и обновим в следующем срезе. Балл считает формула, поменять его по просьбе нельзя.</p>
+      <a class="btn btn--ghost" href={u('/dobavit-kompaniyu/')}>Исправить данные</a>
+    </div>
+  </section>
+</Base>

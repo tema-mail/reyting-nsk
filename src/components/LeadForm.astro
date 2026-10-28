@@ -9,6 +9,7 @@ interface Props { kind: 'podobrat' | 'dobavit'; id?: string }
 const { kind, id = `form-${kind}` } = Astro.props;
 const agreeHref = u('/soglasie-na-obrabotku-dannykh/');
 const thanks = u('/spasibo/');
+import { CATEGORIES } from '../lib/reytingi';
 ---
 <form class="form-box lead-form" id={id} novalidate data-kind={kind} data-endpoint={FORM_ENDPOINT} data-thanks={thanks}>
   {kind === 'podobrat' ? (
@@ -49,7 +50,7 @@ const thanks = u('/spasibo/');
         <label for={`${id}-niche`}>Ниша *</label>
         <select id={`${id}-niche`} name="niche" required>
           <option value="">Выберите</option>
-          <option>Доставка цветов</option>
+          {CATEGORIES.map((c) => <optgroup label={c.name}>{c.niches.map((n) => <option>{n.name}</option>)}</optgroup>)}
           <option>Другая</option>
         </select>
         <div class="f__err">Выберите нишу</div>

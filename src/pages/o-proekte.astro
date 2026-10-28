@@ -13,6 +13,8 @@ const ld = graph(
   { '@type': 'AboutPage', url: abs('/o-proekte/', site), name: `О проекте ${SITE_NAME}`, inLanguage: 'ru', about: { '@id': orgId(site) } },
   crumbs([{ name: 'Главная', path: '/' }, { name: 'О проекте', path: '/o-proekte/' }], site),
 );
+import { SUMMARIES, CATEGORIES } from '../lib/reytingi';
+import { SREZ_NEW } from '../lib/site';
 ---
 <Base
   title={`О проекте ${SITE_NAME}: кто составляет рейтинги и зачем`}
@@ -24,7 +26,7 @@ const ld = graph(
     <div class="wrap">
       <Crumbs items={[{ name: 'Главная', href: '/' }, { name: 'О проекте' }]} />
       <h1>О проекте {SITE_NAME}</h1>
-      <p class="lead">{SITE_NAME} – рейтинги компаний Новосибирска, собранные из открытых данных Яндекс Карт, 2ГИС и сайтов компаний. Первый рейтинг – доставка цветов, {COMPANIES.length} служб, срез {SREZ}.</p>
+      <p class="lead">{SITE_NAME} – рейтинги компаний Новосибирска, собранные из открытых данных Яндекс Карт (для доставки цветов – ещё 2ГИС и сайты служб). Сейчас {SUMMARIES.length} рейтингов в {CATEGORIES.length} разделах, срез {SREZ_NEW}; доставка цветов – {COMPANIES.length} служб, срез {SREZ}.</p>
       <p><Tbc text={`название «${SITE_NAME}» – ${SITE_NAME_NOTE}; домен`} /></p>
     </div>
   </section>

@@ -10,6 +10,7 @@ import { u, abs } from '../../../lib/url';
 import { int, rate, dec, date, plural } from '../../../lib/fmt';
 import { SREZ, SREZ_ISO, PUBLISHED_ISO } from '../../../lib/site';
 import { org, orgId, crumbs, graph } from '../../../lib/ld';
+import { SUMMARIES } from '../../../lib/reytingi';
 
 const site = Astro.site;
 const top = COMPANIES.slice(0, 7);
@@ -282,8 +283,10 @@ const ld = graph(
 
   <section class="section">
     <div class="wrap narrow">
-      <h2>Другие рейтинги Новосибирска</h2>
-      <p>Других опубликованных рейтингов пока нет. Блок появится со второй нишей.</p>
+      <h2>Ещё в разделе «Праздники»</h2>
+      <ul class="rest">
+        {SUMMARIES.filter((s) => s.cat === 'prazdniki' && s.key !== 'prazdniki/dostavka-tsvetov').map((s) => <li><a href={u(s.path)}>{s.name}</a> – №1 {s.first} ({dec(s.firstBall)}), {s.count} в рейтинге</li>)}
+      </ul>
       <h2 style="margin-top:40px">Ваш цветочный магазин не в рейтинге?</h2>
       <p>Отправьте название магазина и ссылку на Яндекс Карты – посчитаем балл по общей формуле. Если в описании вашей службы устарели цены, часы или сайт, напишите туда же. Платить не нужно, место не продаётся.</p>
       <a class="btn btn--ghost" href={u('/dobavit-kompaniyu/')}>Предложить магазин</a>

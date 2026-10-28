@@ -7,7 +7,7 @@ import Faq from '../../../components/Faq.astro';
 import LeadForm from '../../../components/LeadForm.astro';
 import { COMPANIES, NICHE, TOTAL_REVIEWS, TOTAL_SHOPS, tel } from '../../../lib/niche';
 import { u, abs } from '../../../lib/url';
-import { int, rate, dec, date } from '../../../lib/fmt';
+import { int, rate, dec, date, plural } from '../../../lib/fmt';
 import { SREZ, SREZ_ISO, PUBLISHED_ISO } from '../../../lib/site';
 import { org, orgId, crumbs, graph } from '../../../lib/ld';
 
@@ -172,7 +172,7 @@ const ld = graph(
               <h3><a href={u(`/kompanii/${c.slug}/`)}>{c.place}. {c.name} – {dec(c.ball)}/10</a></h3>
               <span class:list={['score', { 'score--top': c.place === 1 }]}>{dec(c.ball)}<small>/10</small></span>
             </div>
-            <p class="co__data"><b>Данные среза {SREZ}:</b> Яндекс Карты {rate(y.рейтинг)} ({int(y.оценок)} оценок, {int(y.текстовых_отзывов)} отзывов), 2ГИС {rate(g.рейтинг)} ({int(g.отзывов)} отзывов). Последний отзыв на Яндексе – {date(y.последний_отзыв)}, за год – {y.отзывов_за_12_мес_из_загруженных}{c.place === 1 ? ' среди загруженных' : ''}.{marks && ` ${marks[0].toUpperCase()}${marks.slice(1)}.`}</p>
+            <p class="co__data"><b>Данные среза {SREZ}:</b> Яндекс Карты {rate(y.рейтинг)} ({int(y.оценок)} {plural(y.оценок, ['оценка', 'оценки', 'оценок'])}, {int(y.текстовых_отзывов)} {plural(y.текстовых_отзывов, ['отзыв', 'отзыва', 'отзывов'])}), 2ГИС {rate(g.рейтинг)} ({int(g.отзывов)} {plural(g.отзывов, ['отзыв', 'отзыва', 'отзывов'])}). Последний отзыв на Яндексе – {date(y.последний_отзыв)}, за год – {y.отзывов_за_12_мес_из_загруженных}{c.place === 1 ? ' среди загруженных' : ''}.{marks && ` ${marks[0].toUpperCase()}${marks.slice(1)}.`}</p>
             <div class="co__grid">
               <div>
                 <h4>Сильные стороны</h4>

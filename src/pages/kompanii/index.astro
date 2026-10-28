@@ -1,0 +1,10 @@
+---
+// Страницы-списка /kompanii/ нет – по карте 301 на главную. На Pages 301 недоступен: мгновенный переход + noindex + canonical на главную.
+import { u, abs } from '../../lib/url';
+const to = u('/');
+---
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8" /><title>Переход на главную</title>
+<meta name="robots" content="noindex, follow" /><link rel="canonical" href={abs('/', Astro.site)} />
+<meta http-equiv="refresh" content={`0; url=${to}`} /></head>
+<body><p><a href={to}>На главную</a></p></body></html>

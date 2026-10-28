@@ -1,0 +1,50 @@
+---
+// Фильтр строк рейтинга: только скрывает строки, место не меняет. Строки – элементы [data-row] внутри #<target>.
+// Атрибуты строки: data-ry="Центральный|Ленинский", data-f="h24 r48 o300 good site".
+interface Props { target: string; rayony: string[]; total: number }
+const { target, rayony, total } = Astro.props;
+const FLAGS = [
+  ['h24', 'Круглосуточно'],
+  ['r48', 'Оценка 4,8+'],
+  ['o300', '300+ отзывов'],
+  ['good', '«Хорошее место»'],
+  ['site', 'Есть сайт'],
+];
+---
+<form class="flt" data-flt={target} aria-label="Фильтр рейтинга" onsubmit="return false">
+  <label class="flt__sel">
+    <span class="sr-only">Район</span>
+    <select name="ry">
+      <option value="">Все районы</option>
+      {rayony.map((r) => <option value={r}>{r === 'За городом' ? r : `${r} район`}</option>)}
+    </select>
+  </label>
+  <div class="flt__chips">
+    {FLAGS.map(([k, t]) => (
+      <label class="chip"><input type="checkbox" name={k} /><span>{t}</span></label>
+    ))}
+  </div>
+  <p class="flt__count muted" aria-live="polite">Показаны все: {total}</p>
+</form>
+<script>
+  document.querySelectorAll<HTMLFormElement>('form.flt').forEach((f) => {
+    const box = document.getElementById(f.dataset.flt!)!;
+    const rows = [...box.querySelectorAll<HTMLElement>('[data-row]')];
+    const out = f.querySelector('.flt__count')!;
+    const empty = box.querySelector<HTMLElement>('[data-empty]');
+    const apply = () => {
+      const ry = (f.elements.namedItem('ry') as HTMLSelectElement).value;
+      const flags = [...f.querySelectorAll<HTMLInputElement>('input[type=checkbox]:checked')].map((i) => i.name);
+      let n = 0;
+      for (const r of rows) {
+        const ok = (!ry || (r.dataset.ry || '').split('|').includes(ry)) && flags.every((k) => (r.dataset.f || '').split(' ').includes(k));
+        r.hidden = !ok;
+        if (ok) n++;
+      }
+      box.querySelectorAll<HTMLElement>('[data-grp]').forEach((g) => { g.hidden = !g.querySelector('[data-row]:not([hidden])'); });
+      if (empty) empty.hidden = n > 0;
+      out.textContent = !ry && !flags.length ? `Показаны все: ${rows.length}` : `Подходит ${n} из ${rows.length}. Места не меняются.`;
+    };
+    f.addEventListener('change', apply);
+  });
+</script>

@@ -308,3 +308,7 @@ li + li { margin-top: .35em; }
 
 .err-hero { padding: 60px 0; }
 .err-hero__n { font: 800 clamp(80px, 18vw, 160px)/1 var(--f-head); color: var(--brick); }
+
+/* шапка на узком экране: пункты в одну строку */
+.hdr__nav > a, .dd summary { white-space: nowrap; }
+@media (max-width: 420px) { .hdr__nav { gap: 12px; font-size: 14px; } .logo { gap: 8px; } .logo__mark { width: 32px; height: 32px; line-height: 32px; font-size: 13px; } }

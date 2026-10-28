@@ -1,0 +1,20 @@
+---
+// 404: нет страницы + категории. noindex.
+import Base from '../layouts/Base.astro';
+import { u } from '../lib/url';
+import { SITE_NAME, CATEGORIES } from '../lib/site';
+---
+<Base title={`Страница не найдена – ${SITE_NAME}`} path="/404/" noindex noCanonical>
+  <section class="err-hero">
+    <div class="wrap narrow">
+      <div class="err-hero__n">404</div>
+      <h1>Такой страницы нет</h1>
+      <p class="lead">Возможно, адрес набран с ошибкой или рейтинг ещё не опубликован. Вот что есть сейчас:</p>
+      <ul class="rest">
+        {CATEGORIES.map((c) => c.niches.map((n) => <li><a href={u(n.path)}>{n.name}</a> – раздел «{c.name}»</li>))}
+        <li><a href={u('/metodika/')}>Как считаем места</a></li>
+      </ul>
+      <p style="margin-top:20px"><a class="btn" href={u('/')}>На главную</a></p>
+    </div>
+  </section>
+</Base>

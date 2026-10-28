@@ -1,0 +1,11 @@
+---
+// После успешной отправки формы (когда появится приёмник). noindex.
+import Doc from '../components/Doc.astro';
+import Tbc from '../components/Tbc.astro';
+import { u } from '../lib/url';
+import { SITE_NAME } from '../lib/site';
+---
+<Doc title={`Заявка отправлена – ${SITE_NAME}`} h1="Получили заявку" path="/spasibo/" noindex>
+  <p>Кто ответит и когда: <Tbc text="кто ответит и когда" />. Ваша заявка на места в рейтинге не влияет.</p>
+  <p class="btns"><a class="btn" href={u('/prazdniki/dostavka-tsvetov/')}>Вернуться к рейтингу</a> <a class="btn btn--ghost" href={u('/')}>На главную</a></p>
+</Doc>

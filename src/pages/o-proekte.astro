@@ -1,0 +1,53 @@
+---
+// О проекте – тексты из teksty-nsk.md (раздел 7). Владелец не раскрыт: решение за владельцем (риск склейки с сайтом 1 и ФАС).
+import Base from '../layouts/Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import Tbc from '../components/Tbc.astro';
+import { COMPANIES } from '../lib/niche';
+import { u, abs } from '../lib/url';
+import { SITE_NAME, SITE_NAME_NOTE, SREZ } from '../lib/site';
+import { org, orgId, crumbs, graph } from '../lib/ld';
+const site = Astro.site;
+const ld = graph(
+  org(site),
+  { '@type': 'AboutPage', url: abs('/o-proekte/', site), name: `О проекте ${SITE_NAME}`, inLanguage: 'ru', about: { '@id': orgId(site) } },
+  crumbs([{ name: 'Главная', path: '/' }, { name: 'О проекте', path: '/o-proekte/' }], site),
+);
+---
+<Base
+  title={`О проекте ${SITE_NAME}: кто составляет рейтинги и зачем`}
+  description="Кто делает рейтинги компаний Новосибирска, на чём зарабатываем, как связаться и исправить ошибку. Места в рейтинге не продаются."
+  path="/o-proekte/"
+  ld={ld}
+>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: 'О проекте' }]} />
+      <h1>О проекте {SITE_NAME}</h1>
+      <p class="lead">{SITE_NAME} – рейтинги компаний Новосибирска, собранные из открытых данных Яндекс Карт, 2ГИС и сайтов компаний. Первый рейтинг – доставка цветов, {COMPANIES.length} служб, срез {SREZ}.</p>
+      <p><Tbc text={`название «${SITE_NAME}» – ${SITE_NAME_NOTE}; домен`} /></p>
+    </div>
+  </section>
+  <section class="section section--alt">
+    <div class="wrap doc">
+      <h2 style="margin-top:0">Кто составляет рейтинги</h2>
+      <p>Редакция {SITE_NAME}. <Tbc text="раскрываем ли владельца: имя или компания и одна строка, чем занимается" /></p>
+
+      <h2>На чём зарабатываем и чего не делаем</h2>
+      <p><Tbc text="модель заработка" /></p>
+      <p>Не продаём места, не ставим рекламу в рейтинги, не меняем баллы по просьбе компаний.</p>
+
+      <h2>Связь с компаниями из рейтинга</h2>
+      <p><Tbc text="раскрываем ли связь команды с компаниями из рейтинга – если да, здесь и строкой у компании в рейтинге" /></p>
+      <p>Баллы всех компаний посчитаны по одной формуле, она опубликована на странице «<a href={u('/metodika/')}>Как считаем</a>».</p>
+
+      <h2>Как связаться и исправить ошибку</h2>
+      <p>Неверные данные о компании – через форму «<a href={u('/dobavit-kompaniyu/')}>Предложить компанию</a>», со ссылкой на источник. Другие вопросы – <Tbc text="почта проекта" /></p>
+      <p class="btns">
+        <a class="link-arrow" href={u('/metodika/')}>Как считаем</a>
+        <a class="link-arrow" href={u('/dobavit-kompaniyu/')}>Предложить компанию</a>
+        <a class="link-arrow" href={u('/politika-konfidentsialnosti/')}>Политика конфиденциальности</a>
+      </p>
+    </div>
+  </section>
+</Base>

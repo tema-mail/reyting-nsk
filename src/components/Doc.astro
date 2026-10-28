@@ -1,0 +1,16 @@
+---
+// Обёртка юридической и технической страницы.
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+interface Props { title: string; h1: string; path: string; noindex?: boolean; description?: string }
+const { title, h1, path, noindex = false, description = '' } = Astro.props;
+---
+<Base title={title} path={path} noindex={noindex} description={description}>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: h1 }]} />
+      <h1>{h1}</h1>
+    </div>
+  </section>
+  <section class="section section--alt"><div class="wrap doc"><slot /></div></section>
+</Base>

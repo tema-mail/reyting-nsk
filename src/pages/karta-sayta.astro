@@ -1,0 +1,31 @@
+---
+// HTML-карта сайта: категории → ниши → компании. noindex, follow (карта сайта).
+import Doc from '../components/Doc.astro';
+import { COMPANIES } from '../lib/niche';
+import { u } from '../lib/url';
+import { SITE_NAME, CATEGORIES } from '../lib/site';
+---
+<Doc title={`Карта сайта – ${SITE_NAME}`} h1="Карта сайта" path="/karta-sayta/" noindex>
+  <ul class="sitemap-tree">
+    <li><a href={u('/')}>Главная</a>
+      <ul>
+        {CATEGORIES.map((c) => (
+          <li><a href={u(`/${c.slug}/`)}>{c.name}</a>
+            <ul>
+              {c.niches.map((n) => (
+                <li><a href={u(n.path)}>{n.name}</a>
+                  <ul>{COMPANIES.map((x) => <li><a href={u(`/kompanii/${x.slug}/`)}>{x.name}</a></li>)}</ul>
+                </li>
+              ))}
+            </ul>
+          </li>
+        ))}
+        <li><a href={u('/metodika/')}>Методика</a></li>
+        <li><a href={u('/o-proekte/')}>О проекте</a></li>
+        <li><a href={u('/dobavit-kompaniyu/')}>Добавить компанию</a></li>
+        <li><a href={u('/politika-konfidentsialnosti/')}>Политика конфиденциальности</a></li>
+        <li><a href={u('/soglasie-na-obrabotku-dannykh/')}>Согласие на обработку данных</a></li>
+      </ul>
+    </li>
+  </ul>
+</Doc>

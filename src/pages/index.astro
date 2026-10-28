@@ -1,4 +1,91 @@
 ---
+// Главная – тексты дословно из teksty-nsk.md (раздел 1); description – вариант сеошника (рейтингов клиник и клининга пока нет).
 import Base from '../layouts/Base.astro';
+import { COMPANIES, NICHE, TOTAL_REVIEWS } from '../lib/niche';
+import { u, abs } from '../lib/url';
+import { int, dec } from '../lib/fmt';
+import { SITE_NAME, SREZ } from '../lib/site';
+import { org, orgId, graph } from '../lib/ld';
+
+const site = Astro.site;
+const [c1, c2, c3] = COMPANIES;
+const hours24 = COMPANIES.filter((c) => c.hours24).length;
+const ld = graph(org(site), { '@type': 'WebSite', '@id': abs('/', site) + '#site', url: abs('/', site), name: SITE_NAME, inLanguage: 'ru', publisher: { '@id': orgId(site) } });
+const word = ['', 'одна', 'две', 'три', 'Четыре', 'Пять'][hours24] || String(hours24);
 ---
-<Base title="Новосибирск в баллах" path="/"><div class="wrap section"><h1>Каркас</h1></div></Base>
+<Base
+  title={`Рейтинги компаний Новосибирска по отзывам – ${SITE_NAME}`}
+  description="Рейтинги компаний Новосибирска по отзывам Яндекс Карт и 2ГИС: сейчас – доставка цветов. Формула открыта, места не продаются."
+  path="/"
+  ld={ld}
+>
+  <section class="hero">
+    <div class="wrap">
+      <h1>Лучшие компании Новосибирска – рейтинги по отзывам</h1>
+      <p class="lead">{SITE_NAME} сравнивает компании Новосибирска по оценкам и отзывам на Яндекс Картах и в 2ГИС. Формула открыта, пересчёт – каждый месяц, купить место нельзя.</p>
+      <ul class="facts">
+        <li>Первый рейтинг: {COMPANIES.length} служб доставки цветов, {int(TOTAL_REVIEWS)} отзывов</li>
+        <li>Срез на {SREZ}</li>
+        <li>Новые разделы открываем, когда в нише есть пять компаний с данными</li>
+      </ul>
+      <a class="btn" href="#kategorii">К рейтингам</a>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="kategorii">
+    <div class="wrap">
+      <h2>Категории</h2>
+      <div class="tiles">
+        <a class="tile" href={u('/prazdniki/')}>
+          <span class="tile__k">1 рейтинг</span>
+          <h3>Праздники</h3>
+          <p>Доставка цветов, {COMPANIES.length} служб. №1 – {c1.name} ({dec(c1.ball)} из 10).</p>
+          <span class="link-arrow">Открыть раздел</span>
+        </a>
+      </div>
+      <p class="muted" style="margin-top:14px">Другие категории (дом, красота и здоровье, питомцы, авто) появятся вместе с первым рейтингом в каждой.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Популярные рейтинги</h2>
+      <div class="tiles">
+        <a class="tile" href={u(NICHE.path)}>
+          <span class="tile__k">Срез {SREZ}</span>
+          <h3>Доставка цветов в Новосибирске</h3>
+          <p>Лидеры на {SREZ}: {c1.name} – {dec(c1.ball)}, {c2.name} – {dec(c2.ball)}, {c3.name} – {dec(c3.ball)}. {word} службы работают круглосуточно.</p>
+          <span class="link-arrow">Открыть рейтинг</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap narrow">
+      <h2>Как мы считаем места</h2>
+      <p>Балл из 10 собирают четыре показателя: средняя оценка на двух картах, сколько у компании отзывов, как давно и как часто их оставляют и насколько открыта компания – цены, часы, работающий сайт. Для каждой ниши веса свои, они опубликованы.</p>
+      <a class="link-arrow" href={u('/metodika/')}>Методика</a>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Почему рейтингу можно верить</h2>
+      <ul class="trust">
+        <li>Рядом с каждой оценкой – источник и дата среза. Откройте карточку на Яндекс Картах и сверьте.</li>
+        <li>Формула опубликована, по ней можно пересчитать любой балл.</li>
+        <li>За место не платят. На страницах рейтингов нет рекламы.</li>
+        <li>Слабые места компании мы пишем в её описании: мало новых отзывов, нет цен, сайт не открывается.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--ink">
+    <div class="wrap narrow">
+      <h2>Вашей компании нет в рейтинге?</h2>
+      <p>Отправьте название и ссылку на Яндекс Карты. Проверим данные и посчитаем балл. Бесплатно.</p>
+      <a class="btn" href={u('/dobavit-kompaniyu/')}>Предложить компанию</a>
+    </div>
+  </section>
+</Base>

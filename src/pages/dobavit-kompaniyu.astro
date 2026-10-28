@@ -1,0 +1,61 @@
+---
+// Добавить компанию – тексты из teksty-nsk.md (раздел 6). Форма без H2.
+import Base from '../layouts/Base.astro';
+import Crumbs from '../components/Crumbs.astro';
+import Tbc from '../components/Tbc.astro';
+import LeadForm from '../components/LeadForm.astro';
+import { u, abs } from '../lib/url';
+import { org, crumbs, graph } from '../lib/ld';
+const site = Astro.site;
+const ld = graph(
+  org(site),
+  { '@type': 'WebPage', url: abs('/dobavit-kompaniyu/', site), name: 'Добавить компанию в рейтинг', inLanguage: 'ru' },
+  crumbs([{ name: 'Главная', path: '/' }, { name: 'Добавить компанию', path: '/dobavit-kompaniyu/' }], site),
+);
+---
+<Base
+  title="Добавить компанию в рейтинг Новосибирска бесплатно"
+  description="Бесплатно: пришлите название, сайт и ссылку на Яндекс Карты – проверим данные и посчитаем балл по той же формуле. Место не продаётся."
+  path="/dobavit-kompaniyu/"
+  ld={ld}
+>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: 'Добавить компанию' }]} />
+      <h1>Добавить компанию в рейтинг</h1>
+      <p class="lead">Включение в рейтинг бесплатное. Эта же форма – для правки данных о компании, которая уже есть на сайте.</p>
+    </div>
+  </section>
+  <section class="section section--alt">
+    <div class="wrap">
+      <div class="tiles">
+        <div class="tile">
+          <h2 style="font-size:24px">Что нужно прислать</h2>
+          <ul>
+            <li>Название и ниша (сейчас открыта доставка цветов; можно предложить компанию в будущую нишу)</li>
+            <li>Ссылку на карточку Яндекс Карт – без неё не посчитаем балл; ссылку на 2ГИС</li>
+            <li>Сайт и страницу с ценами</li>
+            <li>Контакт для вопросов</li>
+          </ul>
+        </div>
+        <div class="tile">
+          <h2 style="font-size:24px">Что будет после заявки</h2>
+          <ol>
+            <li>Сверим карточки на картах и сайт. <Tbc text="срок проверки" /></li>
+            <li>Посчитаем балл по формуле ниши. Нужны оценки и на Яндекс Картах, и в 2ГИС.</li>
+            <li>Добавим компанию в ближайший ежемесячный срез, на то место, которое дала формула.</li>
+            <li>Если ниша ещё не открыта, сохраним заявку: рейтинг появится, когда в нише будет пять компаний с данными.</li>
+          </ol>
+        </div>
+      </div>
+      <h2 style="margin-top:36px">Почему место нельзя купить</h2>
+      <p>У ниши одна формула для всех, и она опубликована. Денег за места мы не берём и рекламу в рейтинги не ставим.</p>
+      <a class="link-arrow" href={u('/metodika/')}>Методика</a>
+    </div>
+  </section>
+  <section class="section" id="forma">
+    <div class="wrap narrow">
+      <LeadForm kind="dobavit" />
+    </div>
+  </section>
+</Base>

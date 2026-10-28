@@ -1,19 +1,15 @@
 ---
 import Logo from './Logo.astro';
-import Tbc from './Tbc.astro';
 import { u } from '../lib/url';
 import { SITE_NAME, SITE_NAME_NOTE, SREZ, SREZ_NEW } from '../lib/site';
 import { CATEGORIES } from '../lib/reytingi';
-interface Props { srezLine?: boolean }
-const { srezLine = false } = Astro.props;
 ---
 <footer class="ftr">
   <div class="wrap ftr__in">
     <div class="ftr__brand">
       <Logo />
       <p>{SITE_NAME} – рейтинги компаний Новосибирска по открытой формуле. Срез данных: {SREZ_NEW}, доставка цветов – {SREZ}.</p>
-      {srezLine && <p>Следующий пересчёт – <Tbc text="дата" /></p>}
-      <p class="ftr__small">Платных мест нет. <Tbc text="юр. лицо и контакт в подвале" /></p>
+      <p class="ftr__small">Платных мест нет.</p>
       <p class="ftr__small">«{SITE_NAME}» – {SITE_NAME_NOTE}.</p>
     </div>
     <nav class="ftr__nav" aria-label="Подвал">

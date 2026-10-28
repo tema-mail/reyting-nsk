@@ -151,16 +151,7 @@ const ld = graph(
     </div>
   </section>
 
-  <section class="section">
-    <div class="wrap narrow">
-      <h2>Отзывы с Яндекс Карт и 2ГИС</h2>
-      <p><Tbc text="3–5 отзывов с датой, оценкой и источником, не только пятёрки" /></p>
-      <p>
-        {c.yaLinks.map((l, i) => <><a href={l} {...nf}>Все отзывы на Яндекс Картах{c.yaLinks.length > 1 ? ` (${r.адреса[i]})` : ''} →</a><br /></>)}
-        {c.gisLinks.map((l, i) => <><a href={l} {...nf}>Все отзывы в 2ГИС{c.gisLinks.length > 1 ? ` (${r.адреса[i]})` : ''} →</a><br /></>)}
-      </p>
-    </div>
-  </section>
+  {/* Секция отзывов скрыта: в съёме нет текстов отзывов (SEO-проверка 28.10). Ссылки на отзывы – в адресах ниже и кнопках вверху. */}
 
   <section class="section section--alt">
     <div class="wrap narrow">

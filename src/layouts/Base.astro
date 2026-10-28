@@ -40,11 +40,15 @@ const robots = NOINDEX_ALL ? 'noindex, nofollow' : noindex ? 'noindex, follow' :
     <meta property="og:title" content={title} />
     {description && <meta property="og:description" content={description} />}
     <meta property="og:locale" content="ru_RU" />
+    {!noCanonical && <meta property="og:url" content={canonical} />}
+    <meta property="og:image" content={abs('/og.png', Astro.site)} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta name="theme-color" content="#f4ece0" />
     <link rel="icon" href={u('/favicon.svg')} type="image/svg+xml" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,500;0,7..72,700;0,7..72,800;1,7..72,500;1,7..72,700&display=swap" rel="stylesheet" />
+    <link rel="preload" href={u('/fonts/golos-text-normal-cyrillic.woff2')} as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href={u('/fonts/literata-normal-cyrillic.woff2')} as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href={u('/fonts/fonts.css')} />
     {ld && <script type="application/ld+json" set:html={JSON.stringify(ld)} />}
   </head>
   <body class={bodyClass || undefined}>

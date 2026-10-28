@@ -6,7 +6,7 @@
 - Тестовый показ: https://tema-mail.github.io/reyting-nsk/ (весь сайт noindex + robots Disallow)
 - Стек: Astro 7, статическая сборка, без островов (формы – обычный скрипт).
 - Карта сайта, тексты, SEO-задание: `~/Sites/reytingi/docs` (karta-nsk.md, teksty-nsk.md, zadanie-shablony.md).
-- Решения и открытые вопросы: `docs/resheniya.md`.
+- Решения и открытые вопросы: `~/Sites/reytingi/docs/sayty/resheniya-nsk.md (закрытый репо)`.
 
 ## Как устроено
 Новые ниши:

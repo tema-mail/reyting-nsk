@@ -1,7 +1,7 @@
 # reyting-nsk – сайт 2 «Новосибирск в баллах» (рабочее название)
 
 Рейтинг компаний Новосибирска по открытым цифрам: Astro (статический), GitHub Pages `tema-mail.github.io/reyting-nsk` (тест, noindex).
-Исходники смыслов – `~/Sites/reytingi/docs` (только читать). Решения и открытые вопросы – `docs/resheniya.md` (один источник).
+Исходники смыслов – `~/Sites/reytingi/docs` (только читать). Решения и открытые вопросы – `~/Sites/reytingi/docs/sayty/resheniya-nsk.md (закрытый репо)` (один источник).
 
 ## Правила
 - Адреса строго по карте `~/Sites/reytingi/docs/karta/karta-nsk.md`: `/<категория>/<ниша>/`, карточки `/kompanii/<slug>/`, город в адресе не пишем.

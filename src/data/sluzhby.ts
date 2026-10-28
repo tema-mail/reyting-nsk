@@ -1,5 +1,5 @@
 // Редакционные тексты служб доставки цветов – дословно из reytingi/docs/marketing/teksty-nsk.md (25.10.2026).
-// Цифры в текстах сверены со срезом (scripts/sverka.mjs, docs/resheniya.md). Ключ – название в json съёма.
+// Цифры в текстах сверены со срезом (scripts/sverka.mjs, ~/Sites/reytingi/docs/sayty/resheniya-nsk.md (закрытый репо)). Ключ – название в json съёма.
 // slug – по правилу карты сайта: бренд без родовых слов, кириллица – транслит Яндекса.
 
 export interface SluzhbaText {

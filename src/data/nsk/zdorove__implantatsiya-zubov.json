@@ -1,0 +1,1239 @@
+{
+ "ниша": "Имплантация зубов",
+ "ключ": "zdorove/implantatsiya-zubov",
+ "запросы": [
+  "имплантация зубов"
+ ],
+ "найдено_в_яндексе": {
+  "имплантация зубов": 100
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "30895734826",
+   "название": "Дельта",
+   "seoname": "delta",
+   "адрес": "ул. Максима Горького, 66",
+   "координаты": [
+    82.920596,
+    55.026806
+   ],
+   "рейтинг": 5,
+   "оценок": 1573,
+   "отзывов": 1435,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://delta-54.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 235-92-49"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "dental treatment in installments",
+    "free examination",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/delta/30895734826/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 57
+  },
+  {
+   "id": "1265521374",
+   "название": "Эра",
+   "seoname": "era",
+   "адрес": "просп. Димитрова, 18",
+   "координаты": [
+    82.913178,
+    55.035135
+   ],
+   "рейтинг": 5,
+   "оценок": 751,
+   "отзывов": 554,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://era-medcenter.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 202-13-58"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "диагностический центр",
+    "амбулатория, здравпункт, медпункт"
+   ],
+   "признаки": [
+    "an_injection",
+    "car_park",
+    "childrens_specialists",
+    "covid_test",
+    "doctor home visit",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "hospital_day_care",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/era/1265521374/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 77
+  },
+  {
+   "id": "189139545698",
+   "название": "Skydent",
+   "seoname": "skydent",
+   "адрес": "Военная ул., 9/2",
+   "координаты": [
+    82.940135,
+    55.028161
+   ],
+   "рейтинг": 5,
+   "оценок": 842,
+   "отзывов": 516,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://skydent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 285-53-36"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "for_children",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skydent/189139545698/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 72,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1043771883",
+   "название": "Небольсин",
+   "seoname": "nebolsin",
+   "адрес": "ул. Ленина, 12",
+   "координаты": [
+    82.913519,
+    55.029656
+   ],
+   "рейтинг": 5,
+   "оценок": 457,
+   "отзывов": 255,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.centr-stom.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-27-00"
+   ],
+   "часы": "ежедневно, 08:00–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "детская стоматология"
+   ],
+   "признаки": [
+    "bike_parking",
+    "dental treatment in installments",
+    "elevator_wheelchair_accessible",
+    "for_children",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nebolsin/1043771883/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 81
+  },
+  {
+   "id": "1035997915",
+   "название": "СтильДент",
+   "seoname": "stildent",
+   "адрес": "ул. Гоголя, 38",
+   "координаты": [
+    82.934451,
+    55.043379
+   ],
+   "рейтинг": 4.7,
+   "оценок": 537,
+   "отзывов": 229,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://styledent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-77-12"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб,вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "for_children",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stildent/1035997915/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 82
+  },
+  {
+   "id": "192102894959",
+   "название": "Стоматика",
+   "seoname": "stomatika",
+   "адрес": "Зыряновская ул., 53",
+   "координаты": [
+    82.937811,
+    55.011198
+   ],
+   "рейтинг": 5,
+   "оценок": 635,
+   "отзывов": 197,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://100matika.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 303-44-40"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "elevator_wheelchair_accessible",
+    "free examination",
+    "guarantee",
+    "payment_by_credit_card",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stomatika/192102894959/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 92
+  },
+  {
+   "id": "52714816554",
+   "название": "Стоматология 24",
+   "seoname": "stomatologiya_24",
+   "адрес": "Коммунистическая ул., 1",
+   "координаты": [
+    82.910949,
+    55.022783
+   ],
+   "рейтинг": 4.8,
+   "оценок": 329,
+   "отзывов": 188,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stom24.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 284-22-99",
+    "+7 (983) 051-24-24",
+    "+7 (383) 205-24-24"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "стоматологическая поликлиника",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "dental treatment in installments",
+    "free examination",
+    "payment_by_credit_card",
+    "roszdrav_license",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stomatologiya_24/52714816554/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 61
+  },
+  {
+   "id": "159637219615",
+   "название": "Ай дент",
+   "seoname": "ay_dent",
+   "адрес": "ул. Сибревкома, 9",
+   "координаты": [
+    82.9324,
+    55.021579
+   ],
+   "рейтинг": 4.9,
+   "оценок": 480,
+   "отзывов": 184,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ident-implant.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 207-55-77"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "dental treatment in installments",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "for_children",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "massage_services",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "roszdrav_license",
+    "street_entrance",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ay_dent/159637219615/",
+   "последний_отзыв": "2026-09-14",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 77
+  },
+  {
+   "id": "135141154415",
+   "название": "Skydent",
+   "seoname": "skydent",
+   "адрес": "Ленинградская ул., 106",
+   "координаты": [
+    82.958563,
+    55.012703
+   ],
+   "рейтинг": 5,
+   "оценок": 207,
+   "отзывов": 179,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://skydent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 285-53-36"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "dental treatment in installments",
+    "for_children",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skydent/135141154415/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1773749594",
+   "название": "RecomenDent",
+   "seoname": "recomendent",
+   "адрес": "ул. Салтыкова-Щедрина, 118, Новосибирск",
+   "координаты": [
+    82.899756,
+    55.039511
+   ],
+   "рейтинг": 4.9,
+   "оценок": 482,
+   "отзывов": 173,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://recomendent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 340-40-40"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "стоматологическая поликлиника",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "for_children",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/recomendent/1773749594/",
+   "последний_отзыв": "2026-08-31",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 79
+  },
+  {
+   "id": "144346289806",
+   "название": "Эстетика",
+   "seoname": "estetika",
+   "адрес": "ул. Урицкого, 6",
+   "координаты": [
+    82.915062,
+    55.024397
+   ],
+   "рейтинг": 5,
+   "оценок": 354,
+   "отзывов": 163,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 383-07-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "bike_parking",
+    "dental treatment in installments",
+    "for_children",
+    "free examination",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/estetika/144346289806/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 61
+  },
+  {
+   "id": "100745316084",
+   "название": "Дентал-Сервис",
+   "seoname": "dental_servis",
+   "адрес": "площадь Карла Маркса, 1, Новосибирск",
+   "координаты": [
+    82.897451,
+    54.981376
+   ],
+   "рейтинг": 5,
+   "оценок": 361,
+   "отзывов": 136,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dentservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-75-02"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "детская стоматология"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "dental treatment in installments",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "for_children",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dental_servis/100745316084/",
+   "последний_отзыв": "2026-07-07",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1003307670",
+   "название": "Дентал-Сервис",
+   "seoname": "dental_servis",
+   "адрес": "ул. Революции, 10",
+   "координаты": [
+    82.910103,
+    55.026404
+   ],
+   "рейтинг": 4.9,
+   "оценок": 371,
+   "отзывов": 126,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dentservice.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-75-02"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "disable_captions",
+    "disable_photopoi",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dental_servis/1003307670/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 95
+  },
+  {
+   "id": "1066628446",
+   "название": "Грааль",
+   "seoname": "graal",
+   "адрес": "Красный просп., 163",
+   "координаты": [
+    82.910775,
+    55.063123
+   ],
+   "рейтинг": 5,
+   "оценок": 176,
+   "отзывов": 117,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://graal-dent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 227-27-00",
+    "+7 (951) 380-95-42",
+    "+7 (383) 255-00-05",
+    "+7 (383) 358-66-00",
+    "+7 (961) 227-99-00",
+    "+7 (961) 825-66-00"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "dental treatment in installments",
+    "for_children",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/graal/1066628446/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 47
+  },
+  {
+   "id": "1087003636",
+   "название": "Восход",
+   "seoname": "voskhod",
+   "адрес": "ул. Восход, 26/1",
+   "координаты": [
+    82.944098,
+    55.013084
+   ],
+   "рейтинг": 5,
+   "оценок": 160,
+   "отзывов": 112,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stm-voshod.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 950-01-06"
+   ],
+   "часы": "пн-пт 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "диагностический центр",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/voskhod/1087003636/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 79
+  },
+  {
+   "id": "201560595300",
+   "название": "Архитектура Здоровья",
+   "seoname": "arkhitektura_zdorovya",
+   "адрес": "ул. Ленина, 85, Новосибирск",
+   "координаты": [
+    82.894011,
+    55.040612
+   ],
+   "рейтинг": 5,
+   "оценок": 150,
+   "отзывов": 111,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://azmednsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-66-47",
+    "+7 (383) 285-40-63"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб,вс 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "остеопатия, мануальная терапия",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "childrens_specialists",
+    "elevator_wheelchair_accessible",
+    "for_children",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "integrative_medicine",
+    "manual_therapy",
+    "massage_services",
+    "osteopathy",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wheelchair_accessible_elevator",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arkhitektura_zdorovya/201560595300/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1930282653",
+   "название": "Like Dent",
+   "seoname": "like_dent",
+   "адрес": "Серебренниковская ул., 13",
+   "координаты": [
+    82.927031,
+    55.01954
+   ],
+   "рейтинг": 5,
+   "оценок": 245,
+   "отзывов": 106,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://like-dent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 284-16-82"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "dental treatment in installments",
+    "free examination",
+    "guarantee",
+    "payment_by_credit_card",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/like_dent/1930282653/",
+   "последний_отзыв": "2026-08-14",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 58
+  },
+  {
+   "id": "1284178046",
+   "название": "Центр дентальной имплантации",
+   "seoname": "tsentr_dentalnoy_implantatsii",
+   "адрес": "Новосибирск, микрорайон Горский, 1",
+   "координаты": [
+    82.910004,
+    54.993777
+   ],
+   "рейтинг": 5,
+   "оценок": 135,
+   "отзывов": 76,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://cdi54.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 002-01-66"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "payment_by_credit_card",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_dentalnoy_implantatsii/1284178046/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 57
+  },
+  {
+   "id": "1240938081",
+   "название": "Стоматология 32",
+   "seoname": "stomatologiya_32",
+   "адрес": "ул. Кошурникова, 8",
+   "координаты": [
+    82.950805,
+    55.043004
+   ],
+   "рейтинг": 4.7,
+   "оценок": 159,
+   "отзывов": 75,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://stom32nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 235-96-08"
+   ],
+   "часы": "пн-пт 08:30–20:30; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "зуботехническая лаборатория"
+   ],
+   "признаки": [
+    "car_park",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "view_medicine_booking"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/stomatologiya_32/1240938081/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 82
+  },
+  {
+   "id": "10495497065",
+   "название": "Константа Дент",
+   "seoname": "konstanta_dent",
+   "адрес": "ул. Максима Горького, 47",
+   "координаты": [
+    82.912501,
+    55.026598
+   ],
+   "рейтинг": 5,
+   "оценок": 93,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.constanta-dent.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-08-26",
+    "+7 (951) 397-18-48"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "стоматологические материалы и оборудование"
+   ],
+   "признаки": [
+    "dental treatment in installments",
+    "free examination",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/konstanta_dent/10495497065/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 70
+  },
+  {
+   "id": "96515370073",
+   "название": "Smile Factory",
+   "seoname": "smile_factory",
+   "адрес": "ул. Тимирязева, 97",
+   "координаты": [
+    82.904511,
+    55.058064
+   ],
+   "рейтинг": 5,
+   "оценок": 78,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.smilef.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 310-36-31",
+    "+7 (383) 354-99-17"
+   ],
+   "часы": "пн-пт 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "disable_captions",
+    "doubloons_loyalty_card",
+    "free examination",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/smile_factory/96515370073/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 69
+  },
+  {
+   "id": "114318155853",
+   "название": "Сити-Дент",
+   "seoname": "siti_dent",
+   "адрес": "ул. Крылова, 63",
+   "координаты": [
+    82.937191,
+    55.042526
+   ],
+   "рейтинг": 4.9,
+   "оценок": 92,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sitydent.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-22-32"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб 09:00–17:00; вс 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "детская стоматология"
+   ],
+   "признаки": [
+    "car_park",
+    "for_children",
+    "free examination",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/siti_dent/114318155853/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 77
+  },
+  {
+   "id": "1243132360",
+   "название": "Имплант-Сибирь",
+   "seoname": "implant_sibir",
+   "адрес": "Коммунистическая ул., 35",
+   "координаты": [
+    82.921031,
+    55.023583
+   ],
+   "рейтинг": 4.8,
+   "оценок": 68,
+   "отзывов": 31,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://implantsibir.ru/"
+   ],
+   "телефоны": [
+    "+7 (901) 247-73-44"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "зуботехническая лаборатория",
+    "косметология"
+   ],
+   "признаки": [
+    "car_park",
+    "cosmetology for men",
+    "dental treatment in installments",
+    "free examination",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/implant_sibir/1243132360/",
+   "последний_отзыв": "2026-08-24",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 56
+  },
+  {
+   "id": "35231790701",
+   "название": "Респект",
+   "seoname": "respekt",
+   "адрес": "ул. Щетинкина, 32",
+   "координаты": [
+    82.910511,
+    55.027085
+   ],
+   "рейтинг": 4.9,
+   "оценок": 53,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://respect-dental.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-89-08"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 09:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника",
+    "зуботехническая лаборатория",
+    "учебный центр"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "disable_captions",
+    "disable_photopoi",
+    "free examination",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/respekt/35231790701/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 45
+  },
+  {
+   "id": "102814737460",
+   "название": "Имплант центр",
+   "seoname": "implant_tsentr",
+   "адрес": "ул. Гоголя, 23",
+   "координаты": [
+    82.93033,
+    55.04361
+   ],
+   "рейтинг": 4.6,
+   "оценок": 28,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://implant-centr54.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 951-63-06",
+    "+7 (383) 388-41-83"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Стоматологическая клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "dental treatment in installments",
+    "disable_captions",
+    "free examination",
+    "gift_certificate",
+    "guarantee",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/implant_tsentr/102814737460/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 29
+  }
+ ]
+}

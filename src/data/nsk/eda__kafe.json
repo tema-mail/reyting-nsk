@@ -1,0 +1,1341 @@
+{
+ "ниша": "Кафе",
+ "ключ": "eda/kafe",
+ "запросы": [
+  "кафе"
+ ],
+ "найдено_в_яндексе": {
+  "кафе": 71
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "62509065104",
+   "название": "Чико",
+   "seoname": "chiko",
+   "адрес": "Красный просп., 17",
+   "координаты": [
+    82.920919,
+    55.026369
+   ],
+   "рейтинг": 5,
+   "оценок": 4203,
+   "отзывов": 2952,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://chicko.me/"
+   ],
+   "телефоны": [
+    "+7 (383) 304-94-49"
+   ],
+   "часы": "пн-чт 12:00–21:00; пт,сб 12:00–22:00; вс 12:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе"
+   ],
+   "признаки": [
+    "good_place",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chiko/62509065104/",
+   "последний_отзыв": "2026-08-07",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1179121345",
+   "название": "Аджикинежаль",
+   "seoname": "adzhikinezhal",
+   "адрес": "Красный просп., 37, Новосибирск",
+   "координаты": [
+    82.918748,
+    55.034393
+   ],
+   "рейтинг": 5,
+   "оценок": 6717,
+   "отзывов": 2824,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://adjiki.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 227-09-21",
+    "+7 (383) 383-04-44"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт,сб 12:00–02:00; вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан"
+   ],
+   "признаки": [
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "coffee_to_go",
+    "elevator_wheelchair_accessible",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/adzhikinezhal/1179121345/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 92
+  },
+  {
+   "id": "1137743564",
+   "название": "Максимилианс",
+   "seoname": "maksimilians",
+   "адрес": "ул. Дуси Ковальчук, 1/1, Новосибирск",
+   "координаты": [
+    82.881872,
+    55.049398
+   ],
+   "рейтинг": 4.7,
+   "оценок": 6288,
+   "отзывов": 2343,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://nsk.maximilians.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-90-38"
+   ],
+   "часы": "вт-чт 12:00–00:00; пт,сб 12:00–05:00; вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "бар",
+    "концертный зал"
+   ],
+   "признаки": [
+    "business_lunch",
+    "car_park",
+    "coffee_to_go",
+    "craft_beer",
+    "dancefloor",
+    "food_delivery",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "projector",
+    "sports_broadcasts",
+    "takeaway",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maksimilians/1137743564/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 65,
+   "загружено_дат": 90
+  },
+  {
+   "id": "1716768724",
+   "название": "СибирьСибирь",
+   "seoname": "sibirsibir",
+   "адрес": "ул. Ленина, 21",
+   "координаты": [
+    82.904931,
+    55.029615
+   ],
+   "рейтинг": 5,
+   "оценок": 4500,
+   "отзывов": 2009,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sibirsibir.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-12-09"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт,сб 12:00–02:00; вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "breakfast",
+    "business_lunch",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "projector",
+    "ramp",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibirsibir/1716768724/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 55,
+   "загружено_дат": 62
+  },
+  {
+   "id": "116521508564",
+   "название": "Коробок",
+   "seoname": "korobok",
+   "адрес": "ул. Чаплыгина, 28",
+   "координаты": [
+    82.914701,
+    55.025247
+   ],
+   "рейтинг": 5,
+   "оценок": 4467,
+   "отзывов": 1826,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://gastrobar-korobok.com/"
+   ],
+   "телефоны": [
+    "+7 (923) 188-00-28"
+   ],
+   "часы": "пн-чт 11:00–00:00; пт 11:00–01:00; сб 10:00–01:00; вс 10:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "кафе",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "breakfast",
+    "business_lunch",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_water",
+    "coffee_to_go",
+    "craft_beer",
+    "disable_captions",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "kz_kaspi_qr",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/korobok/116521508564/",
+   "последний_отзыв": "2026-10-04",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 78
+  },
+  {
+   "id": "57059122850",
+   "название": "Горячий Цех",
+   "seoname": "goryachiy_tsekh",
+   "адрес": "ул. Ленина, 6",
+   "координаты": [
+    82.917467,
+    55.029913
+   ],
+   "рейтинг": 5,
+   "оценок": 3927,
+   "отзывов": 1636,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://gc-rest.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 900-53-53"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт,сб 12:00–01:00; вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "кафе",
+    "бар"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "projector",
+    "street_entrance",
+    "takeaway",
+    "wi_fi",
+    "yandex_eda_qr_pay"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goryachiy_tsekh/57059122850/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 61,
+   "загружено_дат": 86
+  },
+  {
+   "id": "1107375657",
+   "название": "ШашлыкоFF",
+   "seoname": "shashlykoff",
+   "адрес": "Красный просп., 17",
+   "координаты": [
+    82.920701,
+    55.026647
+   ],
+   "рейтинг": 5,
+   "оценок": 3202,
+   "отзывов": 1609,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shashlikoff.com/"
+   ],
+   "телефоны": [
+    "8 (800) 250-11-00",
+    "+7 (383) 209-03-74"
+   ],
+   "часы": "пн-чт 11:00–00:00; пт,сб 11:00–02:00; вс 11:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан"
+   ],
+   "признаки": [
+    "business_lunch",
+    "food_delivery",
+    "payment_by_credit_card",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shashlykoff/1107375657/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1009809170",
+   "название": "Кардамон",
+   "seoname": "kardamon",
+   "адрес": "ул. Чаплыгина, 39",
+   "координаты": [
+    82.91547,
+    55.025661
+   ],
+   "рейтинг": 5,
+   "оценок": 2674,
+   "отзывов": 1277,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kardamon.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 207-84-03"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе",
+    "кофейня",
+    "ресторан"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "booking_by_alice",
+    "breakfast",
+    "business_lunch",
+    "call_button",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dimmed_lights",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi",
+    "yandex_eda_qr_pay"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kardamon/1009809170/",
+   "последний_отзыв": "2026-09-15",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 81
+  },
+  {
+   "id": "123432688328",
+   "название": "Сердце сулугули",
+   "seoname": "serdtse_suluguli",
+   "адрес": "Вокзальная магистраль, 16",
+   "координаты": [
+    82.914212,
+    55.031593
+   ],
+   "рейтинг": 4.8,
+   "оценок": 2911,
+   "отзывов": 1191,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://suluguli.ru/",
+    "http://624062.restoplace.ws/"
+   ],
+   "телефоны": [
+    "+7 (383) 255-66-88",
+    "+7 (962) 835-66-88"
+   ],
+   "часы": "пн-чт 10:00–23:00; пт-вс 11:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "кафе",
+    "банкетный зал"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "business_lunch",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "disable_photopoi",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "nursery",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/serdtse_suluguli/123432688328/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 91
+  },
+  {
+   "id": "1209141655",
+   "название": "Амбар",
+   "seoname": "ambar",
+   "адрес": "ул. Ленина, 48",
+   "координаты": [
+    82.90324,
+    55.032276
+   ],
+   "рейтинг": 5,
+   "оценок": 2670,
+   "отзывов": 1129,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://ambarnsk.ru/",
+    "https://onelink.to/qk9yh5"
+   ],
+   "телефоны": [
+    "+7 (383) 223-15-15",
+    "+7 (939) 826-15-15"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dimmed_lights",
+    "disable_captions",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ambar/1209141655/",
+   "последний_отзыв": "2026-10-04",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 47
+  },
+  {
+   "id": "1243356924",
+   "название": "Баранжар",
+   "seoname": "baranzhar",
+   "адрес": "Советская ул., 18",
+   "координаты": [
+    82.916658,
+    55.030129
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2570,
+   "отзывов": 1068,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://baranjar.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-41-86"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе",
+    "ресторан",
+    "доставка еды и обедов"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "coffee_to_go",
+    "food_delivery",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/baranzhar/1243356924/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 38,
+   "загружено_дат": 72
+  },
+  {
+   "id": "30314396304",
+   "название": "Коза и Лоза",
+   "seoname": "koza_i_loza",
+   "адрес": "ул. Максима Горького, 66",
+   "координаты": [
+    82.920748,
+    55.027003
+   ],
+   "рейтинг": 5,
+   "оценок": 1771,
+   "отзывов": 1004,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kozailoza.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 248-66-99"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "кафе"
+   ],
+   "признаки": [
+    "automatic_door",
+    "bike_parking",
+    "business_lunch",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "nursery",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "takeaway",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/koza_i_loza/30314396304/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 49,
+   "загружено_дат": 70
+  },
+  {
+   "id": "177319657789",
+   "название": "РомаАнтика",
+   "seoname": "romaantika",
+   "адрес": "Серебренниковская ул., 9",
+   "координаты": [
+    82.927445,
+    55.017888
+   ],
+   "рейтинг": 5,
+   "оценок": 1905,
+   "отзывов": 870,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.pizzacarlo.ru/",
+    "https://dostavka.pizzacarlo.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-29-29"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "пиццерия",
+    "доставка еды и обедов"
+   ],
+   "признаки": [
+    "business_lunch",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "delivery",
+    "dimmed_lights",
+    "food_delivery",
+    "free_delivery",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/romaantika/177319657789/",
+   "последний_отзыв": "2026-08-15",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 92
+  },
+  {
+   "id": "1379754677",
+   "название": "Sinlun cafe",
+   "seoname": "sinlun_cafe",
+   "адрес": "ул. Кирова, 29",
+   "координаты": [
+    82.948557,
+    55.016347
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1551,
+   "отзывов": 750,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://sinlun.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-10-18",
+    "+7 (383) 347-98-85",
+    "+7 (383) 349-99-95"
+   ],
+   "часы": "ежедневно, 11:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе"
+   ],
+   "признаки": [
+    "breakfast",
+    "business_lunch",
+    "coffee_to_go",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sinlun_cafe/1379754677/",
+   "последний_отзыв": "2026-09-01",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 48
+  },
+  {
+   "id": "112568208169",
+   "название": "Мама Дома",
+   "seoname": "mama_doma",
+   "адрес": "ул. Урицкого, 6",
+   "координаты": [
+    82.915604,
+    55.025302
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1544,
+   "отзывов": 706,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мамадома.сайт/"
+   ],
+   "телефоны": [
+    "+7 (903) 900-87-27"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "breakfast",
+    "business_lunch",
+    "coffee_to_go",
+    "craft_beer",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wheelchair_accessability",
+    "wi_fi",
+    "yandex_eda_qr_pay"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mama_doma/112568208169/",
+   "последний_отзыв": "2026-09-05",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1112145094",
+   "название": "Goodman",
+   "seoname": "goodman",
+   "адрес": "Советская ул., 5",
+   "координаты": [
+    82.917929,
+    55.021807
+   ],
+   "рейтинг": 5,
+   "оценок": 1673,
+   "отзывов": 642,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://goodman-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 289-25-25"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "кафе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "menu for children",
+    "nursery",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/goodman/1112145094/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1841093982",
+   "название": "Нью Мехико",
+   "seoname": "nyu_mekhiko",
+   "адрес": "Красный просп., 17/1",
+   "координаты": [
+    82.920768,
+    55.02603
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1463,
+   "отзывов": 632,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://newmexico.su/",
+    "https://dostavka-mexico.ru/"
+   ],
+   "телефоны": [
+    "+7 (969) 228-62-21"
+   ],
+   "часы": "пн-пт 11:00–00:00; сб,вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "игровая комната",
+    "кейтеринг"
+   ],
+   "признаки": [
+    "bike_parking",
+    "business_lunch",
+    "call_button",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dimmed_lights",
+    "doubloons_loyalty_card",
+    "elevator_wheelchair_accessible",
+    "food_delivery",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "kondicioner",
+    "menu for children",
+    "nursery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "takeaway",
+    "toilet",
+    "toilet_childrens",
+    "traffic_congestion_charge",
+    "wheelchair_accessability",
+    "wheelchair_accessible_elevator",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nyu_mekhiko/1841093982/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 53
+  },
+  {
+   "id": "1074235805",
+   "название": "Штолле",
+   "seoname": "shtolle",
+   "адрес": "Красный просп., 63",
+   "координаты": [
+    82.916474,
+    55.041253
+   ],
+   "рейтинг": 4.9,
+   "оценок": 679,
+   "отзывов": 421,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://nsk.stolle.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 062-45-26"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе",
+    "пекарня"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "breakfast",
+    "business_lunch",
+    "coffee_to_go",
+    "food_delivery",
+    "good_place",
+    "payment_by_credit_card",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shtolle/1074235805/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 37,
+   "загружено_дат": 68
+  },
+  {
+   "id": "164299866317",
+   "название": "Додо Пицца",
+   "seoname": "dodo_pitstsa",
+   "адрес": "Красный просп., 17",
+   "координаты": [
+    82.920744,
+    55.026597
+   ],
+   "рейтинг": 4.3,
+   "оценок": 982,
+   "отзывов": 400,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://app.dodopizza.ru/YlkM/yandexmaps"
+   ],
+   "телефоны": [
+    "8 (800) 302-00-60"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Пиццерия",
+    "кафе",
+    "быстрое питание"
+   ],
+   "признаки": [
+    "coffee_to_go",
+    "doubloons_loyalty_card",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "street_entrance",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dodo_pitstsa/164299866317/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 70
+  },
+  {
+   "id": "208186902551",
+   "название": "Додо Пицца",
+   "seoname": "dodo_pitstsa",
+   "адрес": "ул. Кирова, 46/1",
+   "координаты": [
+    82.93942,
+    55.018334
+   ],
+   "рейтинг": 4.3,
+   "оценок": 733,
+   "отзывов": 332,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://app.dodopizza.ru/YlkM/yandexmaps"
+   ],
+   "телефоны": [
+    "8 (800) 302-00-60"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Пиццерия",
+    "кафе",
+    "быстрое питание"
+   ],
+   "признаки": [
+    "coffee_to_go",
+    "doubloons_loyalty_card",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "takeaway",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dodo_pitstsa/208186902551/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 79
+  },
+  {
+   "id": "66909818730",
+   "название": "Додо Пицца",
+   "seoname": "dodo_pitstsa",
+   "адрес": "ул. Кошурникова, 7/2",
+   "координаты": [
+    82.956488,
+    55.043071
+   ],
+   "рейтинг": 4.4,
+   "оценок": 493,
+   "отзывов": 202,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://app.dodopizza.ru/YlkM/yandexmaps"
+   ],
+   "телефоны": [
+    "8 (800) 302-00-60"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Пиццерия",
+    "кафе",
+    "быстрое питание"
+   ],
+   "признаки": [
+    "coffee_to_go",
+    "doubloons_loyalty_card",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "street_entrance",
+    "takeaway",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dodo_pitstsa/66909818730/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 93
+  },
+  {
+   "id": "119903268520",
+   "название": "Federico Fellini",
+   "seoname": "federico_fellini",
+   "адрес": "ул. Романова, 27",
+   "координаты": [
+    82.918107,
+    55.034693
+   ],
+   "рейтинг": 4.5,
+   "оценок": 510,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fellini.rest/"
+   ],
+   "телефоны": [
+    "+7 (913) 916-23-23"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dancefloor",
+    "dimmed_lights",
+    "food_delivery",
+    "gift_certificate",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/federico_fellini/119903268520/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 57
+  },
+  {
+   "id": "120840017472",
+   "название": "Сезоны",
+   "seoname": "sezony",
+   "адрес": "ул. Победы, 55",
+   "координаты": [
+    82.878651,
+    55.067778
+   ],
+   "рейтинг": 4.5,
+   "оценок": 357,
+   "отзывов": 108,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ramadanovosibirsk.com/congress-hall",
+    "https://ramadanovosibirsk.com/events"
+   ],
+   "телефоны": [
+    "+7 (905) 946-01-80",
+    "+7 (913) 982-42-81",
+    "+7 (383) 230-35-55"
+   ],
+   "часы": "пн-чт 07:00–00:00; пт,сб 07:00–01:00; вс 07:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "банкетный зал"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "breakfast",
+    "call_button",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "food_delivery",
+    "for_kids",
+    "gift_certificate",
+    "kondicioner",
+    "menu for children",
+    "online_recording",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "toilet_for_disabled",
+    "traffic_congestion_charge",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sezony/120840017472/",
+   "последний_отзыв": "2026-09-02",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 53
+  },
+  {
+   "id": "44996185565",
+   "название": "Den's Pizza",
+   "seoname": "den_s_pizza",
+   "адрес": "ул. Семьи Шамшиных, 88, Новосибирск",
+   "координаты": [
+    82.928871,
+    55.046253
+   ],
+   "рейтинг": 4.7,
+   "оценок": 72,
+   "отзывов": 47,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dens-pizza.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 743-33-03"
+   ],
+   "часы": "ежедневно, 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Пиццерия",
+    "кафе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_tea_food_discount",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/den_s_pizza/44996185565/",
+   "последний_отзыв": "2026-08-31",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 58
+  },
+  {
+   "id": "237030043292",
+   "название": "ПоСтоГрамм",
+   "seoname": "postogramm",
+   "адрес": "Красный просп., 22, Новосибирск",
+   "координаты": [
+    82.92306,
+    55.023038
+   ],
+   "рейтинг": 4.6,
+   "оценок": 14,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://постограмм.рф/"
+   ],
+   "телефоны": [
+    "+7 (993) 001-00-33"
+   ],
+   "часы": "чт 17:00–02:00; пт,сб 17:00–04:00; вс 17:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Рюмочная",
+    "кафе",
+    "бар"
+   ],
+   "признаки": [
+    "adults only",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "dancefloor",
+    "dimmed_lights",
+    "kondicioner",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/postogramm/237030043292/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 18
+  }
+ ]
+}

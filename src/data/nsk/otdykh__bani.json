@@ -1,0 +1,1320 @@
+{
+ "ниша": "Бани",
+ "ключ": "otdykh/bani",
+ "запросы": [
+  "баня"
+ ],
+ "найдено_в_яндексе": {
+  "баня": 91
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1715308579",
+   "название": "Аквамир",
+   "seoname": "akvamir",
+   "адрес": "Яринская ул., 8",
+   "координаты": [
+    82.886412,
+    55.020032
+   ],
+   "рейтинг": 5,
+   "оценок": 43689,
+   "отзывов": 14466,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://akvaparknsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 316-00-00"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Аквапарк",
+    "баня",
+    "термальный комплекс"
+   ],
+   "признаки": [
+    "automatic_door",
+    "bathhouse",
+    "cafe",
+    "call_button",
+    "car_park",
+    "cedar_barrel",
+    "childrens_pool",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "hammam",
+    "lagoon",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pool_backflow",
+    "preliminary_registration",
+    "privilege_tickets",
+    "ramp",
+    "sauna",
+    "show_briefly_about_the_place_block",
+    "spa",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wave_pool",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akvamir/1715308579/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 57,
+   "загружено_дат": 67
+  },
+  {
+   "id": "187362948707",
+   "название": "Мира Термы",
+   "seoname": "mira_termy",
+   "адрес": "Окружная ул., 33",
+   "координаты": [
+    82.93861,
+    55.081978
+   ],
+   "рейтинг": 5,
+   "оценок": 21072,
+   "отзывов": 7421,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://miratermy.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 363-38-10"
+   ],
+   "часы": "ежедневно, 09:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Оздоровительный центр",
+    "баня",
+    "бассейн"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "hammam",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "public_bath",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mira_termy/187362948707/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 56,
+   "загружено_дат": 83
+  },
+  {
+   "id": "7105712943",
+   "название": "Сандуны Сибирь",
+   "seoname": "sanduny_sibir",
+   "адрес": "Каменская ул., 19А",
+   "координаты": [
+    82.928983,
+    55.027217
+   ],
+   "рейтинг": 5,
+   "оценок": 3134,
+   "отзывов": 1272,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sibir.sanduny.ru/",
+    "https://taplink.cc/sanduny_sibir"
+   ],
+   "телефоны": [
+    "+7 (383) 209-18-08"
+   ],
+   "часы": "пн-ср 10:00–00:00; чт-вс 09:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "ресторан",
+    "сауна"
+   ],
+   "признаки": [
+    "call_button",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "public_bath",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sanduny_sibir/7105712943/",
+   "последний_отзыв": "2026-10-10",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 82
+  },
+  {
+   "id": "1255719714",
+   "название": "Паровозовъ",
+   "seoname": "parovozov",
+   "адрес": "ул. Дуси Ковальчук, 20А",
+   "координаты": [
+    82.894989,
+    55.049773
+   ],
+   "рейтинг": 5,
+   "оценок": 2113,
+   "отзывов": 843,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://banyparovozov.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 246-00-46",
+    "+7 (383) 312-20-46"
+   ],
+   "часы": "вт-чт 11:00–23:00; пт 11:00–00:00; сб 10:00–00:00; вс 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "ресторан"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "public_bath",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/parovozov/1255719714/",
+   "последний_отзыв": "2026-10-01",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 49
+  },
+  {
+   "id": "59957888876",
+   "название": "Фёдоровские бани",
+   "seoname": "fyodorovskiye_bani",
+   "адрес": "Советская ул., 36, Новосибирск",
+   "координаты": [
+    82.914763,
+    55.036775
+   ],
+   "рейтинг": 5,
+   "оценок": 2044,
+   "отзывов": 823,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://fedorovskiebany.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-00-56"
+   ],
+   "часы": "вт-чт 11:00–23:00; пт 11:00–00:00; сб 10:00–00:00; вс 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "кафе",
+    "массажный салон"
+   ],
+   "признаки": [
+    "call_button",
+    "gift_certificate",
+    "massage_services",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "public_bath",
+    "sports_broadcasts",
+    "street_entrance",
+    "takeaway",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fyodorovskiye_bani/59957888876/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 49
+  },
+  {
+   "id": "1207866605",
+   "название": "Млечный Путь",
+   "seoname": "mlechny_put",
+   "адрес": "ул. Агафонова, 1А",
+   "координаты": [
+    82.885436,
+    55.185115
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1337,
+   "отзывов": 500,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.hotelmp.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 915-29-08"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "База, дом отдыха"
+   ],
+   "признаки": [
+    "Check_in_with_children",
+    "TV in room",
+    "accounting_documents",
+    "air_conditioning",
+    "around the clock front desk",
+    "baby cots",
+    "baggage_room",
+    "banquet hall",
+    "bathhouse",
+    "bathrobe",
+    "bathroom_in_room",
+    "bbq",
+    "beach bar",
+    "breakfast",
+    "breakfast_included",
+    "business center",
+    "cafe",
+    "canteen",
+    "champagne_for_breakfast",
+    "children_playground",
+    "cleaning",
+    "fireplace",
+    "free_cancellation",
+    "good_place",
+    "hairdryer",
+    "has_bar",
+    "has_conference_halls",
+    "has_restaurant",
+    "heating",
+    "high_speed_Internet",
+    "jacuzzi",
+    "kids_pool",
+    "king_size_double_bed",
+    "kitchen in the room",
+    "meals_paid_separately",
+    "menu for children",
+    "mobile_wi_fi",
+    "mosquito_nets",
+    "new_years_dinner",
+    "non smoking rooms",
+    "parties_are_allowed",
+    "payment_by_credit_card",
+    "pool",
+    "pool_bar",
+    "poolside bar",
+    "preliminary_registration",
+    "public area",
+    "reception_call_taxi",
+    "refrigerator",
+    "rest_on_the_river",
+    "room service",
+    "room_champagne",
+    "room_food_delivery",
+    "room_view",
+    "rooms with soundproofing",
+    "sauna",
+    "shared kitchen",
+    "show_briefly_about_the_place_block",
+    "shower",
+    "slippers",
+    "sofa_bed",
+    "spa",
+    "tea coffee in rooms",
+    "trash_can",
+    "ventilator",
+    "veranda terrace patio",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mlechny_put/1207866605/",
+   "последний_отзыв": "2026-08-22",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 51
+  },
+  {
+   "id": "1090999848",
+   "название": "Майами люкс",
+   "seoname": "mayami_lyuks",
+   "адрес": "ул. Карла Либкнехта, 93",
+   "координаты": [
+    82.961029,
+    55.022518
+   ],
+   "рейтинг": 5,
+   "оценок": 1298,
+   "отзывов": 499,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://miami-lux.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-15-22",
+    "+7 (383) 260-30-66"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Сауна",
+    "баня",
+    "бассейн"
+   ],
+   "признаки": [
+    "automatic_door",
+    "billiards",
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "hammam",
+    "karaoke",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mayami_lyuks/1090999848/",
+   "последний_отзыв": "2026-09-02",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 54
+  },
+  {
+   "id": "58139551074",
+   "название": "Емеля",
+   "seoname": "yemelya",
+   "адрес": "Горская ул., 33",
+   "координаты": [
+    82.89996,
+    54.99658
+   ],
+   "рейтинг": 5,
+   "оценок": 1470,
+   "отзывов": 476,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://banya-emelya.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-75-42"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "karaoke",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yemelya/58139551074/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 52
+  },
+  {
+   "id": "102759287574",
+   "название": "Кировские общественные бани",
+   "seoname": "kirovskiye_obshchestvennyye_bani",
+   "адрес": "ул. Петухова, 81/2",
+   "координаты": [
+    82.92852,
+    54.94134
+   ],
+   "рейтинг": 5,
+   "оценок": 1118,
+   "отзывов": 474,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://banikirovskie.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 291-93-93",
+    "+7 (913) 915-93-93"
+   ],
+   "часы": "ср-вс 11:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "бассейн",
+    "ресторан"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "public_bath",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kirovskiye_obshchestvennyye_bani/102759287574/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 51
+  },
+  {
+   "id": "44684053640",
+   "название": "Емеля",
+   "seoname": "yemelya",
+   "адрес": "Окружная ул., 29А",
+   "координаты": [
+    82.936468,
+    55.084412
+   ],
+   "рейтинг": 5,
+   "оценок": 1127,
+   "отзывов": 390,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.banya-emelya.ru/",
+    "https://taplink.cc/banya_emelya"
+   ],
+   "телефоны": [
+    "+7 (383) 230-75-42"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "karaoke",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yemelya/44684053640/",
+   "последний_отзыв": "2026-06-22",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1045693135",
+   "название": "Емеля",
+   "seoname": "yemelya",
+   "адрес": "2-я ул. Бурденко, 5",
+   "координаты": [
+    82.919852,
+    54.96764
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1018,
+   "отзывов": 377,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.banya-emelya.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-75-42"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "call_button",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "payment_by_credit_card",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yemelya/1045693135/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1155942462",
+   "название": "Берлога",
+   "seoname": "berloga",
+   "адрес": "5-й Трикотажный пер., 23, Новосибирск",
+   "координаты": [
+    82.990851,
+    55.04437
+   ],
+   "рейтинг": 5,
+   "оценок": 935,
+   "отзывов": 359,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://берлоганск.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 916-07-09",
+    "+7 (383) 292-07-09"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "hammam",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "public_bath",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/berloga/1155942462/",
+   "последний_отзыв": "2026-10-09",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 42
+  },
+  {
+   "id": "202327768959",
+   "название": "Сибирский Характер",
+   "seoname": "sibirskiy_kharakter",
+   "адрес": "ул. Корчагина, 8/1",
+   "координаты": [
+    82.979164,
+    54.985534
+   ],
+   "рейтинг": 5,
+   "оценок": 1055,
+   "отзывов": 356,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sibirski-harakter.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-50-30"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "база, дом отдыха",
+    "сауна"
+   ],
+   "признаки": [
+    "TV in room",
+    "adults only",
+    "air_conditioning",
+    "around the clock front desk",
+    "bath_tub",
+    "bathhouse",
+    "bathrobe",
+    "bathroom_in_room",
+    "bathroom_on_the_floor",
+    "beach umbrella",
+    "billiards",
+    "booking_sauna_advance",
+    "breakfast",
+    "cafe",
+    "call_button",
+    "car_park",
+    "cedar_barrel",
+    "champagne_for_breakfast",
+    "children_playground",
+    "childrens_high_chair",
+    "childrens_tv_channels",
+    "cleaning",
+    "covid_hotel_safety_disinfection_contact_surfaces",
+    "covid_hotel_safety_disinfection_dining_halls",
+    "covid_hotel_safety_disinfection_surfaces_rooms",
+    "deckchairs",
+    "door_mosquito_net",
+    "express check in out",
+    "garage",
+    "gazebo_rental",
+    "gift_certificate",
+    "good_place",
+    "hairdryer",
+    "hammam",
+    "has_bar",
+    "has_restaurant",
+    "health centre",
+    "heating",
+    "hotel garden",
+    "hotel_store",
+    "iron",
+    "karaoke",
+    "kids_pool",
+    "king_size_double_bed",
+    "kitchen in the room",
+    "massage_services",
+    "menu for children",
+    "minibar",
+    "mobile_wi_fi",
+    "mosquito_nets",
+    "new_years_dinner",
+    "non smoking rooms",
+    "parking_attendant",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pool",
+    "preliminary_registration",
+    "public area",
+    "refrigerator",
+    "remote_settlement",
+    "rest_on_the_river",
+    "room service",
+    "room_champagne",
+    "room_flower_delivery",
+    "room_food_delivery",
+    "room_view",
+    "rooms for smokers",
+    "rooms with soundproofing",
+    "sauna",
+    "settlement_of_foreign_citizens",
+    "shared kitchen",
+    "shared toilet",
+    "shared_veranda",
+    "show_briefly_about_the_place_block",
+    "shower",
+    "shower_on_the_floor",
+    "slippers",
+    "spa",
+    "spa_center",
+    "street_entrance",
+    "suitable_for_outdoor_activities",
+    "tea coffee in rooms",
+    "toilet_childrens",
+    "transfer",
+    "trash_can",
+    "valet parking",
+    "ventilator",
+    "veranda terrace patio",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibirskiy_kharakter/202327768959/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 66
+  },
+  {
+   "id": "1184753935",
+   "название": "Банный клуб",
+   "seoname": "banny_klub",
+   "адрес": "ул. Панфиловцев, 60Б",
+   "координаты": [
+    82.991155,
+    55.018477
+   ],
+   "рейтинг": 4.9,
+   "оценок": 915,
+   "отзывов": 340,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.banny-club.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-09-07",
+    "+7 (983) 510-09-07"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "karaoke",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "privilege_tickets",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/banny_klub/1184753935/",
+   "последний_отзыв": "2026-10-19",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 87
+  },
+  {
+   "id": "1195054686",
+   "название": "Кедровъ",
+   "seoname": "kedrov",
+   "адрес": "Сельскохозяйственная ул., 51, микрорайон Северный, Калининский район",
+   "координаты": [
+    82.933223,
+    55.094959
+   ],
+   "рейтинг": 5,
+   "оценок": 948,
+   "отзывов": 317,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://banikedrov.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 945-95-42",
+    "+7 (383) 375-73-30"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "gazebo_rental",
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kedrov/1195054686/",
+   "последний_отзыв": "2026-04-21",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 96
+  },
+  {
+   "id": "1200704345",
+   "название": "Горизонт Патио Отель",
+   "seoname": "gorizont_patio_otel",
+   "адрес": "Бердский тупик, 10, Новосибирск",
+   "координаты": [
+    83.056277,
+    54.831163
+   ],
+   "рейтинг": 4.7,
+   "оценок": 699,
+   "отзывов": 244,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.academ-hotel.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 286-22-15",
+    "+7 (383) 255-22-15"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "База, дом отдыха"
+   ],
+   "признаки": [
+    "TV in room",
+    "air_conditioning",
+    "around the clock front desk",
+    "banquet hall",
+    "bbq",
+    "car_park",
+    "cleaning",
+    "express check in out",
+    "free_cancellation",
+    "garage",
+    "good_place",
+    "hairdryer",
+    "heating",
+    "kitchen in the room",
+    "minibar",
+    "natural_reservoir",
+    "payment_by_credit_card",
+    "pets",
+    "private beach",
+    "refrigerator",
+    "room service",
+    "sauna",
+    "settlement_of_foreign_citizens",
+    "shared toilet",
+    "slippers",
+    "street_entrance",
+    "transfer",
+    "veranda terrace patio",
+    "wi_fi",
+    "wired_internet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gorizont_patio_otel/1200704345/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1710182858",
+   "название": "Мон Плезир",
+   "seoname": "mon_plezir",
+   "адрес": "Вокзальная магистраль, 1",
+   "координаты": [
+    82.900212,
+    55.035496
+   ],
+   "рейтинг": 4.9,
+   "оценок": 394,
+   "отзывов": 227,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sauna-novosib.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 000-60-60",
+    "+7 (383) 254-60-60",
+    "+7 (983) 947-51-10"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Сауна",
+    "баня",
+    "бассейн"
+   ],
+   "признаки": [
+    "billiards",
+    "car_park",
+    "good_place",
+    "hammam",
+    "karaoke",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mon_plezir/1710182858/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1088549083",
+   "название": "Все бани мира",
+   "seoname": "vse_bani_mira",
+   "адрес": "ул. Ватутина, 44",
+   "координаты": [
+    82.927984,
+    54.963898
+   ],
+   "рейтинг": 4.7,
+   "оценок": 680,
+   "отзывов": 213,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vsebanimira.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-41-26",
+    "+7 (913) 720-79-99"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна",
+    "оздоровительный центр"
+   ],
+   "признаки": [
+    "billiards",
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "hammam",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vse_bani_mira/1088549083/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1250103089",
+   "название": "Баня № 24",
+   "seoname": "banya_24",
+   "адрес": "ул. Объединения, 102/1",
+   "координаты": [
+    82.978078,
+    55.098166
+   ],
+   "рейтинг": 4.9,
+   "оценок": 530,
+   "отзывов": 205,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 214-60-42"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "car_park",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "public_bath",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/banya_24/1250103089/",
+   "последний_отзыв": "2026-03-24",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 50
+  },
+  {
+   "id": "63508022973",
+   "название": "Чернышевский банный комплекс",
+   "seoname": "chernyshevskiy_banny_kompleks",
+   "адрес": "Чернышевский спуск, 16, Новосибирск",
+   "координаты": [
+    82.896543,
+    55.027852
+   ],
+   "рейтинг": 5,
+   "оценок": 456,
+   "отзывов": 188,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://чернышевские-бани.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 287-88-89"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "karaoke",
+    "payment_by_credit_card",
+    "privilege_tickets",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/chernyshevskiy_banny_kompleks/63508022973/",
+   "последний_отзыв": "2026-02-25",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 94
+  },
+  {
+   "id": "1010973562",
+   "название": "Баня № 36",
+   "seoname": "banya_36",
+   "адрес": "Петропавловская ул., 5",
+   "координаты": [
+    82.86342,
+    54.983654
+   ],
+   "рейтинг": 4.7,
+   "оценок": 434,
+   "отзывов": 160,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://бх-сибирячка54.рф/",
+    "https://sibirsauna.ru/saunas/banya_36_mbu_sibiryachka_231/"
+   ],
+   "телефоны": [
+    "+7 (383) 343-33-09"
+   ],
+   "часы": "чт-вс 10:30–20:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "privilege_tickets",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/banya_36/1010973562/",
+   "последний_отзыв": "2026-08-02",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 50
+  },
+  {
+   "id": "1014878335",
+   "название": "Баня № 25",
+   "seoname": "banya_25",
+   "адрес": "ул. 25 лет Октября, 19, Новосибирск",
+   "координаты": [
+    82.957631,
+    55.07631
+   ],
+   "рейтинг": 4.7,
+   "оценок": 343,
+   "отзывов": 145,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://бани-нск.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 264-54-14"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "call_button",
+    "parking_disabled",
+    "public_bath",
+    "ramp",
+    "street_entrance",
+    "toilet_for_disabled",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/banya_25/1014878335/",
+   "последний_отзыв": "2026-07-08",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 47
+  },
+  {
+   "id": "142358431076",
+   "название": "Ривьера",
+   "seoname": "rivyera",
+   "адрес": "Фабричный пер., 7А/1, Новосибирск",
+   "координаты": [
+    82.902783,
+    55.020337
+   ],
+   "рейтинг": 4.9,
+   "оценок": 302,
+   "отзывов": 132,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://siberian-riviera.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 117-77-88"
+   ],
+   "часы": "ежедневно, 09:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Баня",
+    "аренда площадок для культурно-массовых мероприятий",
+    "организация мероприятий"
+   ],
+   "признаки": [
+    "car_park",
+    "corporate_events",
+    "decorations",
+    "dj",
+    "event_staff",
+    "furniture_rental",
+    "garlands_installation",
+    "gazebo_rental",
+    "gift_certificate",
+    "good_place",
+    "making_decorations",
+    "new_years_decoration",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "photo_zone_rent",
+    "preliminary_registration",
+    "privilege_tickets",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wedding_planning",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rivyera/142358431076/",
+   "последний_отзыв": null,
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 0
+  },
+  {
+   "id": "112074987942",
+   "название": "Венеция",
+   "seoname": "venetsiya",
+   "адрес": "ул. Добролюбова, 137",
+   "координаты": [
+    82.965821,
+    55.021282
+   ],
+   "рейтинг": 4.7,
+   "оценок": 301,
+   "отзывов": 100,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://венеция54.рф/sauna"
+   ],
+   "телефоны": [
+    "+7 (383) 230-95-11",
+    "+7 (913) 916-25-65",
+    "+7 (383) 213-63-55"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Сауна",
+    "баня"
+   ],
+   "признаки": [
+    "billiards",
+    "car_park",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/venetsiya/112074987942/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 52
+  },
+  {
+   "id": "117187356418",
+   "название": "Емеля",
+   "seoname": "yemelya",
+   "адрес": "ул. Лескова, 66",
+   "координаты": [
+    82.947406,
+    55.02283
+   ],
+   "рейтинг": 4.8,
+   "оценок": 54,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.banya-emelya.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-75-42"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Баня",
+    "сауна"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "disable_captions",
+    "gift_certificate",
+    "karaoke",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yemelya/117187356418/",
+   "последний_отзыв": "2026-07-21",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 27
+  }
+ ]
+}

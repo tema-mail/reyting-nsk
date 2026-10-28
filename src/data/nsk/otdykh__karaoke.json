@@ -1,0 +1,1274 @@
+{
+ "ниша": "Караоке",
+ "ключ": "otdykh/karaoke",
+ "запросы": [
+  "караоке"
+ ],
+ "найдено_в_яндексе": {
+  "караоке": 61
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "231117289616",
+   "название": "Руки ВВерх!",
+   "seoname": "ruki_vverkh_",
+   "адрес": "Красный просп., 37",
+   "координаты": [
+    82.918783,
+    55.034399
+   ],
+   "рейтинг": 4.8,
+   "оценок": 2543,
+   "отзывов": 1610,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://nsk.rvbar.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-60-37"
+   ],
+   "часы": "ежедневно, 18:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "банкетный зал",
+    "бар"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "call_button",
+    "caring_for_couriers_bool",
+    "coffee_to_go",
+    "dancefloor",
+    "elevator_wheelchair_accessible",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "payment_by_credit_card",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ruki_vverkh_/231117289616/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 79
+  },
+  {
+   "id": "1045127156",
+   "название": "Отдых",
+   "seoname": "otdykh",
+   "адрес": "ул. Гоголя, 15, Новосибирск",
+   "координаты": [
+    82.923948,
+    55.043218
+   ],
+   "рейтинг": 4.7,
+   "оценок": 2132,
+   "отзывов": 657,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://клуб-отдых.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 276-35-00",
+    "+7 (383) 276-34-80"
+   ],
+   "часы": "пн-чт 10:00–19:00; пт 10:00–06:00; сб 22:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "ресторан",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "adults only",
+    "booking_by_alice",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dancefloor",
+    "dimmed_lights",
+    "dress_code",
+    "face_control",
+    "gift_certificate",
+    "good_place",
+    "has_restaurant",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "show_program",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/otdykh/1045127156/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 74
+  },
+  {
+   "id": "127760531144",
+   "название": "Cacao Lounge Project",
+   "seoname": "cacao_lounge_project",
+   "адрес": "Красный просп., 184",
+   "координаты": [
+    82.914295,
+    55.057516
+   ],
+   "рейтинг": 4.6,
+   "оценок": 1328,
+   "отзывов": 510,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 291-82-32"
+   ],
+   "часы": "ежедневно, 18:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dancefloor",
+    "dimmed_lights",
+    "gift_certificate",
+    "karaoke",
+    "karaoke_rooms",
+    "kondicioner",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "separate_lounges",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi",
+    "winter_terrace"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cacao_lounge_project/127760531144/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 61
+  },
+  {
+   "id": "1713006876",
+   "название": "Cacao Lounge Project",
+   "seoname": "cacao_lounge_project",
+   "адрес": "Октябрьская ул., 35",
+   "координаты": [
+    82.919533,
+    55.025058
+   ],
+   "рейтинг": 4.4,
+   "оценок": 903,
+   "отзывов": 319,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 213-82-32"
+   ],
+   "часы": "ежедневно, 18:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "бар"
+   ],
+   "признаки": [
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "dancefloor",
+    "dimmed_lights",
+    "gift_certificate",
+    "karaoke",
+    "karaoke_rooms",
+    "kondicioner",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "separate_lounges",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/cacao_lounge_project/1713006876/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 59
+  },
+  {
+   "id": "222766927462",
+   "название": "Leps Bar",
+   "seoname": "leps_bar",
+   "адрес": "ул. Ленина, 25, Новосибирск",
+   "координаты": [
+    82.904921,
+    55.030073
+   ],
+   "рейтинг": 4.8,
+   "оценок": 866,
+   "отзывов": 287,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lepsbar-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 255-33-55"
+   ],
+   "часы": "пн-чт 21:00–04:00; пт,сб 21:00–06:00; вс 21:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "бар",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "adults only",
+    "booking_by_alice",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dancefloor",
+    "dress_code",
+    "face_control",
+    "food_delivery",
+    "good_place",
+    "has_restaurant",
+    "karaoke",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "show_briefly_about_the_place_block",
+    "show_program",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "vip_zone",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/leps_bar/222766927462/",
+   "последний_отзыв": "2026-07-19",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 53
+  },
+  {
+   "id": "1062618133",
+   "название": "Маэстро",
+   "seoname": "maestro",
+   "адрес": "Каменская ул., 32",
+   "координаты": [
+    82.928816,
+    55.030003
+   ],
+   "рейтинг": 4.4,
+   "оценок": 673,
+   "отзывов": 264,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 213-20-65"
+   ],
+   "часы": "пн-пт 20:00–04:00; сб,вс 20:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "кальян-бар",
+    "бар"
+   ],
+   "признаки": [
+    "adults only",
+    "booking_by_alice",
+    "business_lunch",
+    "call_button",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "coffee_to_go",
+    "dancefloor",
+    "dimmed_lights",
+    "hookah_rental",
+    "karaoke",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "separate_lounges",
+    "show_briefly_about_the_place_block",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/maestro/1062618133/",
+   "последний_отзыв": "2026-09-08",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 54
+  },
+  {
+   "id": "1004477087",
+   "название": "Шиша",
+   "seoname": "shisha",
+   "адрес": "Красный просп., 28",
+   "координаты": [
+    82.92253,
+    55.025006
+   ],
+   "рейтинг": 4.5,
+   "оценок": 670,
+   "отзывов": 263,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://shisha-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 378-04-44",
+    "+7 (383) 223-84-83"
+   ],
+   "часы": "пн-чт 18:00–04:00; пт,сб 18:00–06:00; вс 18:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "ресторан",
+    "кальян-бар"
+   ],
+   "признаки": [
+    "business_lunch",
+    "call_button",
+    "car_park",
+    "coffee_to_go",
+    "dancefloor",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "menu for children",
+    "payment_by_credit_card",
+    "street_entrance",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shisha/1004477087/",
+   "последний_отзыв": "2026-08-21",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 76
+  },
+  {
+   "id": "128594780131",
+   "название": "СТО Друзей",
+   "seoname": "sto_druzey",
+   "адрес": "ул. Романова, 29",
+   "координаты": [
+    82.920405,
+    55.034951
+   ],
+   "рейтинг": 4.7,
+   "оценок": 603,
+   "отзывов": 208,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 985-78-28",
+    "+7 (383) 213-78-28"
+   ],
+   "часы": "ежедневно, 18:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "банкетный зал",
+    "кафе"
+   ],
+   "признаки": [
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sto_druzey/128594780131/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 20,
+   "загружено_дат": 67
+  },
+  {
+   "id": "1062751833",
+   "название": "Кашира",
+   "seoname": "kashira",
+   "адрес": "просп. Карла Маркса, 55",
+   "координаты": [
+    82.910526,
+    54.992034
+   ],
+   "рейтинг": 4.8,
+   "оценок": 356,
+   "отзывов": 205,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://kashira-bar.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 919-30-62"
+   ],
+   "часы": "пн-чт 15:00–03:00; пт,сб 15:00–05:00; вс 15:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "караоке-клуб",
+    "бильярдный клуб"
+   ],
+   "признаки": [
+    "business_lunch",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kashira/1062751833/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 75
+  },
+  {
+   "id": "107507821193",
+   "название": "Терки",
+   "seoname": "terki",
+   "адрес": "Красный просп., 2/1",
+   "координаты": [
+    82.926427,
+    55.01465
+   ],
+   "рейтинг": 5,
+   "оценок": 300,
+   "отзывов": 203,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 258-04-39",
+    "+7 (923) 730-90-50",
+    "+7 (953) 889-36-76",
+    "+7 (993) 190-65-60"
+   ],
+   "часы": "пн-чт 12:00–23:00; пт,сб 12:00–01:00; вс 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Боулинг",
+    "караоке-клуб",
+    "кафе"
+   ],
+   "признаки": [
+    "billiards",
+    "car_park",
+    "gift_certificate",
+    "holding_of_bowling_tournaments",
+    "nursery",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "storage_of_client_bowling_equipment",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/terki/107507821193/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 87
+  },
+  {
+   "id": "119903268520",
+   "название": "Federico Fellini",
+   "seoname": "federico_fellini",
+   "адрес": "ул. Романова, 27",
+   "координаты": [
+    82.918107,
+    55.034693
+   ],
+   "рейтинг": 4.5,
+   "оценок": 510,
+   "отзывов": 200,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fellini.rest/"
+   ],
+   "телефоны": [
+    "+7 (913) 916-23-23"
+   ],
+   "часы": "ежедневно, 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dancefloor",
+    "dimmed_lights",
+    "food_delivery",
+    "gift_certificate",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/federico_fellini/119903268520/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 57
+  },
+  {
+   "id": "121262461740",
+   "название": "Квентин Буратино",
+   "seoname": "kventin_buratino",
+   "адрес": "Комсомольский просп., 24",
+   "координаты": [
+    82.907542,
+    55.031791
+   ],
+   "рейтинг": 5,
+   "оценок": 567,
+   "отзывов": 166,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kventinburatino.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-09-39"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт,сб 12:00–03:00; вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Антикафе",
+    "караоке-клуб",
+    "клуб досуга"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_cinema",
+    "cinema",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kventin_buratino/121262461740/",
+   "последний_отзыв": "2026-07-20",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 73
+  },
+  {
+   "id": "1252944876",
+   "название": "Арбат лаунж",
+   "seoname": "arbat_launzh",
+   "адрес": "ул. Крылова, 26",
+   "координаты": [
+    82.925603,
+    55.040262
+   ],
+   "рейтинг": 4.6,
+   "оценок": 448,
+   "отзывов": 156,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (923) 775-09-49",
+    "+7 (383) 375-09-49",
+    "+7 (383) 230-32-26",
+    "+7 (923) 777-02-79"
+   ],
+   "часы": "ежедневно, 20:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "ресторан",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dancefloor",
+    "dress_code",
+    "face_control",
+    "has_restaurant",
+    "karaoke",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "street_entrance",
+    "takeaway",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/arbat_launzh/1252944876/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 66
+  },
+  {
+   "id": "17566941895",
+   "название": "Квеntиn Buratиno",
+   "seoname": "kventin_buratino",
+   "адрес": "Ядринцевская ул., 18",
+   "координаты": [
+    82.924085,
+    55.032965
+   ],
+   "рейтинг": 5,
+   "оценок": 474,
+   "отзывов": 147,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://kventinburatino.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-09-39"
+   ],
+   "часы": "пн-чт 12:00–00:00; пт,сб 12:00–03:00; вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "аренда площадок для культурно-массовых мероприятий",
+    "антикафе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "anti_cinema",
+    "cinema",
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kventin_buratino/17566941895/",
+   "последний_отзыв": "2026-09-15",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 74
+  },
+  {
+   "id": "152759150308",
+   "название": "VseSvoi",
+   "seoname": "vsesvoi",
+   "адрес": "Стартовая ул., 1, Новосибирск",
+   "координаты": [
+    82.909149,
+    54.997634
+   ],
+   "рейтинг": 5,
+   "оценок": 247,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://vsesvoi54.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 777-42-30"
+   ],
+   "часы": "ежедневно, 14:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Антикафе",
+    "аренда площадок для культурно-массовых мероприятий"
+   ],
+   "признаки": [
+    "anti_cinema",
+    "call_button",
+    "gift_certificate",
+    "hourly_rent",
+    "karaoke",
+    "loft_rental",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vsesvoi/152759150308/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 85
+  },
+  {
+   "id": "38160313933",
+   "название": "Лофт-караоке Сергея Дроздова",
+   "seoname": "loft_karaoke_sergeya_drozdova",
+   "адрес": "Фабричная ул., 10, корп. 6",
+   "координаты": [
+    82.909251,
+    55.021516
+   ],
+   "рейтинг": 5,
+   "оценок": 165,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://stereosam.ru/mixedfeeling"
+   ],
+   "телефоны": [
+    "+7 (961) 226-72-51"
+   ],
+   "часы": "ежедневно, 10:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Банкетный зал",
+    "караоке-клуб",
+    "аренда площадок для культурно-массовых мероприятий"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "art_space",
+    "disable_captions",
+    "gift_certificate",
+    "hourly_rent",
+    "loft_rental",
+    "preliminary_registration",
+    "rent_dance_floor",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/loft_karaoke_sergeya_drozdova/38160313933/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 36
+  },
+  {
+   "id": "12087643507",
+   "название": "Ухо и медведь",
+   "seoname": "ukho_i_medved",
+   "адрес": "Советская ул., 33",
+   "координаты": [
+    82.916338,
+    55.029352
+   ],
+   "рейтинг": 4.3,
+   "оценок": 359,
+   "отзывов": 125,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://denisivanov.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 292-89-01"
+   ],
+   "часы": "вт-чт 19:00–04:00; пт,сб 19:00–06:00; вс 19:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "karaoke_rooms",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ukho_i_medved/12087643507/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 57
+  },
+  {
+   "id": "117614465489",
+   "название": "Окейла",
+   "seoname": "okeyla",
+   "адрес": "Трудовая ул., 1",
+   "координаты": [
+    82.917052,
+    55.032093
+   ],
+   "рейтинг": 4.7,
+   "оценок": 240,
+   "отзывов": 103,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://okeyla.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 760-70-09"
+   ],
+   "часы": "пн-пт 13:00–01:00; сб,вс 13:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-кабинка",
+    "антикафе"
+   ],
+   "признаки": [
+    "cinema",
+    "gift_certificate",
+    "karaoke",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/okeyla/117614465489/",
+   "последний_отзыв": "2026-10-17",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 76
+  },
+  {
+   "id": "1050191894",
+   "название": "Занзибар",
+   "seoname": "zanzibar",
+   "адрес": "ул. Гоголя, 42",
+   "координаты": [
+    82.940285,
+    55.04391
+   ],
+   "рейтинг": 4.3,
+   "оценок": 243,
+   "отзывов": 97,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 239-40-00",
+    "+7 (383) 201-14-24",
+    "+7 (983) 310-40-00"
+   ],
+   "часы": "пн-чт 20:00–04:00; пт,сб 20:00–06:00; вс 20:00–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "караоке-клуб",
+    "банкетный зал"
+   ],
+   "признаки": [
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zanzibar/1050191894/",
+   "последний_отзыв": "2026-03-12",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 50
+  },
+  {
+   "id": "140314901670",
+   "название": "Blue Piano Bar",
+   "seoname": "blue_piano_bar",
+   "адрес": "Коммунистическая ул., 35",
+   "координаты": [
+    82.92085,
+    55.023625
+   ],
+   "рейтинг": 4.9,
+   "оценок": 275,
+   "отзывов": 83,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://sabyget.ru/shop/bluepiano"
+   ],
+   "телефоны": [
+    "+7 (966) 505-05-07",
+    "+7 (966) 505-55-07"
+   ],
+   "часы": "ежедневно, 22:00–06:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "бар"
+   ],
+   "признаки": [
+    "dancefloor",
+    "food_delivery",
+    "karaoke",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/blue_piano_bar/140314901670/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 70
+  },
+  {
+   "id": "1132740859",
+   "название": "FaSol",
+   "seoname": "fasol",
+   "адрес": "ул. Немировича-Данченко, 142",
+   "координаты": [
+    82.914711,
+    54.988055
+   ],
+   "рейтинг": 4.6,
+   "оценок": 178,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://skynsk.ru/karaoke"
+   ],
+   "телефоны": [
+    "+7 (383) 325-05-55"
+   ],
+   "часы": "пт,сб 18:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-клуб",
+    "банкетный зал",
+    "концертный зал"
+   ],
+   "признаки": [
+    "call_button",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fasol/1132740859/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 52
+  },
+  {
+   "id": "1186627508",
+   "название": "VIP Bar",
+   "seoname": "vip_bar",
+   "адрес": "Вокзальная магистраль, 1",
+   "координаты": [
+    82.900443,
+    55.035763
+   ],
+   "рейтинг": 4.7,
+   "оценок": 91,
+   "отзывов": 58,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://vipbarnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (962) 829-60-99"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Караоке-клуб",
+    "бар",
+    "бильярдный клуб"
+   ],
+   "признаки": [
+    "bike_parking",
+    "billiards",
+    "breakfast",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "conducting_pool_tournaments",
+    "dancefloor",
+    "dimmed_lights",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "separate_lounges",
+    "sports_broadcasts",
+    "storage_of_client_pool_equipment",
+    "table_games",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vip_bar/1186627508/",
+   "последний_отзыв": "2026-06-22",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 72
+  },
+  {
+   "id": "200609314879",
+   "название": "Сова бьен",
+   "seoname": "sova_byen",
+   "адрес": "Вокзальная магистраль, 1",
+   "координаты": [
+    82.900093,
+    55.03576
+   ],
+   "рейтинг": 4.4,
+   "оценок": 99,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sovabien.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 291-19-41"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Стриптиз-клуб",
+    "караоке-клуб",
+    "ночной клуб"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "chillout",
+    "dress_code",
+    "face_control",
+    "gift_certificate",
+    "has_restaurant",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "show_program",
+    "strip",
+    "vip_zone"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sova_byen/200609314879/",
+   "последний_отзыв": "2026-09-28",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 77
+  },
+  {
+   "id": "113471512876",
+   "название": "DaBro",
+   "seoname": "dabro",
+   "адрес": "Покатная ул., 126",
+   "координаты": [
+    82.950121,
+    55.026035
+   ],
+   "рейтинг": 4.8,
+   "оценок": 35,
+   "отзывов": 28,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dabroparty.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 372-06-88"
+   ],
+   "часы": "пн-чт 16:00–02:00; пт,сб 16:00–06:00; вс 16:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Бар",
+    "караоке-клуб",
+    "кальян-бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "dancefloor",
+    "dimmed_lights",
+    "gift_certificate",
+    "good_place",
+    "karaoke",
+    "karaoke_rooms",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "separate_lounges",
+    "show_briefly_about_the_place_block",
+    "sports_broadcasts",
+    "street_entrance",
+    "table_games",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dabro/113471512876/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 35
+  },
+  {
+   "id": "33830800729",
+   "название": "Окейла",
+   "seoname": "okeyla",
+   "адрес": "ул. Крылова, 26",
+   "координаты": [
+    82.924858,
+    55.040497
+   ],
+   "рейтинг": 4.6,
+   "оценок": 16,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://okeyla.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 765-70-09"
+   ],
+   "часы": "пн-пт 13:00–01:00; сб,вс 13:00–05:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Караоке-кабинка",
+    "антикафе"
+   ],
+   "признаки": [
+    "anti_cinema",
+    "cinema",
+    "karaoke",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/okeyla/33830800729/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 26
+  }
+ ]
+}

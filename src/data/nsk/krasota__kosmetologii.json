@@ -1,0 +1,1259 @@
+{
+ "ниша": "Косметологии",
+ "ключ": "krasota/kosmetologii",
+ "запросы": [
+  "косметология"
+ ],
+ "найдено_в_яндексе": {
+  "косметология": 111
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1097272896",
+   "название": "Блеск",
+   "seoname": "blesk",
+   "адрес": "Красный просп., 100, Новосибирск",
+   "координаты": [
+    82.915472,
+    55.055212
+   ],
+   "рейтинг": 4.9,
+   "оценок": 551,
+   "отзывов": 342,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bleskmed.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 318-11-14"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "косметология",
+    "стоматологическая клиника"
+   ],
+   "признаки": [
+    "childrens_specialists",
+    "covid_test",
+    "dental treatment in installments",
+    "doctor home visit",
+    "for_kids",
+    "guarantee",
+    "massage_services",
+    "online_consultations",
+    "payment_by_credit_card",
+    "roszdrav_license",
+    "spermogram",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/blesk/1097272896/",
+   "последний_отзыв": "2026-09-18",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 69
+  },
+  {
+   "id": "66125042781",
+   "название": "Да Винчи",
+   "seoname": "da_vinchi",
+   "адрес": "ул. Декабристов, 41",
+   "координаты": [
+    82.937265,
+    55.013783
+   ],
+   "рейтинг": 5,
+   "оценок": 512,
+   "отзывов": 341,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://davinci-mc.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 358-01-01",
+    "+7 (383) 362-00-63"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "косметология"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "cosmetology for men",
+    "droppers",
+    "gift_certificate",
+    "guarantee",
+    "integrative_medicine",
+    "massage_services",
+    "online_consultations",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tactile_tiles",
+    "toilet",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/da_vinchi/66125042781/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 43,
+   "загружено_дат": 63
+  },
+  {
+   "id": "192375803831",
+   "название": "Скинерика",
+   "seoname": "skinerika",
+   "адрес": "Большевистская ул., 37",
+   "координаты": [
+    82.931838,
+    55.010619
+   ],
+   "рейтинг": 5,
+   "оценок": 464,
+   "отзывов": 330,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosib.skinerica-clinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 230-78-46"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "медцентр, клиника",
+    "эпиляция, депиляция"
+   ],
+   "признаки": [
+    "an_injection",
+    "car_park",
+    "childrens_specialists",
+    "cosmetology for men",
+    "disable_captions",
+    "for_kids",
+    "gift_certificate",
+    "massage_services",
+    "online_recording",
+    "payment_by_credit_card",
+    "piercing",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tattoo removal",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skinerika/192375803831/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 76
+  },
+  {
+   "id": "1150057860",
+   "название": "Elix",
+   "seoname": "elix",
+   "адрес": "Красный просп., 99",
+   "координаты": [
+    82.911523,
+    55.05488
+   ],
+   "рейтинг": 5,
+   "оценок": 473,
+   "отзывов": 280,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://elix.pro/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-55-49",
+    "+7 (383) 230-97-35"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "медцентр, клиника",
+    "эпиляция, депиляция"
+   ],
+   "признаки": [
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elix/1150057860/",
+   "последний_отзыв": "2026-07-29",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 59
+  },
+  {
+   "id": "53592470379",
+   "название": "Red Clinic",
+   "seoname": "red_clinic",
+   "адрес": "ул. Гоголя, 38, Новосибирск",
+   "координаты": [
+    82.935645,
+    55.043341
+   ],
+   "рейтинг": 5,
+   "оценок": 279,
+   "отзывов": 225,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.clinicred.ru/"
+   ],
+   "телефоны": [
+    "+7 (967) 211-55-71",
+    "+7 (383) 229-00-23"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "эпиляция, депиляция",
+    "салон красоты"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "online_recording",
+    "payment_by_credit_card",
+    "piercing",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/red_clinic/53592470379/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 72
+  },
+  {
+   "id": "1159520326",
+   "название": "Umc",
+   "seoname": "umc",
+   "адрес": "ул. Крылова, 49",
+   "координаты": [
+    82.93377,
+    55.041838
+   ],
+   "рейтинг": 4.8,
+   "оценок": 495,
+   "отзывов": 212,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://umc-clinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 305-05-05"
+   ],
+   "часы": "пн-сб 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "медцентр, клиника",
+    "пластическая хирургия"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "cosmetology for men",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "online_consultations",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "round_the_clock_inpatient",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/umc/1159520326/",
+   "последний_отзыв": "2026-10-08",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 81
+  },
+  {
+   "id": "86366390713",
+   "название": "Марси",
+   "seoname": "marsi",
+   "адрес": "просп. Димитрова, 12",
+   "координаты": [
+    82.911653,
+    55.033378
+   ],
+   "рейтинг": 5,
+   "оценок": 174,
+   "отзывов": 165,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://marsi.space/"
+   ],
+   "телефоны": [
+    "+7 (925) 922-68-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "косметология",
+    "дерматология"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "childrens_specialists",
+    "cosmetology for men",
+    "disable_captions",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/marsi/86366390713/",
+   "последний_отзыв": "2026-10-16",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 59
+  },
+  {
+   "id": "197203629272",
+   "название": "Face Touch",
+   "seoname": "face_touch",
+   "адрес": "Большевистская ул., 37",
+   "координаты": [
+    82.932424,
+    55.010258
+   ],
+   "рейтинг": 5,
+   "оценок": 188,
+   "отзывов": 159,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://face-touch.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 925-09-89"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Массажный салон",
+    "косметология",
+    "курсы и мастер-классы"
+   ],
+   "признаки": [
+    "car_park",
+    "cosmetology for men",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "online_classes",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/face_touch/197203629272/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 25,
+   "загружено_дат": 77
+  },
+  {
+   "id": "70314640757",
+   "название": "New derma",
+   "seoname": "new_derma",
+   "адрес": "ул. Щетинкина, 34",
+   "координаты": [
+    82.911987,
+    55.026904
+   ],
+   "рейтинг": 5,
+   "оценок": 166,
+   "отзывов": 144,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://newderma.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 990-99-52"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Эпиляция, депиляция",
+    "косметология",
+    "массажный салон"
+   ],
+   "признаки": [
+    "car_park",
+    "cosmetology for men",
+    "doubloons_loyalty_card",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "nursery",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tattoo removal",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/new_derma/70314640757/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 19,
+   "загружено_дат": 82
+  },
+  {
+   "id": "168226393680",
+   "название": "Морель",
+   "seoname": "morel",
+   "адрес": "Железнодорожная ул., 15, Железнодорожный район, Новосибирск",
+   "координаты": [
+    82.906236,
+    55.047314
+   ],
+   "рейтинг": 5,
+   "оценок": 175,
+   "отзывов": 143,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://morelle.org.ru/"
+   ],
+   "телефоны": [
+    "+7 (938) 543-36-59"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "дерматология"
+   ],
+   "признаки": [
+    "car_park",
+    "cosmetology for men",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "tattoo removal",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/morel/168226393680/",
+   "последний_отзыв": "2026-07-17",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 64
+  },
+  {
+   "id": "1218574792",
+   "название": "4hands",
+   "seoname": "4hands",
+   "адрес": "Красный просп., 101",
+   "координаты": [
+    82.912669,
+    55.055635
+   ],
+   "рейтинг": 4.8,
+   "оценок": 172,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://4hands.ru/studii/novosibirsk-ts-royal-park-ul-krasnyy-prospekt-101"
+   ],
+   "телефоны": [
+    "+7 (938) 543-18-61"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "косметология",
+    "салон красоты"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automatic_door",
+    "bike_parking",
+    "car_park",
+    "cosmetology for men",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "manicure_bin",
+    "medical_manicure",
+    "medical_pedicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "nursery",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/4hands/1218574792/",
+   "последний_отзыв": "2026-10-15",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 42
+  },
+  {
+   "id": "1022021758",
+   "название": "Центр врачебной косметологии",
+   "seoname": "tsentr_vrachebnoy_kosmetologii",
+   "адрес": "ул. Писарева, 4",
+   "координаты": [
+    82.912543,
+    55.048145
+   ],
+   "рейтинг": 4.4,
+   "оценок": 282,
+   "отзывов": 118,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://gkp1.ru/",
+    "http://gkp1.mznso.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 221-06-48",
+    "+7 (383) 221-06-51"
+   ],
+   "часы": "пн-пт 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология"
+   ],
+   "признаки": [
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tsentr_vrachebnoy_kosmetologii/1022021758/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 49
+  },
+  {
+   "id": "218744917534",
+   "название": "Riva Clinic",
+   "seoname": "riva_clinic",
+   "адрес": "ул. Серафимовича, 4, Новосибирск",
+   "координаты": [
+    82.880081,
+    54.981625
+   ],
+   "рейтинг": 5,
+   "оценок": 206,
+   "отзывов": 101,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://riva-clinic.ru/laser_epil"
+   ],
+   "телефоны": [
+    "+7 (962) 835-63-84"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Эпиляция, депиляция",
+    "косметология"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "parking_disabled",
+    "preliminary_registration",
+    "roszdrav_license",
+    "street_entrance",
+    "uni_medic_adult",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/riva_clinic/218744917534/",
+   "последний_отзыв": "2026-08-26",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 68
+  },
+  {
+   "id": "1082467585",
+   "название": "Елена",
+   "seoname": "yelena",
+   "адрес": "ул. Максима Горького, 79",
+   "координаты": [
+    82.926522,
+    55.027853
+   ],
+   "рейтинг": 4.6,
+   "оценок": 241,
+   "отзывов": 100,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://clinicaelena.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 207-81-97",
+    "+7 (383) 388-95-64"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "медцентр, клиника",
+    "гинекологическая клиника"
+   ],
+   "признаки": [
+    "anonymous_medical",
+    "car_park",
+    "covid_test",
+    "gift_certificate",
+    "good_place",
+    "massage_services",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yelena/1082467585/",
+   "последний_отзыв": "2026-09-26",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 79
+  },
+  {
+   "id": "22695941688",
+   "название": "Riva Clinic",
+   "seoname": "riva_clinic",
+   "адрес": "Красный просп., 76, Новосибирск",
+   "координаты": [
+    82.916726,
+    55.045481
+   ],
+   "рейтинг": 5,
+   "оценок": 178,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://riva-clinic.ru/laser_epil"
+   ],
+   "телефоны": [
+    "+7 (903) 902-01-11"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Эпиляция, депиляция",
+    "косметология"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "parking_disabled",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/riva_clinic/22695941688/",
+   "последний_отзыв": "2026-09-03",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 59
+  },
+  {
+   "id": "108654336562",
+   "название": "Космет_А",
+   "seoname": "kosmet_a",
+   "адрес": "ул. Сакко и Ванцетти, 11",
+   "координаты": [
+    82.934518,
+    55.010974
+   ],
+   "рейтинг": 5,
+   "оценок": 92,
+   "отзывов": 82,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kosmeta-novosibirsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (993) 050-57-98"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология"
+   ],
+   "признаки": [
+    "good_place",
+    "street_entrance",
+    "uni_medic_adult"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kosmet_a/108654336562/",
+   "последний_отзыв": "2026-10-25",
+   "отзывов_за_12_мес_из_загруженных": 35,
+   "загружено_дат": 52
+  },
+  {
+   "id": "25952595544",
+   "название": "Этерна",
+   "seoname": "eterna",
+   "адрес": "ул. Кирова, 27/3, Новосибирск",
+   "координаты": [
+    82.945637,
+    55.019192
+   ],
+   "рейтинг": 5,
+   "оценок": 101,
+   "отзывов": 79,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://этерна-нск.рф/"
+   ],
+   "телефоны": [
+    "+7 (901) 078-11-05"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология"
+   ],
+   "признаки": [
+    "cosmetology for men",
+    "gift_certificate",
+    "good_place",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/eterna/25952595544/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 52,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1165139955",
+   "название": "Клиника доктора Панова",
+   "seoname": "klinika_doktora_panova",
+   "адрес": "Красноярская ул., 28",
+   "координаты": [
+    82.906868,
+    55.034271
+   ],
+   "рейтинг": 4.7,
+   "оценок": 198,
+   "отзывов": 74,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://panovclinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 240-99-55",
+    "+7 (383) 222-03-10"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "косметология",
+    "пластическая хирургия"
+   ],
+   "признаки": [
+    "an_injection",
+    "car_park",
+    "cosmetology for men",
+    "gift_certificate",
+    "hospital_day_care",
+    "online_consultations",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "round_the_clock_inpatient",
+    "street_entrance",
+    "tattoo removal",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_doktora_panova/1165139955/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1311604399",
+   "название": "Шарм",
+   "seoname": "sharm",
+   "адрес": "ул. Сибревкома, 3",
+   "координаты": [
+    82.925868,
+    55.020267
+   ],
+   "рейтинг": 4.7,
+   "оценок": 195,
+   "отзывов": 65,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sharmnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 383-90-60",
+    "+7 (383) 240-84-45",
+    "+7 (383) 223-12-46"
+   ],
+   "часы": "пн-сб 09:00–21:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "эпиляция, депиляция",
+    "пластическая хирургия"
+   ],
+   "признаки": [
+    "cosmetology for men",
+    "doubloons_loyalty_card",
+    "gift_certificate",
+    "good_place",
+    "hair_transplantation",
+    "payment_by_credit_card",
+    "street_entrance",
+    "tattoo removal",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sharm/1311604399/",
+   "последний_отзыв": "2026-07-18",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 81
+  },
+  {
+   "id": "201545180588",
+   "название": "Би Лучче",
+   "seoname": "bi_luchche",
+   "адрес": "ул. Кирова, 32",
+   "координаты": [
+    82.935469,
+    55.019746
+   ],
+   "рейтинг": 4.8,
+   "оценок": 139,
+   "отзывов": 61,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://belucce.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 228-35-76"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "нутрициология"
+   ],
+   "признаки": [
+    "car_park",
+    "cosmetology for men",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bi_luchche/201545180588/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 26,
+   "загружено_дат": 71
+  },
+  {
+   "id": "193989624693",
+   "название": "Octo",
+   "seoname": "octo",
+   "адрес": "Военная ул., 9/1, Новосибирск",
+   "координаты": [
+    82.939003,
+    55.026562
+   ],
+   "рейтинг": 4.9,
+   "оценок": 80,
+   "отзывов": 48,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://octoclinic.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 905-24-10",
+    "+7 (383) 288-81-04"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб,вс 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "медицинская лаборатория"
+   ],
+   "признаки": [
+    "an_injection",
+    "car_park",
+    "childrens_specialists",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "integrative_medicine",
+    "kinesio_taping",
+    "kinesis_training",
+    "massage_services",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/octo/193989624693/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 68
+  },
+  {
+   "id": "8714327292",
+   "название": "Alteos beauty",
+   "seoname": "alteos_beauty",
+   "адрес": "ул. Романова, 30",
+   "координаты": [
+    82.917886,
+    55.034413
+   ],
+   "рейтинг": 4.8,
+   "оценок": 87,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alteos-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-27-48",
+    "+7 (913) 017-32-48"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "медцентр, клиника",
+    "салон красоты"
+   ],
+   "признаки": [
+    "automatic_door",
+    "car_park",
+    "cosmetology for men",
+    "droppers",
+    "gift_certificate",
+    "henna_staining",
+    "manicure_bin",
+    "massage_services",
+    "medical_pedicure",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "piercing",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tattoo removal",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alteos_beauty/8714327292/",
+   "последний_отзыв": "2025-12-12",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 69
+  },
+  {
+   "id": "20908940360",
+   "название": "Донна Модерна",
+   "seoname": "donna_moderna",
+   "адрес": "ул. Толстого, 81",
+   "координаты": [
+    82.947585,
+    55.018948
+   ],
+   "рейтинг": 4.7,
+   "оценок": 31,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://donnamoderna-cosmetology.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 140-54-54"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "дерматология"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "cosmetology for men",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/donna_moderna/20908940360/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 24
+  },
+  {
+   "id": "169390099599",
+   "название": "Клиника косметологии Татьяны Поповой",
+   "seoname": "klinika_kosmetologii_tatyany_popovoy",
+   "адрес": "ул. Романова, 35",
+   "координаты": [
+    82.921414,
+    55.035348
+   ],
+   "рейтинг": 4.8,
+   "оценок": 36,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mon-amie-by-dr-popova.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (913) 950-83-93"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "студия перманентного макияжа",
+    "эпиляция, депиляция"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cosmetology for men",
+    "gift_certificate",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_kosmetologii_tatyany_popovoy/169390099599/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 38
+  },
+  {
+   "id": "46511093044",
+   "название": "ЭленисБьюти",
+   "seoname": "elenisbyuti",
+   "адрес": "ул. Владимира Заровного, 34",
+   "координаты": [
+    82.970414,
+    54.989172
+   ],
+   "рейтинг": 4.6,
+   "оценок": 25,
+   "отзывов": 17,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 951-23-49"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Косметология",
+    "медцентр, клиника",
+    "дерматология"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "cosmetology for men",
+    "gift_certificate",
+    "good_place",
+    "nursery",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "piercing",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "tattoo removal",
+    "uni_medic_adult",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/elenisbyuti/46511093044/",
+   "последний_отзыв": "2025-10-24",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 25
+  }
+ ]
+}

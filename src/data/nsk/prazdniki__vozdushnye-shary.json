@@ -1,0 +1,1178 @@
+{
+ "ниша": "Воздушные шары",
+ "ключ": "prazdniki/vozdushnye-shary",
+ "запросы": [
+  "воздушные шары"
+ ],
+ "найдено_в_яндексе": {
+  "воздушные шары": 40
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "133021279995",
+   "название": "БукетОпт",
+   "seoname": "buketopt",
+   "адрес": "ул. Гоголя, 34",
+   "координаты": [
+    82.932657,
+    55.043241
+   ],
+   "рейтинг": 4.1,
+   "оценок": 262,
+   "отзывов": 128,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://buketopt.ru/"
+   ],
+   "телефоны": [
+    "+7 (800) 333-26-97"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Магазин цветов",
+    "товары для праздника"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "flowers_and_balloon_shapes",
+    "flowers_in_flask",
+    "gift_wrapping",
+    "payment_by_credit_card",
+    "pickup",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/buketopt/133021279995/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 23,
+   "загружено_дат": 75
+  },
+  {
+   "id": "1184785629",
+   "название": "Amour",
+   "seoname": "amour",
+   "адрес": "Геодезическая ул., 5, Новосибирск",
+   "координаты": [
+    82.904159,
+    54.990027
+   ],
+   "рейтинг": 5,
+   "оценок": 144,
+   "отзывов": 102,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://amournsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 247-99-01"
+   ],
+   "часы": "ежедневно, 08:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин цветов",
+    "магазин подарков и сувениров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "cards_and_envelopes",
+    "edible_bouquets",
+    "gift_wrapping",
+    "handmade_goods",
+    "new_year_gifts",
+    "payment_by_credit_card",
+    "pickup",
+    "planter",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "soft_toys",
+    "street_entrance",
+    "sweet_gifts",
+    "wedding_floristry"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/amour/1184785629/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 50
+  },
+  {
+   "id": "17571344241",
+   "название": "Balloon Rabbit",
+   "seoname": "balloon_rabbit",
+   "адрес": "ул. Ленина, 12",
+   "координаты": [
+    82.913562,
+    55.029632
+   ],
+   "рейтинг": 5,
+   "оценок": 124,
+   "отзывов": 94,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://balloon54.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 900-69-69"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "доставка цветов и букетов",
+    "тара и упаковочные материалы"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "express_delivery",
+    "flowers_and_balloon_shapes",
+    "garlands_installation",
+    "gift_certificate",
+    "gift_wrapping",
+    "new_years_decoration",
+    "paper package",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/balloon_rabbit/17571344241/",
+   "последний_отзыв": "2026-08-27",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 76
+  },
+  {
+   "id": "185031195308",
+   "название": "ШарОля",
+   "seoname": "sharolya",
+   "адрес": "Первомайская ул., 236, Новосибирск",
+   "координаты": [
+    83.048182,
+    54.977554
+   ],
+   "рейтинг": 5,
+   "оценок": 95,
+   "отзывов": 80,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://шар-оля.рф/"
+   ],
+   "телефоны": [
+    "+7 (905) 951-28-72",
+    "+7 (913) 748-48-35"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "организация мероприятий"
+   ],
+   "признаки": [
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "flowers_and_balloon_shapes",
+    "gift_certificate",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "new_years_decoration",
+    "payment_by_credit_card",
+    "photo_zone_rent",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sharolya/185031195308/",
+   "последний_отзыв": "2026-09-08",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 87
+  },
+  {
+   "id": "1242385746",
+   "название": "Шары и упаковка",
+   "seoname": "shary_i_upakovka",
+   "адрес": "Новосибирск, улица Фрунзе",
+   "координаты": [
+    82.929488,
+    55.037652
+   ],
+   "рейтинг": 5,
+   "оценок": 162,
+   "отзывов": 66,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://шарыиупаковка.рф/",
+    "https://optshar.com/"
+   ],
+   "телефоны": [
+    "+7 (953) 794-51-95",
+    "+7 (901) 450-70-07"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "магазин подарков и сувениров",
+    "оптовый магазин"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "banners",
+    "car_park",
+    "cards_and_envelopes",
+    "cups_medals",
+    "delivery",
+    "flowers_in_flask",
+    "gift_certificate",
+    "gift_wrapping",
+    "payment_by_credit_card",
+    "pickup",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shary_i_upakovka/1242385746/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 76
+  },
+  {
+   "id": "152050535282",
+   "название": "Sharampampam",
+   "seoname": "sharampampam",
+   "адрес": "Новосибирск, улица Фрунзе",
+   "координаты": [
+    82.929348,
+    55.037644
+   ],
+   "рейтинг": 5,
+   "оценок": 94,
+   "отзывов": 62,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (905) 946-79-75"
+   ],
+   "часы": "пн-пт 09:00–20:00; сб,вс 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "организация мероприятий"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "carnival_and_theatrical_masks",
+    "decorations",
+    "delivery",
+    "disable_captions",
+    "disable_photopoi",
+    "discharging_from_maternity_hospital",
+    "dry_ice",
+    "express_delivery",
+    "flowers_and_balloon_shapes",
+    "garlands_installation",
+    "gift_wrapping",
+    "new_years_decoration",
+    "payment_by_credit_card",
+    "photo_zone_rent",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi",
+    "window_display_design"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sharampampam/152050535282/",
+   "последний_отзыв": "2026-10-21",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 83
+  },
+  {
+   "id": "6624107560",
+   "название": "Wonderball-project",
+   "seoname": "wonderball_project",
+   "адрес": "Кривощековская ул., 1",
+   "координаты": [
+    82.926342,
+    55.016633
+   ],
+   "рейтинг": 5,
+   "оценок": 107,
+   "отзывов": 57,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://wonderball-project.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 951-57-18"
+   ],
+   "часы": "ежедневно, 08:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "магазин подарков и сувениров"
+   ],
+   "признаки": [
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "gift_wrapping",
+    "payment_by_credit_card",
+    "pickup"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/wonderball_project/6624107560/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 81
+  },
+  {
+   "id": "172719005759",
+   "название": "Топ Шар",
+   "seoname": "top_shar",
+   "адрес": "Каменская ул., 53",
+   "координаты": [
+    82.923346,
+    55.04771
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 54,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://topshar-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (909) 534-43-33"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "организация мероприятий"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "discharging_from_maternity_hospital",
+    "flowers_and_balloon_shapes",
+    "garlands_installation",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "making_decorations",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/top_shar/172719005759/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 46,
+   "загружено_дат": 63
+  },
+  {
+   "id": "162602527606",
+   "название": "Фишка",
+   "seoname": "fishka",
+   "адрес": "ул. Кропоткина, 92/2",
+   "координаты": [
+    82.906861,
+    55.052354
+   ],
+   "рейтинг": 5,
+   "оценок": 67,
+   "отзывов": 49,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://fishka-sharik.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 933-76-33"
+   ],
+   "часы": "ежедневно, 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "фейерверки и пиротехника",
+    "магазин подарков и сувениров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "banners",
+    "car_park",
+    "cards_and_envelopes",
+    "carnival_and_theatrical_masks",
+    "cups_medals",
+    "decorations",
+    "delivery",
+    "edible_bouquets",
+    "flowers_and_balloon_shapes",
+    "garlands_installation",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "handmade_candles",
+    "handmade_goods",
+    "new_year_gifts",
+    "new_years_compositions",
+    "new_years_decoration",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "sweet_gifts",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/fishka/162602527606/",
+   "последний_отзыв": "2026-07-28",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 65
+  },
+  {
+   "id": "1739562862",
+   "название": "Сфера",
+   "seoname": "sfera",
+   "адрес": "ул. Лескова, 214/2, Новосибирск",
+   "координаты": [
+    82.964986,
+    55.016036
+   ],
+   "рейтинг": 4.8,
+   "оценок": 130,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sfera-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-17-94",
+    "+7 (383) 209-00-08",
+    "+7 (993) 007-24-07"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "фейерверки и пиротехника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "gift_wrapping",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sfera/1739562862/",
+   "последний_отзыв": "2026-05-05",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 62
+  },
+  {
+   "id": "37792326571",
+   "название": "Воздушная магия",
+   "seoname": "vozdushnaya_magiya",
+   "адрес": "просп. Карла Маркса, 37/2",
+   "координаты": [
+    82.905227,
+    54.98906
+   ],
+   "рейтинг": 5,
+   "оценок": 50,
+   "отзывов": 44,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://нскшарики.рф/"
+   ],
+   "телефоны": [
+    "+7 (951) 360-10-00",
+    "+7 (951) 360-51-50"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "доставка цветов и букетов",
+    "организация мероприятий"
+   ],
+   "признаки": [
+    "car_park",
+    "cards_and_envelopes",
+    "carnival_and_theatrical_masks",
+    "corporate_events",
+    "delivery",
+    "discharging_from_maternity_hospital",
+    "flowers_and_balloon_shapes",
+    "garlands_installation",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "making_decorations",
+    "new_years_decoration",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "photo_zone_rent",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wedding_planning",
+    "wi_fi",
+    "window_display_design"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vozdushnaya_magiya/37792326571/",
+   "последний_отзыв": "2026-05-12",
+   "отзывов_за_12_мес_из_загруженных": 3,
+   "загружено_дат": 60
+  },
+  {
+   "id": "64331302407",
+   "название": "Сфера",
+   "seoname": "sfera",
+   "адрес": "ул. Ватутина, 17/1, Новосибирск",
+   "координаты": [
+    82.891113,
+    54.986477
+   ],
+   "рейтинг": 4.9,
+   "оценок": 132,
+   "отзывов": 42,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://sfera-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-17-76",
+    "+7 (953) 782-07-07",
+    "+7 (383) 209-00-08"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "фейерверки и пиротехника",
+    "детские игрушки и игры"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "carnival_and_theatrical_masks",
+    "carnival_costumes",
+    "decorations",
+    "delivery",
+    "disable_captions",
+    "gift_wrapping",
+    "new_year_gifts",
+    "new_years_decoration",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sfera/64331302407/",
+   "последний_отзыв": "2026-08-31",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 59
+  },
+  {
+   "id": "117629884319",
+   "название": "My flowers54",
+   "seoname": "my_flowers54",
+   "адрес": "ул. Никитина, 91",
+   "координаты": [
+    82.967707,
+    55.018849
+   ],
+   "рейтинг": 4.9,
+   "оценок": 62,
+   "отзывов": 40,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://flowerswithlove.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 905-11-91"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин цветов",
+    "доставка цветов и букетов",
+    "товары для праздника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "dried_flowers",
+    "express_delivery",
+    "flowers_and_balloon_shapes",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "good_place",
+    "inflate_balloons_with_helium",
+    "new_years_decoration",
+    "payment_by_credit_card",
+    "pickup",
+    "planter",
+    "preliminary_registration",
+    "soft_toys",
+    "stabilized_flowers",
+    "street_entrance",
+    "wedding_floristry",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/my_flowers54/117629884319/",
+   "последний_отзыв": "2026-07-30",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 45
+  },
+  {
+   "id": "1111272296",
+   "название": "Сфера",
+   "seoname": "sfera",
+   "адрес": "ул. Фрунзе, 5",
+   "координаты": [
+    82.917403,
+    55.036854
+   ],
+   "рейтинг": 4.5,
+   "оценок": 137,
+   "отзывов": 37,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sfera-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-00-08",
+    "+7 (383) 217-25-36",
+    "+7 (953) 782-08-08"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "фейерверки и пиротехника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "cards_and_envelopes",
+    "carnival_and_theatrical_masks",
+    "carnival_costumes",
+    "delivery",
+    "gift_wrapping",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sfera/1111272296/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 61
+  },
+  {
+   "id": "107391361642",
+   "название": "Небо. Шар",
+   "seoname": "nebo_shar",
+   "адрес": "ул. Владимира Заровного, 38, Новосибирск",
+   "координаты": [
+    82.972416,
+    54.989195
+   ],
+   "рейтинг": 4.9,
+   "оценок": 60,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nebo-shar.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 108-55-95"
+   ],
+   "часы": "ежедневно, 11:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "магазин подарков и сувениров",
+    "тара и упаковочные материалы"
+   ],
+   "признаки": [
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "gift_certificate",
+    "gift_wrapping",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nebo_shar/107391361642/",
+   "последний_отзыв": "2026-01-17",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 47
+  },
+  {
+   "id": "105141623442",
+   "название": "Шары и Упаковка",
+   "seoname": "shary_i_upakovka",
+   "адрес": "ул. Ватутина, 11",
+   "координаты": [
+    82.887832,
+    54.988479
+   ],
+   "рейтинг": 4.8,
+   "оценок": 81,
+   "отзывов": 34,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.optshar.com/"
+   ],
+   "телефоны": [
+    "+7 (953) 873-25-83",
+    "+7 (383) 380-51-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "магазин подарков и сувениров",
+    "оптовый магазин"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "banners",
+    "car_park",
+    "cards_and_envelopes",
+    "cups_medals",
+    "delivery",
+    "gift_certificate",
+    "gift_wrapping",
+    "new_year_gifts",
+    "new_years_compositions",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shary_i_upakovka/105141623442/",
+   "последний_отзыв": "2026-09-21",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 52
+  },
+  {
+   "id": "198396597975",
+   "название": "Beautyball",
+   "seoname": "beautyball",
+   "адрес": "ул. Ясный Берег, 12",
+   "координаты": [
+    82.891715,
+    55.013699
+   ],
+   "рейтинг": 4.7,
+   "оценок": 33,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://beautyballnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 315-48-43",
+    "+7 (913) 472-69-74"
+   ],
+   "часы": "ежедневно, 08:00–23:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника"
+   ],
+   "признаки": [
+    "delivery",
+    "payment_by_credit_card",
+    "preliminary_registration"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/beautyball/198396597975/",
+   "последний_отзыв": "2025-09-16",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 26
+  },
+  {
+   "id": "1632360389",
+   "название": "МегаШар",
+   "seoname": "megashar",
+   "адрес": "ул. Максима Горького, 79",
+   "координаты": [
+    82.926865,
+    55.027857
+   ],
+   "рейтинг": 4.8,
+   "оценок": 42,
+   "отзывов": 18,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 002-78-00"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "организация мероприятий"
+   ],
+   "признаки": [
+    "cards_and_envelopes",
+    "corporate_events",
+    "delivery",
+    "show_briefly_about_the_place_block",
+    "wedding_planning"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/megashar/1632360389/",
+   "последний_отзыв": "2026-07-12",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 29
+  },
+  {
+   "id": "32542731624",
+   "название": "Шаровая Галактика",
+   "seoname": "sharovaya_galaktika",
+   "адрес": "просп. Дзержинского, 1/4",
+   "координаты": [
+    82.959147,
+    55.04856
+   ],
+   "рейтинг": 4.7,
+   "оценок": 15,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://vozdushnye-shary-novosibirsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (993) 190-85-08"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "организация мероприятий",
+    "магазин подарков и сувениров"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automatic_door",
+    "car_park",
+    "cards_and_envelopes",
+    "decorations",
+    "delivery",
+    "edible_bouquets",
+    "express_delivery",
+    "flowers_and_balloon_shapes",
+    "garlands_installation",
+    "gift_certificate",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "handmade_goods",
+    "new_year_gifts",
+    "new_years_compositions",
+    "new_years_decoration",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi",
+    "window_display_design"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sharovaya_galaktika/32542731624/",
+   "последний_отзыв": "2026-08-29",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 18
+  },
+  {
+   "id": "17577458582",
+   "название": "О! Шарик",
+   "seoname": "o_sharik",
+   "адрес": "ул. Максима Горького, 79",
+   "координаты": [
+    82.926569,
+    55.027856
+   ],
+   "рейтинг": 4.5,
+   "оценок": 19,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://o-sharik.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 002-68-66",
+    "+7 (383) 287-68-66"
+   ],
+   "часы": "ежедневно, 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника"
+   ],
+   "признаки": [
+    "cards_and_envelopes",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "gift_wrapping",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/o_sharik/17577458582/",
+   "последний_отзыв": "2025-03-09",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 22
+  },
+  {
+   "id": "29781255256",
+   "название": "Весёлый подарок",
+   "seoname": "vesyoly_podarok",
+   "адрес": "ул. Дуси Ковальчук, 185",
+   "координаты": [
+    82.920966,
+    55.063205
+   ],
+   "рейтинг": 4.4,
+   "оценок": 22,
+   "отзывов": 12,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.shari54.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 914-36-10"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника"
+   ],
+   "признаки": [
+    "cards_and_envelopes",
+    "delivery",
+    "flowers_and_balloon_shapes",
+    "gift_wrapping",
+    "gift_wrapping_1",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vesyoly_podarok/29781255256/",
+   "последний_отзыв": "2026-07-19",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 15
+  },
+  {
+   "id": "208304085001",
+   "название": "Шар-Нск",
+   "seoname": "shar_nsk",
+   "адрес": "просп. Дзержинского, 2/2",
+   "координаты": [
+    82.953155,
+    55.044051
+   ],
+   "рейтинг": 4.3,
+   "оценок": 20,
+   "отзывов": 10,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://shar-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 377-46-71",
+    "+7 (923) 190-01-44"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника",
+    "подарочная упаковка"
+   ],
+   "признаки": [
+    "car_park",
+    "cards_and_envelopes",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "gift_wrapping",
+    "kz_kaspi_qr",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shar_nsk/208304085001/",
+   "последний_отзыв": "2026-04-28",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 14
+  },
+  {
+   "id": "176946247094",
+   "название": "Шаровары",
+   "seoname": "sharovary",
+   "адрес": "просп. Карла Маркса, 30",
+   "координаты": [
+    82.911481,
+    54.991659
+   ],
+   "рейтинг": 4.3,
+   "оценок": 19,
+   "отзывов": 7,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://sharovary.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 363-55-23",
+    "+7 (983) 121-68-31",
+    "+7 (923) 170-73-56"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 09:00–16:00; вс 09:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "flowers_and_balloon_shapes",
+    "payment_by_credit_card",
+    "pickup",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sharovary/176946247094/"
+  },
+  {
+   "id": "126786370531",
+   "название": "Воздушные шары",
+   "seoname": "vozdushnyye_shary",
+   "адрес": "ул. Громова, 17, Затулинский жилмассив, Кировский район",
+   "координаты": [
+    82.909198,
+    54.934253
+   ],
+   "рейтинг": 4.2,
+   "оценок": 4,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 701-22-48",
+    "+7 (952) 912-05-48"
+   ],
+   "часы": "ежедневно, 08:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Товары для праздника"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "pickup",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vozdushnyye_shary/126786370531/"
+  }
+ ]
+}

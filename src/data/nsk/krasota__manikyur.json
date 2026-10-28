@@ -1,0 +1,1204 @@
+{
+ "ниша": "Маникюр",
+ "ключ": "krasota/manikyur",
+ "запросы": [
+  "маникюр"
+ ],
+ "найдено_в_яндексе": {
+  "маникюр": 107
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "7850956149",
+   "название": "Lucky Nails",
+   "seoname": "lucky_nails",
+   "адрес": "Геодезическая ул., 2/1, Новосибирск",
+   "координаты": [
+    82.902064,
+    54.990619
+   ],
+   "рейтинг": 5,
+   "оценок": 325,
+   "отзывов": 271,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://taplink.cc/luckynails_nsk"
+   ],
+   "телефоны": [
+    "+7 (923) 117-01-12"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "салон бровей и ресниц",
+    "ногтевая студия"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "car_park",
+    "corduroy_eyelashes_eyebrows",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "eyebrows",
+    "eyelashes",
+    "gift_certificate",
+    "henna_staining",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_extension_2",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lucky_nails/7850956149/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 82
+  },
+  {
+   "id": "139722512487",
+   "название": "Golova",
+   "seoname": "golova",
+   "адрес": "ул. Ленина, 9, Новосибирск",
+   "координаты": [
+    82.914149,
+    55.02908
+   ],
+   "рейтинг": 4.9,
+   "оценок": 302,
+   "отзывов": 206,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://golova.online/"
+   ],
+   "телефоны": [
+    "+7 (923) 101-00-19"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "ногтевая студия",
+    "парикмахерская"
+   ],
+   "признаки": [
+    "barbershop",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "henna_staining",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/golova/139722512487/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 51,
+   "загружено_дат": 75
+  },
+  {
+   "id": "125158288539",
+   "название": "Viridis",
+   "seoname": "viridis",
+   "адрес": "Ипподромская ул., 8",
+   "координаты": [
+    82.931677,
+    55.019882
+   ],
+   "рейтинг": 5,
+   "оценок": 362,
+   "отзывов": 196,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 722-07-07"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "medical_manicure",
+    "medical_pedicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/viridis/125158288539/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 48
+  },
+  {
+   "id": "1800795374",
+   "название": "Nabs",
+   "seoname": "nabs",
+   "адрес": "ул. Орджоникидзе, 27",
+   "координаты": [
+    82.921329,
+    55.031254
+   ],
+   "рейтинг": 4.5,
+   "оценок": 403,
+   "отзывов": 176,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://novosibirsk.nabsnail.com/"
+   ],
+   "телефоны": [
+    "+7 (903) 997-72-58"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "ногтевая студия",
+    "парикмахерская"
+   ],
+   "признаки": [
+    "corduroy_eyelashes_eyebrows",
+    "gift_certificate",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "online_recording",
+    "pedicure_bin",
+    "preliminary_registration",
+    "ramp",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nabs/1800795374/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 70
+  },
+  {
+   "id": "231027634567",
+   "название": "4hands",
+   "seoname": "4hands",
+   "адрес": "Вокзальная магистраль, 4",
+   "координаты": [
+    82.903667,
+    55.033837
+   ],
+   "рейтинг": 5,
+   "оценок": 207,
+   "отзывов": 149,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://4handsvokzalnay.tilda.ws/"
+   ],
+   "телефоны": [
+    "+7 (903) 932-88-44"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "салон бровей и ресниц",
+    "салон красоты"
+   ],
+   "признаки": [
+    "disable_captions",
+    "gift_certificate",
+    "henna_staining",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_extension_2",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/4hands/231027634567/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 76
+  },
+  {
+   "id": "98507916040",
+   "название": "Nails Academie",
+   "seoname": "nails_academie",
+   "адрес": "Военная ул., 1",
+   "координаты": [
+    82.935467,
+    55.030071
+   ],
+   "рейтинг": 5,
+   "оценок": 175,
+   "отзывов": 145,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (952) 903-05-55"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "салон красоты"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "henna_staining",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_extension_2",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nails_academie/98507916040/",
+   "последний_отзыв": "2026-09-25",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 47
+  },
+  {
+   "id": "1218574792",
+   "название": "4hands",
+   "seoname": "4hands",
+   "адрес": "Красный просп., 101",
+   "координаты": [
+    82.912669,
+    55.055635
+   ],
+   "рейтинг": 4.8,
+   "оценок": 172,
+   "отзывов": 131,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://4hands.ru/studii/novosibirsk-ts-royal-park-ul-krasnyy-prospekt-101"
+   ],
+   "телефоны": [
+    "+7 (938) 543-18-61"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "косметология",
+    "салон красоты"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "automatic_door",
+    "bike_parking",
+    "car_park",
+    "cosmetology for men",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "manicure_bin",
+    "medical_manicure",
+    "medical_pedicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "nursery",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/4hands/1218574792/",
+   "последний_отзыв": "2026-10-15",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 42
+  },
+  {
+   "id": "117014361919",
+   "название": "Альбера",
+   "seoname": "albera",
+   "адрес": "ул. Орджоникидзе, 30",
+   "координаты": [
+    82.930696,
+    55.031695
+   ],
+   "рейтинг": 4.9,
+   "оценок": 255,
+   "отзывов": 131,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://alberansk.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 244-60-89",
+    "+7 (923) 244-61-42",
+    "+7 (923) 135-19-72"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "ногтевая студия",
+    "обучение мастеров для салонов красоты"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "beauty_bar",
+    "bike_parking",
+    "car_park",
+    "curly_salon",
+    "gift_certificate",
+    "good_place",
+    "henna_staining",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_extension_2",
+    "nursery",
+    "online_classes",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/albera/117014361919/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 36,
+   "загружено_дат": 74
+  },
+  {
+   "id": "24185099638",
+   "название": "Podo Estetic Lines",
+   "seoname": "podo_estetic_lines",
+   "адрес": "Комсомольский просп., 24",
+   "координаты": [
+    82.906884,
+    55.032527
+   ],
+   "рейтинг": 5,
+   "оценок": 167,
+   "отзывов": 123,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://podolines.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 700-88-04",
+    "+7 (953) 778-90-00"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Подология",
+    "ногтевая студия",
+    "салон красоты"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "manicure_bin",
+    "medical_manicure",
+    "medical_pedicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "podology_training",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/podo_estetic_lines/24185099638/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 31,
+   "загружено_дат": 85
+  },
+  {
+   "id": "1751714999",
+   "название": "Респект",
+   "seoname": "respekt",
+   "адрес": "Нижегородская ул., 18",
+   "координаты": [
+    82.938533,
+    55.015938
+   ],
+   "рейтинг": 4.9,
+   "оценок": 156,
+   "отзывов": 111,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://salon-respect.com/"
+   ],
+   "телефоны": [
+    "+7 (913) 011-79-89"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "салон бровей и ресниц",
+    "ногтевая студия"
+   ],
+   "признаки": [
+    "curly_salon",
+    "eyebrows",
+    "eyelashes",
+    "gift_certificate",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_extension_2",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/respekt/1751714999/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 86
+  },
+  {
+   "id": "77660787308",
+   "название": "Студия Мл",
+   "seoname": "studiya_ml",
+   "адрес": "Депутатская ул., 46",
+   "координаты": [
+    82.926423,
+    55.029389
+   ],
+   "рейтинг": 4.9,
+   "оценок": 170,
+   "отзывов": 110,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://studioml.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 765-38-77"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "студия перманентного макияжа"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "henna_staining",
+    "manicure_bin",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/studiya_ml/77660787308/",
+   "последний_отзыв": "2026-07-20",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 89
+  },
+  {
+   "id": "28964485323",
+   "название": "BonBon",
+   "seoname": "bonbon",
+   "адрес": "Красный просп., 56",
+   "координаты": [
+    82.919383,
+    55.037656
+   ],
+   "рейтинг": 5,
+   "оценок": 213,
+   "отзывов": 93,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bonbon.pro/nsk"
+   ],
+   "телефоны": [
+    "+7 (923) 741-97-96"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия"
+   ],
+   "признаки": [
+    "car_park",
+    "disable_captions",
+    "disable_photopoi",
+    "gift_certificate",
+    "good_place",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bonbon/28964485323/",
+   "последний_отзыв": "2026-09-26",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 59
+  },
+  {
+   "id": "60582255801",
+   "название": "Buleeva_nail_studio",
+   "seoname": "buleeva_nail_studio",
+   "адрес": "ул. Ленина, 12",
+   "координаты": [
+    82.91346,
+    55.029862
+   ],
+   "рейтинг": 5,
+   "оценок": 87,
+   "отзывов": 79,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 804-23-11"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "салон красоты"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/buleeva_nail_studio/60582255801/",
+   "последний_отзыв": "2026-06-28",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 60
+  },
+  {
+   "id": "17432472573",
+   "название": "Good Nails",
+   "seoname": "good_nails",
+   "адрес": "ул. Урицкого, 15",
+   "координаты": [
+    82.913304,
+    55.026066
+   ],
+   "рейтинг": 5,
+   "оценок": 99,
+   "отзывов": 73,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://goodnailsnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 956-11-69",
+    "+7 (952) 932-55-00"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "салон бровей и ресниц",
+    "курсы и мастер-классы"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "medical_manicure",
+    "medical_pedicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/good_nails/17432472573/",
+   "последний_отзыв": "2026-07-01",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 75
+  },
+  {
+   "id": "128749274404",
+   "название": "Pro-beauty",
+   "seoname": "pro_beauty",
+   "адрес": "Железнодорожная ул., 15/1, Железнодорожный район",
+   "координаты": [
+    82.905464,
+    55.046988
+   ],
+   "рейтинг": 5,
+   "оценок": 104,
+   "отзывов": 72,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 721-07-14"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "салон бровей и ресниц",
+    "ногтевая студия"
+   ],
+   "признаки": [
+    "gift_certificate",
+    "henna_staining",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pro_beauty/128749274404/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 70
+  },
+  {
+   "id": "41153958947",
+   "название": "Noak Nails",
+   "seoname": "noak_nails",
+   "адрес": "Советская ул., 18",
+   "координаты": [
+    82.916769,
+    55.030048
+   ],
+   "рейтинг": 4.8,
+   "оценок": 86,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (996) 379-63-68"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "салон красоты"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "gift_certificate",
+    "manicure_bin",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/noak_nails/41153958947/",
+   "последний_отзыв": "2026-07-24",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 46
+  },
+  {
+   "id": "81214413146",
+   "название": "Мула",
+   "seoname": "mula",
+   "адрес": "ул. Орджоникидзе, 30",
+   "координаты": [
+    82.930359,
+    55.031137
+   ],
+   "рейтинг": 4.8,
+   "оценок": 89,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (903) 076-99-67"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "ногтевая студия",
+    "парикмахерская"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "manicure_bin",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mula/81214413146/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 62
+  },
+  {
+   "id": "107770490753",
+   "название": "Monocode",
+   "seoname": "monocode",
+   "адрес": "Красный просп., 62",
+   "координаты": [
+    82.918509,
+    55.03976
+   ],
+   "рейтинг": 5,
+   "оценок": 79,
+   "отзывов": 53,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (923) 251-89-88"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "парикмахерская"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "gift_certificate",
+    "good_place",
+    "instant tan",
+    "online_recording",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/monocode/107770490753/",
+   "последний_отзыв": "2026-08-04",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 52
+  },
+  {
+   "id": "71547692994",
+   "название": "Миндали",
+   "seoname": "mindali",
+   "адрес": "Большевистская ул., 35",
+   "координаты": [
+    82.931672,
+    55.010888
+   ],
+   "рейтинг": 5,
+   "оценок": 55,
+   "отзывов": 46,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mindalinsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 945-07-40"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "салон красоты",
+    "обучение мастеров для салонов красоты"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "disable_captions",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "manicure_bin",
+    "medical_manicure",
+    "medical_pedicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mindali/71547692994/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 69
+  },
+  {
+   "id": "36807749096",
+   "название": "Manicure. med",
+   "seoname": "manicure_med",
+   "адрес": "Ядринцевская ул., 18",
+   "координаты": [
+    82.92412,
+    55.033078
+   ],
+   "рейтинг": 5,
+   "оценок": 59,
+   "отзывов": 45,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 209-04-80"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия"
+   ],
+   "признаки": [
+    "disable_captions",
+    "gift_certificate",
+    "good_place",
+    "medical_manicure",
+    "mens_nail_services",
+    "nail_artdesign",
+    "nail_extension_2",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/manicure_med/36807749096/",
+   "последний_отзыв": "2026-02-19",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 44
+  },
+  {
+   "id": "29453700725",
+   "название": "Atama",
+   "seoname": "atama",
+   "адрес": "ул. Урицкого, 4",
+   "координаты": [
+    82.914553,
+    55.023618
+   ],
+   "рейтинг": 4.8,
+   "оценок": 65,
+   "отзывов": 39,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://dikidi.net/1478588"
+   ],
+   "телефоны": [
+    "+7 (383) 263-25-38"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "ногтевая студия",
+    "парикмахерская"
+   ],
+   "признаки": [
+    "automatic_door",
+    "barbershop",
+    "beauty_bar",
+    "call_button",
+    "doubloons_loyalty_card",
+    "gift_certificate",
+    "good_place",
+    "manicure_bin",
+    "mens_nail_services",
+    "online_recording",
+    "payment_by_credit_card",
+    "pedicure_bin",
+    "preliminary_registration",
+    "privilege_haircut",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atama/29453700725/",
+   "последний_отзыв": "2026-09-22",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 56
+  },
+  {
+   "id": "195838009996",
+   "название": "Кабинет маникюра и педикюра",
+   "seoname": "kabinet_manikyura_i_pedikyura",
+   "адрес": "Красный просп., 1",
+   "координаты": [
+    82.922493,
+    55.01999
+   ],
+   "рейтинг": 4.9,
+   "оценок": 37,
+   "отзывов": 35,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dikidi.net/525135"
+   ],
+   "телефоны": [
+    "+7 (906) 979-70-53"
+   ],
+   "часы": "ежедневно, 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты",
+    "ногтевая студия"
+   ],
+   "признаки": [
+    "car_park",
+    "gift_certificate",
+    "medical_pedicure",
+    "mens_nail_services",
+    "online_recording",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kabinet_manikyura_i_pedikyura/195838009996/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 37
+  },
+  {
+   "id": "15736070787",
+   "название": "Роскошный максимум",
+   "seoname": "roskoshny_maksimum",
+   "адрес": "ул. Челюскинцев, 30/2, Новосибирск",
+   "координаты": [
+    82.90723,
+    55.038933
+   ],
+   "рейтинг": 4.4,
+   "оценок": 13,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://dikidi.net/2071524",
+    "https://roskoshnyj-maksimum.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (913) 717-38-46"
+   ],
+   "часы": "ежедневно, 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Салон красоты"
+   ],
+   "признаки": [
+    "manicure_bin",
+    "pedicure_bin"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/roskoshny_maksimum/15736070787/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 16
+  },
+  {
+   "id": "172358707525",
+   "название": "Здоровый След",
+   "seoname": "zdorovy_sled",
+   "адрес": "ул. Титова, 1, Новосибирск",
+   "координаты": [
+    82.887977,
+    54.982522
+   ],
+   "рейтинг": 4.5,
+   "оценок": 14,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://zdorovyj-sled.clients.site/"
+   ],
+   "телефоны": [
+    "+7 (999) 303-35-95"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Подология",
+    "ногтевая студия"
+   ],
+   "признаки": [
+    "car_park",
+    "medical_pedicure",
+    "mens_nail_services",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zdorovy_sled/172358707525/"
+  },
+  {
+   "id": "23718808211",
+   "название": "Своя",
+   "seoname": "svoya",
+   "адрес": "ул. Ватутина, 35, Новосибирск",
+   "координаты": [
+    82.900122,
+    54.982143
+   ],
+   "рейтинг": 4.1,
+   "оценок": 3,
+   "отзывов": 2,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 864-66-87"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ногтевая студия",
+    "подология"
+   ],
+   "признаки": [
+    "nail_extension_2",
+    "preliminary_registration"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/svoya/23718808211/"
+  }
+ ]
+}

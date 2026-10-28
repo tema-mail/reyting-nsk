@@ -1,0 +1,1195 @@
+{
+ "ниша": "Курсы английского",
+ "ключ": "deti/kursy-angliyskogo",
+ "запросы": [
+  "курсы английского языка"
+ ],
+ "найдено_в_яндексе": {
+  "курсы английского языка": 112
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1134719806",
+   "название": "Юнисити",
+   "seoname": "yunisiti",
+   "адрес": "ул. Фрунзе, 4, Новосибирск",
+   "координаты": [
+    82.917409,
+    55.036211
+   ],
+   "рейтинг": 5,
+   "оценок": 182,
+   "отзывов": 101,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://unicity-nsk.ru/unicamp/",
+    "http://unicity-nsk.ru/",
+    "https://widgets.2gis.com/widget?options=%7B%22pos%22%3A%7B%22lat%22%3A55.05831543487356%2C%22lon%22%3A82.96119689941406%2C%22zoom%22%3A11%7D%2C%22opt%22%3A%7B%22city%22%3A%22novosibirsk%22%7D%2C%22org%22%3A%22141265769339638%2C141266769970401%2C70000001044872327%2C70000001044872336%2C70000001044872342%2C70000001044872347%2C70000001044872350%2C70000001044872363%2C70000001044872371%2C70000001044872378%2C70000001044872382%2C70000001044872384%2C70000001044872390%2C70000001044872392%2C70000001044872401%2C70000001044872411%2C70000001044872420%2C70000001044872428%2C70000001044872436%2C70000001044872445%2C70000001044872452%2C70000001044872453%2C70000001044872460%2C70000001044872464%2C70000001044872470%2C70000001044872480%2C70000001044872485%2C70000001044872494%2C70000001044872503%2C70000001044872512%2C70000001044872516%2C70000001044872519%2C70000001044872524%2C70000001044872526%2C70000001044872528%2C70000001044872537%2C70000001044872542%22%7D&type=firmsonmap"
+   ],
+   "телефоны": [
+    "+7 (383) 218-86-84",
+    "+7 (383) 222-76-03",
+    "+7 (913) 703-00-29"
+   ],
+   "часы": "пн-чт 09:00–19:00; пт 09:00–18:00; сб 11:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "детский лагерь отдыха",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "parking_disabled"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yunisiti/1134719806/",
+   "последний_отзыв": "2026-07-13",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 74
+  },
+  {
+   "id": "1071877774",
+   "название": "UFirst",
+   "seoname": "ufirst",
+   "адрес": "Линейная ул., 114",
+   "координаты": [
+    82.920453,
+    55.051312
+   ],
+   "рейтинг": 4.8,
+   "оценок": 214,
+   "отзывов": 79,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ufirst.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-55-88"
+   ],
+   "часы": "пн-чт 10:00–21:00; пт 11:00–21:00; сб,вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "компьютерные курсы",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "car_park",
+    "corporate_training",
+    "disable_photopoi",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation for exam",
+    "preparation_for_school",
+    "programming_for_children",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_camp",
+    "workshops_guides_sale"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ufirst/1071877774/",
+   "последний_отзыв": "2026-09-09",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 92
+  },
+  {
+   "id": "186774469382",
+   "название": "Way To Go",
+   "seoname": "way_to_go",
+   "адрес": "Новосибирск, Ленинский район, микрорайон Горский, 64",
+   "координаты": [
+    82.893865,
+    54.993261
+   ],
+   "рейтинг": 5,
+   "оценок": 106,
+   "отзывов": 75,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://waytogo.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 239-30-96"
+   ],
+   "часы": "пн-пт 08:00–21:30; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "курсы и мастер-классы"
+   ],
+   "признаки": [
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/way_to_go/186774469382/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 69
+  },
+  {
+   "id": "1298283842",
+   "название": "Оксфорд",
+   "seoname": "oksford",
+   "адрес": "площадь Карла Маркса, 7, Новосибирск",
+   "координаты": [
+    82.897217,
+    54.979767
+   ],
+   "рейтинг": 4.9,
+   "оценок": 121,
+   "отзывов": 70,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://rusoxford.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 312-01-45"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "детский лагерь отдыха"
+   ],
+   "признаки": [
+    "corporate_training",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oksford/1298283842/",
+   "последний_отзыв": "2026-07-03",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 79
+  },
+  {
+   "id": "1003723634",
+   "название": "Языковая школа Я",
+   "seoname": "yazykovaya_shkola_ya",
+   "адрес": "ул. Некрасова, 50, Новосибирск",
+   "координаты": [
+    82.927605,
+    55.045664
+   ],
+   "рейтинг": 4.9,
+   "оценок": 160,
+   "отзывов": 60,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://ya-school.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 243-50-30",
+    "+7 (991) 378-43-61"
+   ],
+   "часы": "пн-пт 09:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "courses_for_elderly",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "online_classes",
+    "payment_by_credit_card"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yazykovaya_shkola_ya/1003723634/",
+   "последний_отзыв": "2026-04-28",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1241603075",
+   "название": "Полиглот",
+   "seoname": "poliglot",
+   "адрес": "ул. Мичурина, 10",
+   "координаты": [
+    82.924032,
+    55.038098
+   ],
+   "рейтинг": 5,
+   "оценок": 84,
+   "отзывов": 57,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://poliglottt.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 380-66-33",
+    "+7 (983) 323-51-65"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб 08:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "учебный центр",
+    "бюро переводов"
+   ],
+   "признаки": [
+    "certified_translations",
+    "courses_for_elderly",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "payment_by_credit_card",
+    "preparation for exam",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/poliglot/1241603075/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 35
+  },
+  {
+   "id": "62776495941",
+   "название": "Вкусный английский",
+   "seoname": "vkusny_angliyskiy",
+   "адрес": "ул. Кропоткина, 271",
+   "координаты": [
+    82.936544,
+    55.057765
+   ],
+   "рейтинг": 5,
+   "оценок": 61,
+   "отзывов": 56,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://tastyenglish.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 748-93-47",
+    "+7 (913) 701-74-89"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "corporate_training",
+    "courses_for_elderly",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/vkusny_angliyskiy/62776495941/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 36
+  },
+  {
+   "id": "90585244896",
+   "название": "Оксфорд",
+   "seoname": "oksford",
+   "адрес": "Красный просп., 184, Новосибирск",
+   "координаты": [
+    82.913827,
+    55.057688
+   ],
+   "рейтинг": 5,
+   "оценок": 73,
+   "отзывов": 52,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://rusoxford.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 312-01-45",
+    "+7 (983) 303-96-20"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "обучение за рубежом"
+   ],
+   "признаки": [
+    "corporate_training",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/oksford/90585244896/",
+   "последний_отзыв": "2026-06-17",
+   "отзывов_за_12_мес_из_загруженных": 4,
+   "загружено_дат": 84
+  },
+  {
+   "id": "130420263851",
+   "название": "Level Eleven",
+   "seoname": "level_eleven",
+   "адрес": "ул. Станиславского, 6, Новосибирск",
+   "координаты": [
+    82.870331,
+    54.988272
+   ],
+   "рейтинг": 4.9,
+   "оценок": 82,
+   "отзывов": 48,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://www.leveleleven.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 235-94-45",
+    "+7 (913) 480-68-24"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "центр развития ребёнка",
+    "обучение за рубежом"
+   ],
+   "признаки": [
+    "foregn_language_children",
+    "groups_for_adults",
+    "online_classes",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/level_eleven/130420263851/",
+   "последний_отзыв": "2026-09-03",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 50
+  },
+  {
+   "id": "224981756905",
+   "название": "President",
+   "seoname": "president",
+   "адрес": "Красный просп., 28",
+   "координаты": [
+    82.922224,
+    55.025359
+   ],
+   "рейтинг": 5,
+   "оценок": 97,
+   "отзывов": 47,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://president-english.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 291-91-65",
+    "+7 (383) 375-17-87"
+   ],
+   "часы": "пн-пт 11:00–20:00; сб 11:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "обучение за рубежом"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "corporate_training",
+    "courses_for_elderly",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "kaspi_red",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/president/224981756905/",
+   "последний_отзыв": "2026-09-24",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 46
+  },
+  {
+   "id": "1032540441",
+   "название": "ABC центр",
+   "seoname": "abc_tsentr",
+   "адрес": "Красный просп., 200",
+   "координаты": [
+    82.912659,
+    55.063374
+   ],
+   "рейтинг": 5,
+   "оценок": 80,
+   "отзывов": 46,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://abc-center.ru/",
+    "https://kidsonline.abc-center.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 375-00-78",
+    "+7 (923) 775-00-78",
+    "+7 (383) 375-10-78"
+   ],
+   "часы": "пн-сб 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "услуги репетиторов"
+   ],
+   "признаки": [
+    "courses_for_elderly",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "group_classes_ski",
+    "groups_for_adults",
+    "online_classes",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation for exam",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/abc_tsentr/1032540441/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 11,
+   "загружено_дат": 66
+  },
+  {
+   "id": "221672398949",
+   "название": "КинТин",
+   "seoname": "kintin",
+   "адрес": "ул. Крылова, 71",
+   "координаты": [
+    82.940554,
+    55.042391
+   ],
+   "рейтинг": 5,
+   "оценок": 58,
+   "отзывов": 43,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://keenteen.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 202-11-89"
+   ],
+   "часы": "пн-пт 09:00–21:00; сб 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "центр развития ребёнка",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "corporate_training",
+    "courses_for_elderly",
+    "early_development_group",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "mom_and_baby",
+    "online_classes",
+    "payment_by_credit_card",
+    "preparation for exam",
+    "preparation_for_school",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kintin/221672398949/",
+   "последний_отзыв": "2026-03-28",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 59
+  },
+  {
+   "id": "1196126817",
+   "название": "Way to go",
+   "seoname": "way_to_go",
+   "адрес": "Красный просп., 157/1",
+   "координаты": [
+    82.910122,
+    55.059233
+   ],
+   "рейтинг": 4.6,
+   "оценок": 49,
+   "отзывов": 31,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://waytogo.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 239-30-96"
+   ],
+   "часы": "пн-пт 08:00–21:30; сб 11:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "курсы и мастер-классы"
+   ],
+   "признаки": [
+    "courses_for_elderly",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "online_classes",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/way_to_go/1196126817/",
+   "последний_отзыв": "2026-02-17",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 50
+  },
+  {
+   "id": "208010337264",
+   "название": "Лингва Кейк",
+   "seoname": "lingva_keyk",
+   "адрес": "ул. Романова, 27",
+   "координаты": [
+    82.91822,
+    55.034778
+   ],
+   "рейтинг": 5,
+   "оценок": 51,
+   "отзывов": 26,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://lingvacake.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 014-36-85"
+   ],
+   "часы": "пн-сб 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "corporate_training",
+    "courses_for_elderly",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lingva_keyk/208010337264/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 45
+  },
+  {
+   "id": "144572438029",
+   "название": "Хай скул",
+   "seoname": "khay_skul",
+   "адрес": "ул. Кошурникова, 22/5",
+   "координаты": [
+    82.966774,
+    55.039997
+   ],
+   "рейтинг": 4.9,
+   "оценок": 46,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://highschool.su/"
+   ],
+   "телефоны": [
+    "+7 (383) 304-95-94"
+   ],
+   "часы": "ежедневно, 09:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "дополнительное образование",
+    "бюро переводов"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "certified_translations",
+    "corporate_training",
+    "courses_for_elderly",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "language_camp",
+    "mental arithmetic",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation for exam",
+    "preparation_for_school",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "summer_camp",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi",
+    "write_learning"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/khay_skul/144572438029/",
+   "последний_отзыв": "2025-12-04",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 40
+  },
+  {
+   "id": "1125172833",
+   "название": "Интерлэнг",
+   "seoname": "interleng",
+   "адрес": "Октябрьская ул., 42",
+   "координаты": [
+    82.920501,
+    55.024448
+   ],
+   "рейтинг": 4.9,
+   "оценок": 32,
+   "отзывов": 22,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://interlang.ru/"
+   ],
+   "телефоны": [
+    "+7 (952) 923-47-71"
+   ],
+   "часы": "пн-пт 10:00–19:00, перерыв 13:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "детский лагерь отдыха",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "car_park",
+    "courses_for_elderly",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "preparation for exam"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/interleng/1125172833/",
+   "последний_отзыв": "2024-06-16",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 27
+  },
+  {
+   "id": "1303545182",
+   "название": "Go! English",
+   "seoname": "go_english",
+   "адрес": "Красный просп., 99",
+   "координаты": [
+    82.910991,
+    55.054862
+   ],
+   "рейтинг": 4.7,
+   "оценок": 39,
+   "отзывов": 20,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://novosibirsk.go-eng.ru/"
+   ],
+   "телефоны": [
+    "+7 (951) 391-88-85",
+    "+7 (383) 375-10-85"
+   ],
+   "часы": "пн-пт 11:00–20:30; сб 11:00–15:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "corporate_training",
+    "courses_for_elderly",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "online_classes",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/go_english/1303545182/",
+   "последний_отзыв": "2025-05-05",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 35
+  },
+  {
+   "id": "1142669936",
+   "название": "BigAppleSchool",
+   "seoname": "bigappleschool",
+   "адрес": "Ядринцевская ул., 53/1",
+   "координаты": [
+    82.93032,
+    55.033971
+   ],
+   "рейтинг": 4.4,
+   "оценок": 60,
+   "отзывов": 16,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://bigappleschool.online/",
+    "https://bigappleschool.com/"
+   ],
+   "телефоны": [
+    "+7 (923) 227-90-49",
+    "+7 (383) 227-90-49"
+   ],
+   "часы": "пн-пт 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "corporate_training",
+    "disable_captions",
+    "disable_photopoi",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "online_classes",
+    "ramp"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/bigappleschool/1142669936/",
+   "последний_отзыв": "2025-08-29",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 30
+  },
+  {
+   "id": "167339081999",
+   "название": "Мистер Мао",
+   "seoname": "mister_mao",
+   "адрес": "Кавалерийская ул., 23, Новосибирск",
+   "координаты": [
+    82.927571,
+    55.058244
+   ],
+   "рейтинг": 4.8,
+   "оценок": 16,
+   "отзывов": 15,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://maosib.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 073-88-32"
+   ],
+   "часы": "пн-пт 12:00–20:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "клуб для детей и подростков",
+    "дополнительное образование"
+   ],
+   "признаки": [
+    "disable_captions",
+    "disable_photopoi",
+    "foregn_language_children",
+    "good_place",
+    "language_camp",
+    "online_classes",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mister_mao/167339081999/",
+   "последний_отзыв": "2026-06-24",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 21
+  },
+  {
+   "id": "110312790814",
+   "название": "Джорни",
+   "seoname": "dzhorni",
+   "адрес": "ул. Кирова, 46",
+   "координаты": [
+    82.939131,
+    55.017325
+   ],
+   "рейтинг": 4.7,
+   "оценок": 43,
+   "отзывов": 15,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://nashashkola.info/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-29-79",
+    "+7 (383) 388-41-19",
+    "+7 (913) 915-01-46"
+   ],
+   "часы": "пн-пт 10:00–20:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "учебный центр",
+    "бюро переводов"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "corporate_training",
+    "courses_for_elderly",
+    "foregn_language_children",
+    "gift_certificate",
+    "good_place",
+    "groups_for_adults",
+    "online_classes",
+    "payment_by_credit_card",
+    "preparation for exam",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/dzhorni/110312790814/",
+   "последний_отзыв": "2025-08-18",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 16
+  },
+  {
+   "id": "17712427131",
+   "название": "The Gold School",
+   "seoname": "the_gold_school",
+   "адрес": "ул. Станиславского, 13",
+   "координаты": [
+    82.87257,
+    54.984228
+   ],
+   "рейтинг": 4.3,
+   "оценок": 38,
+   "отзывов": 14,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://thegoldschool.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 881-27-09"
+   ],
+   "часы": "пн-пт 08:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "курсы и мастер-классы",
+    "услуги репетиторов"
+   ],
+   "признаки": [
+    "foregn_language_children",
+    "group_classes_ski",
+    "groups_for_adults",
+    "online_classes",
+    "preparation for exam",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/the_gold_school/17712427131/",
+   "последний_отзыв": "2025-12-27",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 16
+  },
+  {
+   "id": "1057339485",
+   "название": "Школа Бенедикт",
+   "seoname": "shkola_benedikt",
+   "адрес": "Сибирская ул., 31",
+   "координаты": [
+    82.905159,
+    55.035592
+   ],
+   "рейтинг": 4.2,
+   "оценок": 34,
+   "отзывов": 11,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://benedictschool.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 207-56-06",
+    "+7 (995) 272-09-26",
+    "+7 (923) 179-69-24"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "детский лагерь отдыха",
+    "учебный центр"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "courses_for_elderly",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "language_camp",
+    "online_classes",
+    "payment_by_credit_card",
+    "preparation for exam",
+    "street_entrance",
+    "toilet_childrens",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shkola_benedikt/1057339485/",
+   "последний_отзыв": "2026-05-20",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 15
+  },
+  {
+   "id": "27884884539",
+   "название": "Английская школа",
+   "seoname": "angliyskaya_shkola",
+   "адрес": "Потанинская ул., 4, Новосибирск",
+   "координаты": [
+    82.916198,
+    55.03324
+   ],
+   "рейтинг": 4.7,
+   "оценок": 23,
+   "отзывов": 9,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.school/"
+   ],
+   "телефоны": [
+    "+7 (383) 222-23-46"
+   ],
+   "часы": "пн-пт 11:00–21:00; сб 12:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "foregn_language_children",
+    "good_place",
+    "groups_for_adults",
+    "online_classes",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/angliyskaya_shkola/27884884539/"
+  },
+  {
+   "id": "182736094576",
+   "название": "Кембридж",
+   "seoname": "kembridzh",
+   "адрес": "Нарымская ул., 17/1",
+   "координаты": [
+    82.906505,
+    55.041059
+   ],
+   "рейтинг": 4.3,
+   "оценок": 23,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://lccn.ru/",
+    "https://wa.clck.bar/79538793120"
+   ],
+   "телефоны": [
+    "+7 (383) 210-10-41",
+    "+7 (383) 210-20-97"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб 10:00–16:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков"
+   ],
+   "признаки": [
+    "foregn_language_children",
+    "groups_for_adults",
+    "online_classes",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kembridzh/182736094576/"
+  },
+  {
+   "id": "1501135329",
+   "название": "High School",
+   "seoname": "high_school",
+   "адрес": "ул. Фрунзе, 242",
+   "координаты": [
+    82.962306,
+    55.040177
+   ],
+   "рейтинг": 0,
+   "оценок": 36,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://highschool.su/"
+   ],
+   "телефоны": [
+    "+7 (383) 304-95-94"
+   ],
+   "часы": null,
+   "круглосуточно": false,
+   "рубрики": [
+    "Курсы иностранных языков",
+    "дополнительное образование",
+    "бюро переводов"
+   ],
+   "признаки": [
+    "certified_translations",
+    "corporate_training",
+    "courses_for_elderly",
+    "elevator_wheelchair_accessible",
+    "foregn_language_children",
+    "gift_certificate",
+    "groups_for_adults",
+    "mental arithmetic",
+    "online_classes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "preparation for exam",
+    "preparation_for_school",
+    "show_briefly_about_the_place_block",
+    "toilet_for_disabled",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "permanent-closed",
+   "карточка": "https://yandex.ru/maps/org/high_school/1501135329/"
+  }
+ ]
+}

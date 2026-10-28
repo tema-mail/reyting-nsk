@@ -1,0 +1,1389 @@
+{
+ "ниша": "МРТ-центры",
+ "ключ": "zdorove/mrt",
+ "запросы": [
+  "мрт"
+ ],
+ "найдено_в_яндексе": {
+  "мрт": 52
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1292259713",
+   "название": "Ниито",
+   "seoname": "niito",
+   "адрес": "ул. Фрунзе, 19А",
+   "координаты": [
+    82.927868,
+    55.038664
+   ],
+   "рейтинг": 4.9,
+   "оценок": 2628,
+   "отзывов": 823,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 363-31-31"
+   ],
+   "часы": "пн-пт 08:00–18:00; сб 08:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "медицинская лаборатория",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "car_park",
+    "childrens_specialists",
+    "disable_captions",
+    "disable_photopoi",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "good_place",
+    "kinesio_taping",
+    "kinesis_training",
+    "massage_services",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/niito/1292259713/",
+   "последний_отзыв": "2026-10-20",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 75
+  },
+  {
+   "id": "1396819349",
+   "название": "Аперто",
+   "seoname": "aperto",
+   "адрес": "ул. Фрунзе, 9",
+   "координаты": [
+    82.920581,
+    55.036864
+   ],
+   "рейтинг": 4.5,
+   "оценок": 1141,
+   "отзывов": 442,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://apertosib.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 382-84-03",
+    "+7 (383) 382-92-03",
+    "+7 (383) 209-14-08"
+   ],
+   "часы": "ежедневно, 06:00–03:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "childrens_specialists",
+    "droppers",
+    "for_kids",
+    "good_place",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "reception_oms",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aperto/1396819349/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 14,
+   "загружено_дат": 73
+  },
+  {
+   "id": "54340648795",
+   "название": "Мать и дитя",
+   "seoname": "mat_i_ditya",
+   "адрес": "Коммунистическая ул., 17/1, Новосибирск",
+   "координаты": [
+    82.915452,
+    55.023107
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1481,
+   "отзывов": 409,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.mamadeti.ru/clinics/medical-center-avicenna-group-of-companies-mother-and-child-novosibirsk/"
+   ],
+   "телефоны": [
+    "+7 (383) 312-26-81"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Медцентр, клиника",
+    "детская клиника",
+    "центр планирования семьи",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "automatic_door",
+    "call_button",
+    "childrens_specialists",
+    "covid_test",
+    "doctor home visit",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "has_chat_with_clients",
+    "hospital_day_care",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "reception_oms",
+    "roszdrav_license",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "spermogram",
+    "tick_removal",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_cmi",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mat_i_ditya/54340648795/",
+   "последний_отзыв": "2026-09-23",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 91
+  },
+  {
+   "id": "1018450008",
+   "название": "Клиника-Сити",
+   "seoname": "klinika_siti",
+   "адрес": "ул. Залесского, 6, корп. 12",
+   "координаты": [
+    82.927451,
+    55.068053
+   ],
+   "рейтинг": 4.9,
+   "оценок": 615,
+   "отзывов": 369,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://новосибирск.клиника-сити.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 255-98-90",
+    "+7 (383) 234-96-92"
+   ],
+   "часы": "ежедневно, 08:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "медцентр, клиника",
+    "частнопрактикующие врачи"
+   ],
+   "признаки": [
+    "an_injection",
+    "automatic_door",
+    "call_button",
+    "car_park",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_siti/1018450008/",
+   "последний_отзыв": "2026-10-03",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 76
+  },
+  {
+   "id": "219292808960",
+   "название": "Клиника Эксперт",
+   "seoname": "klinika_ekspert",
+   "адрес": "Степная ул., 23",
+   "координаты": [
+    82.875803,
+    54.977942
+   ],
+   "рейтинг": 4.8,
+   "оценок": 907,
+   "отзывов": 336,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.klinikaexpert.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 228-35-61"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "call_button",
+    "car_park",
+    "clinical_examination",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "guarantee",
+    "has_chat_with_clients",
+    "hospital_day_care",
+    "integrative_medicine",
+    "massage_services",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "reception_oms",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wheelchair_accessible_elevator",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_ekspert/219292808960/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 58,
+   "загружено_дат": 93
+  },
+  {
+   "id": "174773213727",
+   "название": "Апекс",
+   "seoname": "apeks",
+   "адрес": "ул. Фрунзе, 71/1",
+   "координаты": [
+    82.960793,
+    55.041254
+   ],
+   "рейтинг": 4.6,
+   "оценок": 769,
+   "отзывов": 309,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://dc-apex.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 363-00-03",
+    "+7 (383) 388-94-70",
+    "+7 (383) 388-94-93"
+   ],
+   "часы": "ежедневно, 06:30–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "магнитно-резонансная томография",
+    "компьютерная томография"
+   ],
+   "признаки": [
+    "an_injection",
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "kinesio_taping",
+    "kinesis_training",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/apeks/174773213727/",
+   "последний_отзыв": "2026-09-29",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 79
+  },
+  {
+   "id": "175528842994",
+   "название": "МИБС",
+   "seoname": "mibs",
+   "адрес": "ул. Бориса Богаткова, 109",
+   "координаты": [
+    82.957319,
+    55.02287
+   ],
+   "рейтинг": 5,
+   "оценок": 951,
+   "отзывов": 305,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://novosibirsk.ldc.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-32-09"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "магнитно-резонансная томография",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "for_kids",
+    "massage_services",
+    "payment_by_credit_card",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mibs/175528842994/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 27,
+   "загружено_дат": 59
+  },
+  {
+   "id": "1731767106",
+   "название": "Мать и дитя",
+   "seoname": "mat_i_ditya",
+   "адрес": "просп. Димитрова, 7, Новосибирск",
+   "координаты": [
+    82.912106,
+    55.035179
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1005,
+   "отзывов": 300,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.mamadeti.ru/clinics/medical-center-avicenna-group-of-companies-mother-and-child-novosibirsk/"
+   ],
+   "телефоны": [
+    "+7 (383) 312-26-81"
+   ],
+   "часы": "пн-пт 08:00–20:00; сб 08:00–16:00; вс 08:00–14:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "детская клиника",
+    "ультразвуковые исследования",
+    "диагностический центр",
+    "стоматологическая клиника"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "clinical_examination",
+    "disable_captions",
+    "disable_photopoi",
+    "doctor home visit",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "has_chat_with_clients",
+    "massage_services",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mat_i_ditya/1731767106/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 95
+  },
+  {
+   "id": "67145827533",
+   "название": "Аперто",
+   "seoname": "aperto",
+   "адрес": "ул. Даргомыжского, 8Г",
+   "координаты": [
+    82.935468,
+    55.081925
+   ],
+   "рейтинг": 4.8,
+   "оценок": 739,
+   "отзывов": 299,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://apertosib.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 382-92-03",
+    "+7 (383) 209-14-08"
+   ],
+   "часы": "ежедневно, 06:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "медицинская лаборатория",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "bike_parking",
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "good_place",
+    "home_visit",
+    "hospital_day_care",
+    "massage_services",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "reception_oms",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/aperto/67145827533/",
+   "последний_отзыв": "2026-08-19",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 72
+  },
+  {
+   "id": "230483393105",
+   "название": "Сибирский окружной томографический центр",
+   "seoname": "sibirskiy_okruzhnoy_tomograficheskiy_tsentr",
+   "адрес": "ул. Титова, 18У",
+   "координаты": [
+    82.877604,
+    54.985049
+   ],
+   "рейтинг": 4.9,
+   "оценок": 495,
+   "отзывов": 278,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sibmrt.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 312-35-19"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магнитно-резонансная томография",
+    "компьютерная томография",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "for_kids",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibirskiy_okruzhnoy_tomograficheskiy_tsentr/230483393105/",
+   "последний_отзыв": "2026-10-18",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 87
+  },
+  {
+   "id": "1160738181",
+   "название": "ЕвроМед",
+   "seoname": "yevromed",
+   "адрес": "Красный просп., 200",
+   "координаты": [
+    82.912175,
+    55.063325
+   ],
+   "рейтинг": 4.8,
+   "оценок": 434,
+   "отзывов": 197,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.euromednsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-03-03",
+    "+7 (383) 209-24-02"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб,вс 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "диагностический центр",
+    "платная скорая медпомощь"
+   ],
+   "признаки": [
+    "an_injection",
+    "call_button",
+    "car_park",
+    "childrens_specialists",
+    "clinical_examination",
+    "disable_captions",
+    "disable_photopoi",
+    "doctor home visit",
+    "droppers",
+    "for_kids",
+    "gift_certificate",
+    "guarantee",
+    "kinesio_taping",
+    "kinesis_training",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "physical_therapy",
+    "preliminary_registration",
+    "ramp",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevromed/1160738181/",
+   "последний_отзыв": "2026-07-31",
+   "отзывов_за_12_мес_из_загруженных": 18,
+   "загружено_дат": 55
+  },
+  {
+   "id": "1689817602",
+   "название": "Авиценна",
+   "seoname": "avitsenna",
+   "адрес": "Коммунистическая ул., 17, Новосибирск",
+   "координаты": [
+    82.914793,
+    55.02304
+   ],
+   "рейтинг": 4.9,
+   "оценок": 782,
+   "отзывов": 194,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://novosibirsk.mamadeti.ru/clinics/medical-center-avicenna-group-of-companies-mother-and-child-novosibirsk/"
+   ],
+   "телефоны": [
+    "+7 (383) 312-26-81"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Медцентр, клиника",
+    "перинатальный центр",
+    "центр планирования семьи",
+    "гинекологическая клиника",
+    "родильный дом"
+   ],
+   "признаки": [
+    "an_injection",
+    "anonymous_medical",
+    "call_button",
+    "childrens_specialists",
+    "covid_test",
+    "disable_captions",
+    "disable_photopoi",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "good_place",
+    "has_chat_with_clients",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "round_the_clock_inpatient",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/avitsenna/1689817602/",
+   "последний_отзыв": "2026-08-31",
+   "отзывов_за_12_мес_из_загруженных": 17,
+   "загружено_дат": 89
+  },
+  {
+   "id": "136594130615",
+   "название": "МРТ Альянс",
+   "seoname": "mrt_alyans",
+   "адрес": "Зыряновская ул., 59",
+   "координаты": [
+    82.940206,
+    55.010214
+   ],
+   "рейтинг": 4.8,
+   "оценок": 431,
+   "отзывов": 157,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mrtnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 209-21-21"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "магнитно-резонансная томография",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "childrens_specialists",
+    "for_kids",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mrt_alyans/136594130615/",
+   "последний_отзыв": "2026-10-27",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 79
+  },
+  {
+   "id": "194287548529",
+   "название": "Лидер",
+   "seoname": "lider",
+   "адрес": "ул. Немировича-Данченко, 122А",
+   "координаты": [
+    82.912946,
+    54.978498
+   ],
+   "рейтинг": 4.9,
+   "оценок": 394,
+   "отзывов": 151,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mrt-lider.ru/Novosibirsk2",
+    "https://mrt-lider.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 707-95-76",
+    "+7 (383) 304-84-94",
+    "+7 (383) 304-74-76",
+    "+7 (383) 254-79-54"
+   ],
+   "часы": "ежедневно, 08:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "street_entrance",
+    "uni_medic_adult"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lider/194287548529/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 29,
+   "загружено_дат": 84
+  },
+  {
+   "id": "123457273232",
+   "название": "Лидер",
+   "seoname": "lider",
+   "адрес": "Большевистская ул., 131, Новосибирск",
+   "координаты": [
+    82.959559,
+    54.999185
+   ],
+   "рейтинг": 4.7,
+   "оценок": 325,
+   "отзывов": 147,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mrt-lider.ru/",
+    "https://mrt-lider.ru/tumen/"
+   ],
+   "телефоны": [
+    "8 (800) 707-95-76",
+    "+7 (383) 304-84-94",
+    "+7 (383) 254-79-54",
+    "+7 (383) 304-74-76"
+   ],
+   "часы": "ежедневно, 08:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "медцентр, клиника",
+    "медицинские информационные услуги"
+   ],
+   "признаки": [
+    "for_kids",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "reception_oms",
+    "single_window",
+    "street_entrance",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lider/123457273232/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 47,
+   "загружено_дат": 60
+  },
+  {
+   "id": "176958887482",
+   "название": "МРТ-Экспресс",
+   "seoname": "mrt_ekspress",
+   "адрес": "Красный просп., 157/1",
+   "координаты": [
+    82.910135,
+    55.059147
+   ],
+   "рейтинг": 5,
+   "оценок": 155,
+   "отзывов": 114,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://nsk.mrt-ex.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 766-33-33",
+    "+7 (383) 316-33-33"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магнитно-резонансная томография",
+    "диагностический центр",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "anonymous_medical",
+    "for_kids",
+    "gift_certificate",
+    "online_consultations",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "reception_oms",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mrt_ekspress/176958887482/",
+   "последний_отзыв": "2026-09-30",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 90
+  },
+  {
+   "id": "1828137381",
+   "название": "Клиника Эксперт",
+   "seoname": "klinika_ekspert",
+   "адрес": "ул. Якушева, 41, корп. 2",
+   "координаты": [
+    82.942943,
+    55.011617
+   ],
+   "рейтинг": 4.5,
+   "оценок": 311,
+   "отзывов": 105,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.klinikaexpert.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 228-35-61"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "магнитно-резонансная томография",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "car_park",
+    "for_kids",
+    "gift_certificate",
+    "has_chat_with_clients",
+    "hospital_day_care",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "reception_oms",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_ekspert/1828137381/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 16,
+   "загружено_дат": 100
+  },
+  {
+   "id": "1280444774",
+   "название": "Клиника Эксперт",
+   "seoname": "klinika_ekspert",
+   "адрес": "Красный просп., 79/1",
+   "координаты": [
+    82.912861,
+    55.050038
+   ],
+   "рейтинг": 4.7,
+   "оценок": 301,
+   "отзывов": 104,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.klinikaexpert.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 228-35-61"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "магнитно-резонансная томография",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "for_kids",
+    "gift_certificate",
+    "has_chat_with_clients",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "reception_oms",
+    "roszdrav_license",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/klinika_ekspert/1280444774/",
+   "последний_отзыв": "2026-08-24",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 95
+  },
+  {
+   "id": "164045274635",
+   "название": "ЕвроМед",
+   "seoname": "yevromed",
+   "адрес": "ул. Писарева, 68",
+   "координаты": [
+    82.933965,
+    55.050055
+   ],
+   "рейтинг": 4.9,
+   "оценок": 272,
+   "отзывов": 103,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.euromednsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-03-03",
+    "+7 (383) 209-24-02"
+   ],
+   "часы": "пн-пт 08:00–21:00; сб 08:00–19:00; вс 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "госпиталь",
+    "пластическая хирургия"
+   ],
+   "признаки": [
+    "an_injection",
+    "car_park",
+    "disable_captions",
+    "droppers",
+    "elevator_wheelchair_accessible",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "kegel_chair",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "round_the_clock_inpatient",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yevromed/164045274635/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 32,
+   "загружено_дат": 86
+  },
+  {
+   "id": "239384174236",
+   "название": "МРТ Sos",
+   "seoname": "mrt_sos",
+   "адрес": "ул. Столетова, 25/1, микрорайон Юбилейный",
+   "координаты": [
+    82.957369,
+    55.102236
+   ],
+   "рейтинг": 4.9,
+   "оценок": 187,
+   "отзывов": 93,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://mrt-sos.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 312-03-03",
+    "+7 (383) 312-03-03"
+   ],
+   "часы": "пн-пт 09:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "for_kids",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "uni_medic_adult",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mrt_sos/239384174236/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 45
+  },
+  {
+   "id": "164241914483",
+   "название": "Альянс",
+   "seoname": "alyans",
+   "адрес": "ул. Ватутина, 17/1, Новосибирск",
+   "координаты": [
+    82.891436,
+    54.986365
+   ],
+   "рейтинг": 4.7,
+   "оценок": 249,
+   "отзывов": 92,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mrtnsk.ru/",
+    "https://taplink.cc/mrt_alyans_nsk"
+   ],
+   "телефоны": [
+    "+7 (913) 209-21-21"
+   ],
+   "часы": "ежедневно, 07:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "магнитно-резонансная томография",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "childrens_specialists",
+    "for_kids",
+    "guarantee",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/alyans/164241914483/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 41,
+   "загружено_дат": 81
+  },
+  {
+   "id": "17484591361",
+   "название": "ПЭТ-Технолоджи",
+   "seoname": "pet_tekhnolodzhi",
+   "адрес": "ул. Власова, 15",
+   "координаты": [
+    82.947886,
+    55.07879
+   ],
+   "рейтинг": 5,
+   "оценок": 123,
+   "отзывов": 60,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.pet-net.ru/map_center/novosibirsk/"
+   ],
+   "телефоны": [
+    "+7 (499) 283-39-37"
+   ],
+   "часы": "пн-пт 08:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "call_button",
+    "car_park",
+    "good_place",
+    "online_consultations",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "reception_oms",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "view_medicine_booking",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pet_tekhnolodzhi/17484591361/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 84
+  },
+  {
+   "id": "94590500720",
+   "название": "Лидер",
+   "seoname": "lider",
+   "адрес": "ул. Никитина, 18/1",
+   "координаты": [
+    82.957772,
+    55.009528
+   ],
+   "рейтинг": 4.9,
+   "оценок": 114,
+   "отзывов": 55,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mrt-lider.ru/Novosibirsk3/"
+   ],
+   "телефоны": [
+    "+7 (383) 254-79-54",
+    "+7 (383) 304-84-94",
+    "8 (800) 707-95-76",
+    "+7 (383) 304-74-76"
+   ],
+   "часы": "ежедневно, 08:00–02:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр"
+   ],
+   "признаки": [
+    "for_kids",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "reception_oms",
+    "single_window",
+    "street_entrance",
+    "uni_medic_adult",
+    "view_medicine_booking",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lider/94590500720/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 53,
+   "загружено_дат": 93
+  },
+  {
+   "id": "87476743163",
+   "название": "РЖД-Медицина, томографический центр",
+   "seoname": "rzhd_meditsina_tomograficheskiy_tsentr",
+   "адрес": "Владимировский спуск, 2А, корп. 7",
+   "координаты": [
+    82.883536,
+    55.035872
+   ],
+   "рейтинг": 4.7,
+   "оценок": 131,
+   "отзывов": 40,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://novosibirsk.rzd-medicine.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-93-82",
+    "+7 (383) 328-19-19",
+    "8 (800) 250-19-19"
+   ],
+   "часы": "ежедневно, 07:30–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Медцентр, клиника",
+    "магнитно-резонансная томография",
+    "компьютерная томография",
+    "диагностический центр"
+   ],
+   "признаки": [
+    "parking_disabled",
+    "payment_by_credit_card",
+    "reception_oms",
+    "street_entrance",
+    "view_medicine_booking",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rzhd_meditsina_tomograficheskiy_tsentr/87476743163/",
+   "последний_отзыв": "2026-08-21",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 66
+  },
+  {
+   "id": "41787072143",
+   "название": "МРТ Альянс",
+   "seoname": "mrt_alyans",
+   "адрес": "Красный просп., 153, Новосибирск",
+   "координаты": [
+    82.911762,
+    55.057013
+   ],
+   "рейтинг": 4.7,
+   "оценок": 41,
+   "отзывов": 24,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://mrtnsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-21-21"
+   ],
+   "часы": "пн-сб 07:00–23:00; вс 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Диагностический центр",
+    "магнитно-резонансная томография",
+    "медцентр, клиника"
+   ],
+   "признаки": [
+    "car_park",
+    "childrens_specialists",
+    "for_kids",
+    "gift_certificate",
+    "guarantee",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "single_window",
+    "street_entrance",
+    "toilet",
+    "toilet_for_disabled",
+    "uni_medic_adult",
+    "uni_medic_kid",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mrt_alyans/41787072143/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 40
+  }
+ ]
+}

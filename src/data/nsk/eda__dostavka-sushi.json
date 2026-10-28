@@ -1,0 +1,1254 @@
+{
+ "ниша": "Доставка суши",
+ "ключ": "eda/dostavka-sushi",
+ "запросы": [
+  "доставка суши"
+ ],
+ "найдено_в_яндексе": {
+  "доставка суши": 105
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1042156585",
+   "название": "Рыбарис",
+   "seoname": "rybaris",
+   "адрес": "ул. Ленина, 1, Новосибирск",
+   "координаты": [
+    82.918491,
+    55.029718
+   ],
+   "рейтинг": 4.4,
+   "оценок": 2759,
+   "отзывов": 1095,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://delivery.riba-ris.ru/",
+    "https://riba-ris.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 319-60-60",
+    "+7 (383) 328-15-33"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Ресторан",
+    "суши-бар"
+   ],
+   "признаки": [
+    "bike_parking",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "craft_beer",
+    "disable_photopoi",
+    "food_delivery",
+    "gift_certificate",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rybaris/1042156585/",
+   "последний_отзыв": "2026-09-13",
+   "отзывов_за_12_мес_из_загруженных": 39,
+   "загружено_дат": 72
+  },
+  {
+   "id": "241898152522",
+   "название": "Nemo",
+   "seoname": "nemo",
+   "адрес": "Советская ул., 18",
+   "координаты": [
+    82.916597,
+    55.030334
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1497,
+   "отзывов": 733,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://nemo.rest/",
+    "https://dnkfood.ru/nemo"
+   ],
+   "телефоны": [
+    "+7 (983) 001-30-26",
+    "+7 (383) 388-49-40"
+   ],
+   "часы": "пн-чт 11:00–23:00; пт,сб 11:00–00:00; вс 11:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "ресторан"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "business_lunch",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "disable_photopoi",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nemo/241898152522/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 50,
+   "загружено_дат": 89
+  },
+  {
+   "id": "1057392392",
+   "название": "Якитория",
+   "seoname": "yakitoriya",
+   "адрес": "Серебренниковская ул., 34",
+   "координаты": [
+    82.925713,
+    55.026839
+   ],
+   "рейтинг": 4.7,
+   "оценок": 1646,
+   "отзывов": 652,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://yakitoriya-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 227-99-16",
+    "+7 (383) 375-43-75"
+   ],
+   "часы": "ежедневно, 12:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "суши-бар",
+    "банкетный зал"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "nursery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "projector",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yakitoriya/1057392392/",
+   "последний_отзыв": "2026-09-20",
+   "отзывов_за_12_мес_из_загруженных": 21,
+   "загружено_дат": 62
+  },
+  {
+   "id": "1841093982",
+   "название": "Нью Мехико",
+   "seoname": "nyu_mekhiko",
+   "адрес": "Красный просп., 17/1, Новосибирск",
+   "координаты": [
+    82.920768,
+    55.02603
+   ],
+   "рейтинг": 4.9,
+   "оценок": 1463,
+   "отзывов": 632,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://newmexico.su/",
+    "https://dostavka-mexico.ru/"
+   ],
+   "телефоны": [
+    "+7 (969) 228-62-21"
+   ],
+   "часы": "пн-пт 11:00–00:00; сб,вс 12:00–00:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "игровая комната",
+    "кейтеринг"
+   ],
+   "признаки": [
+    "bike_parking",
+    "business_lunch",
+    "call_button",
+    "car_park",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dimmed_lights",
+    "doubloons_loyalty_card",
+    "elevator_wheelchair_accessible",
+    "food_delivery",
+    "for_kids",
+    "gift_certificate",
+    "good_place",
+    "kondicioner",
+    "menu for children",
+    "nursery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "projector",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "takeaway",
+    "toilet",
+    "toilet_childrens",
+    "traffic_congestion_charge",
+    "wheelchair_accessability",
+    "wheelchair_accessible_elevator",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/nyu_mekhiko/1841093982/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 53
+  },
+  {
+   "id": "167559166399",
+   "название": "TomYumBar Red",
+   "seoname": "tomyumbar_red",
+   "адрес": "Красный просп., 50, Новосибирск",
+   "координаты": [
+    82.919545,
+    55.035286
+   ],
+   "рейтинг": 4.8,
+   "оценок": 1423,
+   "отзывов": 626,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://tomyumbar.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 001-50-50",
+    "+7 (923) 182-28-88",
+    "+7 (913) 372-93-88",
+    "+7 (923) 000-00-11",
+    "+7 (913) 923-58-88"
+   ],
+   "часы": "пн-чт 11:00–23:00; пт,сб 11:00–00:00; вс 11:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе",
+    "суши-бар",
+    "ресторан"
+   ],
+   "признаки": [
+    "booking_by_alice",
+    "breakfast",
+    "coffee_to_go",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "summer_terrace",
+    "takeaway",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/tomyumbar_red/167559166399/",
+   "последний_отзыв": "2026-08-11",
+   "отзывов_за_12_мес_из_загруженных": 42,
+   "загружено_дат": 80
+  },
+  {
+   "id": "1112518080",
+   "название": "Сайори",
+   "seoname": "sayori",
+   "адрес": "Новосибирск, Ленинский район, микрорайон Горский, 78",
+   "координаты": [
+    82.890972,
+    54.994129
+   ],
+   "рейтинг": 5,
+   "оценок": 1110,
+   "отзывов": 625,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sayoris.ru/novosibirsk/new",
+    "https://sayoris.ru/novosibirsk/"
+   ],
+   "телефоны": [
+    "+7 (383) 209-06-09"
+   ],
+   "часы": "ежедневно, 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "магазин суши и роллов"
+   ],
+   "признаки": [
+    "bike_parking",
+    "booking_by_alice",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea_food_discount",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sayori/1112518080/",
+   "последний_отзыв": "2026-09-27",
+   "отзывов_за_12_мес_из_загруженных": 24,
+   "загружено_дат": 77
+  },
+  {
+   "id": "64240235173",
+   "название": "Ёбидоёби",
+   "seoname": "yobidoyobi",
+   "адрес": "ул. Кирова, 225",
+   "координаты": [
+    82.965416,
+    55.00843
+   ],
+   "рейтинг": 4.9,
+   "оценок": 624,
+   "отзывов": 405,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://maps.yobidoyobi.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 333-33-23"
+   ],
+   "часы": "пн-чт 11:00–22:00; пт,сб 11:00–23:00; вс 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин суши и роллов",
+    "суши-бар",
+    "кафе"
+   ],
+   "признаки": [
+    "caring_for_couriers_tea_food_discount",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yobidoyobi/64240235173/",
+   "последний_отзыв": "2026-10-20",
+   "отзывов_за_12_мес_из_загруженных": 48,
+   "загружено_дат": 61
+  },
+  {
+   "id": "136842882100",
+   "название": "Суши от Зебруши",
+   "seoname": "sushi_ot_zebrushi",
+   "адрес": "Линейная ул., 43, корп. 1",
+   "координаты": [
+    82.918486,
+    55.051241
+   ],
+   "рейтинг": 5,
+   "оценок": 458,
+   "отзывов": 383,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://zebraeda.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-21-18"
+   ],
+   "часы": "ежедневно, 10:00–21:45",
+   "круглосуточно": false,
+   "рубрики": [
+    "Доставка еды и обедов",
+    "суши-бар"
+   ],
+   "признаки": [
+    "food_delivery",
+    "free_delivery",
+    "street_entrance",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sushi_ot_zebrushi/136842882100/",
+   "последний_отзыв": "2026-08-12",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 23
+  },
+  {
+   "id": "148216433562",
+   "название": "Brandchef",
+   "seoname": "brandchef",
+   "адрес": "ул. Восход, 46",
+   "координаты": [
+    82.951078,
+    55.019464
+   ],
+   "рейтинг": 5,
+   "оценок": 433,
+   "отзывов": 380,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://bchef.ru/"
+   ],
+   "телефоны": [
+    "+7 (995) 568-77-08"
+   ],
+   "часы": "ежедневно, 11:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "доставка еды и обедов",
+    "быстрое питание"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea_food_discount",
+    "delivery",
+    "disable_captions",
+    "disable_photopoi",
+    "food_delivery",
+    "gift_certificate",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/brandchef/148216433562/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 83
+  },
+  {
+   "id": "173509427615",
+   "название": "Мозза Пицца",
+   "seoname": "mozza_pitstsa",
+   "адрес": "ул. Титова, 31, Новосибирск",
+   "координаты": [
+    82.868953,
+    54.981598
+   ],
+   "рейтинг": 4.8,
+   "оценок": 676,
+   "отзывов": 359,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://mozza-pizza.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-44-56"
+   ],
+   "часы": "ежедневно, 11:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Кафе",
+    "пиццерия"
+   ],
+   "признаки": [
+    "breakfast",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "coffee_to_go",
+    "dimmed_lights",
+    "doubloons_loyalty_card",
+    "food_delivery",
+    "for_kids",
+    "kondicioner",
+    "menu for children",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "possible_with_laptop",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mozza_pitstsa/173509427615/",
+   "последний_отзыв": "2026-08-23",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 56
+  },
+  {
+   "id": "1161668035",
+   "название": "Сайори",
+   "seoname": "sayori",
+   "адрес": "ул. Восход, 46",
+   "координаты": [
+    82.950079,
+    55.01907
+   ],
+   "рейтинг": 5,
+   "оценок": 557,
+   "отзывов": 335,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sayoris.ru/novosibirsk/new"
+   ],
+   "телефоны": [
+    "+7 (383) 209-06-09"
+   ],
+   "часы": "ежедневно, 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "магазин суши и роллов"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea_food_discount",
+    "food_delivery",
+    "food_product_delivery",
+    "gift_certificate",
+    "good_place",
+    "menu for children",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sayori/1161668035/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 49,
+   "загружено_дат": 63
+  },
+  {
+   "id": "5782940654",
+   "название": "Ёбидоёби",
+   "seoname": "yobidoyobi",
+   "адрес": "ул. Титова, 33",
+   "координаты": [
+    82.867726,
+    54.981577
+   ],
+   "рейтинг": 5,
+   "оценок": 394,
+   "отзывов": 266,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://maps.yobidoyobi.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 333-33-23"
+   ],
+   "часы": "пн-чт 11:00–22:00; пт,сб 11:00–23:00; вс 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "магазин суши и роллов",
+    "кафе"
+   ],
+   "признаки": [
+    "good_place",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yobidoyobi/5782940654/",
+   "последний_отзыв": "2026-09-11",
+   "отзывов_за_12_мес_из_загруженных": 40,
+   "загружено_дат": 79
+  },
+  {
+   "id": "98561575385",
+   "название": "Суши от Зебруши",
+   "seoname": "sushi_ot_zebrushi",
+   "адрес": "Гурьевская ул., 64Б",
+   "координаты": [
+    82.952891,
+    55.013617
+   ],
+   "рейтинг": 5,
+   "оценок": 294,
+   "отзывов": 247,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://zebraeda.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-21-18"
+   ],
+   "часы": "ежедневно, 10:00–21:45",
+   "круглосуточно": false,
+   "рубрики": [
+    "Доставка еды и обедов"
+   ],
+   "признаки": [
+    "good_place"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sushi_ot_zebrushi/98561575385/",
+   "последний_отзыв": "2026-08-12",
+   "отзывов_за_12_мес_из_загруженных": 22,
+   "загружено_дат": 36
+  },
+  {
+   "id": "79652165617",
+   "название": "Ёбидоёби",
+   "seoname": "yobidoyobi",
+   "адрес": "ул. Объединения, 100/6",
+   "координаты": [
+    82.974313,
+    55.098609
+   ],
+   "рейтинг": 5,
+   "оценок": 342,
+   "отзывов": 240,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://maps.yobidoyobi.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 333-33-23"
+   ],
+   "часы": "пн-чт 11:00–22:00; пт,сб 11:00–23:00; вс 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин суши и роллов",
+    "суши-бар",
+    "кафе"
+   ],
+   "признаки": [
+    "caring_for_couriers_tea_food_discount",
+    "food_delivery",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "takeaway"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yobidoyobi/79652165617/",
+   "последний_отзыв": "2026-10-02",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 81
+  },
+  {
+   "id": "200263874317",
+   "название": "Сибирские Пироги",
+   "seoname": "sibirskiye_pirogi",
+   "адрес": "Станционная ул., 38, Новосибирск",
+   "координаты": [
+    82.845544,
+    54.997434
+   ],
+   "рейтинг": 5,
+   "оценок": 291,
+   "отзывов": 236,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://сибирскиепироги.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 219-00-22"
+   ],
+   "часы": "ежедневно, 08:30–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Пекарня",
+    "доставка еды и обедов",
+    "ресторан"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "delivery",
+    "food_delivery",
+    "food_product_delivery",
+    "free_delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "toilet"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sibirskiye_pirogi/200263874317/",
+   "последний_отзыв": "2026-10-07",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 58
+  },
+  {
+   "id": "147966040830",
+   "название": "Hammersmith&bros",
+   "seoname": "hammersmith_bros",
+   "адрес": "Красный просп., 37, Новосибирск",
+   "координаты": [
+    82.918858,
+    55.034283
+   ],
+   "рейтинг": 4.7,
+   "оценок": 607,
+   "отзывов": 221,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://friendsorchestra.ru/hammersmith"
+   ],
+   "телефоны": [
+    "+7 (913) 206-80-33"
+   ],
+   "часы": "пн-чт 17:00–01:00; пт 17:00–02:00; сб 12:00–02:00; вс 12:00–01:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Ресторан",
+    "бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "booking_by_alice",
+    "breakfast",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_coffee",
+    "caring_for_couriers_tea",
+    "caring_for_couriers_water",
+    "caring_for_couriers_wc",
+    "craft_beer",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "preliminary_registration",
+    "sports_broadcasts",
+    "street_entrance",
+    "summer_terrace",
+    "table_games",
+    "takeaway",
+    "toilet",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/hammersmith_bros/147966040830/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 94
+  },
+  {
+   "id": "67009334690",
+   "название": "Суши Восток",
+   "seoname": "sushi_vostok",
+   "адрес": "ул. Никитина, 62, Новосибирск",
+   "координаты": [
+    82.960539,
+    55.011985
+   ],
+   "рейтинг": 4.8,
+   "оценок": 458,
+   "отзывов": 197,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sushivostok.com/"
+   ],
+   "телефоны": [
+    "+7 (383) 248-32-07",
+    "+7 (383) 240-40-40"
+   ],
+   "часы": "ежедневно, 10:30–04:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин суши и роллов",
+    "суши-бар"
+   ],
+   "признаки": [
+    "car_park",
+    "food_delivery",
+    "gift_certificate",
+    "online_takeaway",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance",
+    "takeaway",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sushi_vostok/67009334690/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 12,
+   "загружено_дат": 87
+  },
+  {
+   "id": "166306564002",
+   "название": "SushiDays",
+   "seoname": "sushidays",
+   "адрес": "ул. Ясный Берег, 14Б, Новосибирск",
+   "координаты": [
+    82.89382,
+    55.014859
+   ],
+   "рейтинг": 4.9,
+   "оценок": 241,
+   "отзывов": 170,
+   "хорошее_место": true,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://sushidays.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-11-00"
+   ],
+   "часы": "ежедневно, 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "магазин суши и роллов",
+    "доставка еды и обедов"
+   ],
+   "признаки": [
+    "delivery",
+    "food_delivery",
+    "free_delivery",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "takeaway",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sushidays/166306564002/",
+   "последний_отзыв": "2026-10-05",
+   "отзывов_за_12_мес_из_загруженных": 30,
+   "загружено_дат": 53
+  },
+  {
+   "id": "24739587071",
+   "название": "Пингви Суши",
+   "seoname": "pingvi_sushi",
+   "адрес": "Нарымская ул., 8",
+   "координаты": [
+    82.910499,
+    55.039899
+   ],
+   "рейтинг": 5,
+   "оценок": 201,
+   "отзывов": 168,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://nsk.pingvi-sushi.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-25-27"
+   ],
+   "часы": "ежедневно, 10:00–23:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Доставка еды и обедов",
+    "магазин суши и роллов"
+   ],
+   "признаки": [
+    "car_park",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_water",
+    "delivery",
+    "food_product_delivery",
+    "free_delivery",
+    "payment_by_credit_card",
+    "pickup",
+    "street_entrance"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/pingvi_sushi/24739587071/",
+   "последний_отзыв": "2026-10-26",
+   "отзывов_за_12_мес_из_загруженных": 44,
+   "загружено_дат": 77
+  },
+  {
+   "id": "222091513857",
+   "название": "Ёбидоёби",
+   "seoname": "yobidoyobi",
+   "адрес": "ул. Селезнёва, 36, корп. 1",
+   "координаты": [
+    82.946049,
+    55.043382
+   ],
+   "рейтинг": 5,
+   "оценок": 219,
+   "отзывов": 164,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://maps.yobidoyobi.ru/",
+    "https://yobidoyobi.ru/",
+    "https://novosibirsk.yobidoyobi.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 333-33-23"
+   ],
+   "часы": "пн-чт 11:00–22:00; пт,сб 11:00–23:00; вс 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Магазин суши и роллов",
+    "суши-бар",
+    "кафе"
+   ],
+   "признаки": [
+    "car_park",
+    "caring_for_couriers_tea_food_discount",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/yobidoyobi/222091513857/",
+   "последний_отзыв": "2026-10-22",
+   "отзывов_за_12_мес_из_загруженных": 45,
+   "загружено_дат": 62
+  },
+  {
+   "id": "11307168884",
+   "название": "Сакиши Ролс",
+   "seoname": "sakishi_rols",
+   "адрес": "ул. Фрунзе, 20",
+   "координаты": [
+    82.93023,
+    55.037031
+   ],
+   "рейтинг": 4.9,
+   "оценок": 237,
+   "отзывов": 157,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://sakishi-rolls.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 863-69-68"
+   ],
+   "часы": "ежедневно, 10:30–22:30",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "доставка еды и обедов"
+   ],
+   "признаки": [
+    "food_delivery",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "takeaway",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/sakishi_rols/11307168884/",
+   "последний_отзыв": "2026-05-21",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 71
+  },
+  {
+   "id": "51799309619",
+   "название": "Шеф Ланч",
+   "seoname": "shef_lanch",
+   "адрес": "ул. Ленина, 25",
+   "координаты": [
+    82.904172,
+    55.030764
+   ],
+   "рейтинг": 4.9,
+   "оценок": 200,
+   "отзывов": 132,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://шеф-ланч.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 380-80-00"
+   ],
+   "часы": "пн-чт 11:00–21:40; пт,сб 11:00–22:40; вс 11:00–21:40",
+   "круглосуточно": false,
+   "рубрики": [
+    "Доставка еды и обедов",
+    "магазин суши и роллов",
+    "суши-бар"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "business_lunch",
+    "car_park",
+    "caring_for_couriers_bool",
+    "caring_for_couriers_charging_station",
+    "caring_for_couriers_rest_area",
+    "caring_for_couriers_tea_food_discount",
+    "caring_for_couriers_wc",
+    "delivery",
+    "dimmed_lights",
+    "doubloons_loyalty_card",
+    "food_delivery",
+    "food_product_delivery",
+    "free_delivery",
+    "kondicioner",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "possible_with_laptop",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "takeaway",
+    "toilet",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/shef_lanch/51799309619/",
+   "последний_отзыв": "2026-04-04",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 80
+  },
+  {
+   "id": "220243699416",
+   "название": "Гриль Таун",
+   "seoname": "gril_taun",
+   "адрес": "ул. Кропоткина, 116А, корп. 1, Новосибирск",
+   "координаты": [
+    82.926009,
+    55.054441
+   ],
+   "рейтинг": 4.7,
+   "оценок": 105,
+   "отзывов": 58,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://grilltown.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 930-96-86"
+   ],
+   "часы": "вт-вс 11:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Быстрое питание"
+   ],
+   "признаки": [
+    "food_delivery",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gril_taun/220243699416/",
+   "последний_отзыв": "2026-07-18",
+   "отзывов_за_12_мес_из_загруженных": 6,
+   "загружено_дат": 69
+  },
+  {
+   "id": "59411611049",
+   "название": "Omakai",
+   "seoname": "omakai",
+   "адрес": "Стартовая ул., 4/1",
+   "координаты": [
+    82.907196,
+    54.997234
+   ],
+   "рейтинг": 4.8,
+   "оценок": 75,
+   "отзывов": 49,
+   "хорошее_место": true,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://omakai.ru/"
+   ],
+   "телефоны": [
+    "+7 (996) 543-84-43"
+   ],
+   "часы": "ежедневно, 12:00–22:40",
+   "круглосуточно": false,
+   "рубрики": [
+    "Суши-бар",
+    "быстрое питание",
+    "доставка продуктов"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "bike_parking",
+    "booking_by_alice",
+    "caring_for_couriers_charging_station",
+    "disable_captions",
+    "disable_photopoi",
+    "food_delivery",
+    "gift_certificate",
+    "good_place",
+    "online_takeaway",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "street_entrance",
+    "takeaway"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/omakai/59411611049/",
+   "последний_отзыв": "2026-07-28",
+   "отзывов_за_12_мес_из_загруженных": 34,
+   "загружено_дат": 74
+  },
+  {
+   "id": "243804987031",
+   "название": "Azia store",
+   "seoname": "azia_store",
+   "адрес": "ул. Ленина, 1",
+   "координаты": [
+    82.918633,
+    55.029688
+   ],
+   "рейтинг": 5,
+   "оценок": 41,
+   "отзывов": 38,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (953) 887-88-87"
+   ],
+   "часы": "ежедневно, 11:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Доставка еды и обедов",
+    "магазин суши и роллов"
+   ],
+   "признаки": [
+    "breakfast",
+    "caring_for_couriers_tea_food_discount",
+    "delivery",
+    "free_delivery",
+    "payment_by_credit_card",
+    "pickup"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/azia_store/243804987031/",
+   "последний_отзыв": "2025-01-25",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 36
+  }
+ ]
+}

@@ -1,0 +1,1169 @@
+{
+ "ниша": "Кухни на заказ",
+ "ключ": "dom/kukhni-na-zakaz",
+ "запросы": [
+  "кухни на заказ"
+ ],
+ "найдено_в_яндексе": {
+  "кухни на заказ": 108
+ },
+ "дата_съёма": "2026-10-28",
+ "источник": "Яндекс Карты, поиск по Новосибирску (регион 65)",
+ "компании": [
+  {
+   "id": "1176670262",
+   "название": "Forma Кухни",
+   "seoname": "forma_kukhni",
+   "адрес": "ул. Бориса Богаткова, 210/1",
+   "координаты": [
+    82.977917,
+    55.036525
+   ],
+   "рейтинг": 4.9,
+   "оценок": 235,
+   "отзывов": 166,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://forma-kitchen.ru/",
+    "https://54-mebel.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 951-34-74",
+    "8 (800) 333-92-77",
+    "+7 (913) 466-66-95"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Мебель для кухни",
+    "магазин мебели",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "belarusian_kitchens_furniture",
+    "car_park",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "express_delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_facades",
+    "gas_stops",
+    "gift_certificate",
+    "glass_furniture",
+    "individual_sizes",
+    "kaspi_red",
+    "kitchen_sinks",
+    "kz_kaspi_qr",
+    "kz_transfer_to_kaspi",
+    "loft_furniture",
+    "no_prepayment",
+    "outlet",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "rooms_measurement",
+    "show_briefly_about_the_place_block",
+    "showroom",
+    "tabletop",
+    "toilet_for_disabled",
+    "wall_panels",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/forma_kukhni/1176670262/",
+   "последний_отзыв": "2026-09-04",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 74
+  },
+  {
+   "id": "179336878883",
+   "название": "Кристалл",
+   "seoname": "kristall",
+   "адрес": "ул. Державина, 13, Новосибирск",
+   "координаты": [
+    82.929431,
+    55.039588
+   ],
+   "рейтинг": 5,
+   "оценок": 112,
+   "отзывов": 96,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://mebel-kristall.ru/"
+   ],
+   "телефоны": [
+    "+7 (962) 835-83-38"
+   ],
+   "часы": "ежедневно, 09:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Корпусная мебель",
+    "мебель для кухни",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "individual_sizes",
+    "payment_by_credit_card",
+    "rooms_measurement",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kristall/179336878883/",
+   "последний_отзыв": "2026-10-06",
+   "отзывов_за_12_мес_из_загруженных": 13,
+   "загружено_дат": 65
+  },
+  {
+   "id": "183899261318",
+   "название": "Фелиция",
+   "seoname": "felitsiya",
+   "адрес": "ул. Мичурина, 18/1",
+   "координаты": [
+    82.921005,
+    55.045516
+   ],
+   "рейтинг": 4.8,
+   "оценок": 127,
+   "отзывов": 89,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://felicia-kitchen.ru/",
+    "https://feliciamebel.ru/",
+    "http://www.3d.feliciamebel.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 383-23-45"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "корпусная мебель",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "delivery",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "showroom",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/felitsiya/183899261318/",
+   "последний_отзыв": "2025-12-24",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 56
+  },
+  {
+   "id": "38050486812",
+   "название": "Складно",
+   "seoname": "skladno",
+   "адрес": "Красный просп., 29",
+   "координаты": [
+    82.919615,
+    55.031529
+   ],
+   "рейтинг": 5,
+   "оценок": 76,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://doorscomfort.ru/",
+    "http://dveri-polki.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 025-99-17"
+   ],
+   "часы": "ежедневно, 09:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "корпусная мебель",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "chipboard_cutting",
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_facades",
+    "gift_certificate",
+    "glass_furniture",
+    "individual_sizes",
+    "kaspi_red",
+    "laminated_particle_board_cutting",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "show_briefly_about_the_place_block",
+    "showroom",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/skladno/38050486812/",
+   "последний_отзыв": "2026-07-06",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 46
+  },
+  {
+   "id": "65565614826",
+   "название": "Rost",
+   "seoname": "rost",
+   "адрес": "ул. Бориса Богаткова, 213, корп. 1",
+   "координаты": [
+    82.972026,
+    55.039207
+   ],
+   "рейтинг": 4.8,
+   "оценок": 99,
+   "отзывов": 71,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://www.rost154.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-15-33",
+    "+7 (953) 792-06-06"
+   ],
+   "часы": "ежедневно, круглосуточно",
+   "круглосуточно": true,
+   "рубрики": [
+    "Мебель для кухни",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "delivery",
+    "disable_photopoi",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_facades",
+    "gift_certificate",
+    "glass_aprons",
+    "individual_sizes",
+    "kitchen_sinks",
+    "no_prepayment",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "rooms_measurement",
+    "schienalі",
+    "showroom",
+    "street_entrance",
+    "tabletop",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/rost/65565614826/",
+   "последний_отзыв": "2026-09-16",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 58
+  },
+  {
+   "id": "179197188865",
+   "название": "Кухни-нск",
+   "seoname": "kukhni_nsk",
+   "адрес": "просп. Дзержинского, 1/1, Новосибирск",
+   "координаты": [
+    82.949857,
+    55.043445
+   ],
+   "рейтинг": 4.8,
+   "оценок": 92,
+   "отзывов": 52,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://кухни-нск.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 388-89-95",
+    "+7 (383) 388-89-96"
+   ],
+   "часы": "пн-пт 10:00–19:00; сб,вс 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "магазин мебели",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "car_park",
+    "payment_by_credit_card"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/kukhni_nsk/179197188865/",
+   "последний_отзыв": "2026-07-01",
+   "отзывов_за_12_мес_из_загруженных": 8,
+   "загружено_дат": 68
+  },
+  {
+   "id": "38890439561",
+   "название": "Салт",
+   "seoname": "salt",
+   "адрес": "ул. Писемского, 1А, корп. 2",
+   "координаты": [
+    82.975469,
+    55.084924
+   ],
+   "рейтинг": 5,
+   "оценок": 57,
+   "отзывов": 39,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [],
+   "телефоны": [
+    "+7 (913) 468-06-96",
+    "+7 (913) 378-00-96"
+   ],
+   "часы": "пн-сб 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "корпусная мебель",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "delivery",
+    "disable_captions",
+    "payment_by_credit_card",
+    "pickup"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/salt/38890439561/",
+   "последний_отзыв": "2025-12-09",
+   "отзывов_за_12_мес_из_загруженных": 1,
+   "загружено_дат": 61
+  },
+  {
+   "id": "6262117736",
+   "название": "Home Bar",
+   "seoname": "home_bar",
+   "адрес": "Автогенная ул., 105А, корп. 3",
+   "координаты": [
+    82.978272,
+    55.016992
+   ],
+   "рейтинг": 5,
+   "оценок": 32,
+   "отзывов": 27,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 383-44-14",
+    "+7 (995) 010-65-48"
+   ],
+   "часы": "пн-сб 10:00–19:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "корпусная мебель",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "delivery"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/home_bar/6262117736/",
+   "последний_отзыв": "2026-10-23",
+   "отзывов_за_12_мес_из_загруженных": 28,
+   "загружено_дат": 48
+  },
+  {
+   "id": "50951225045",
+   "название": "Любимая кухня",
+   "seoname": "lyubimaya_kukhnya",
+   "адрес": "ул. Дуси Ковальчук, 270",
+   "координаты": [
+    82.917232,
+    55.06099
+   ],
+   "рейтинг": 4.7,
+   "оценок": 41,
+   "отзывов": 25,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.lovekuhnya.ru/",
+    "https://nsb.lovekuhnya.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 138-50-00"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "мебель на заказ",
+    "шкафы-купе"
+   ],
+   "признаки": [
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "individual_sizes",
+    "payment_by_credit_card",
+    "street_entrance",
+    "wall_panels",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lyubimaya_kukhnya/50951225045/",
+   "последний_отзыв": "2026-09-03",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 37
+  },
+  {
+   "id": "55247496913",
+   "название": "Delo в кухне",
+   "seoname": "delo_v_kukhne",
+   "адрес": "ул. Гоголя, 32А",
+   "координаты": [
+    82.927557,
+    55.042862
+   ],
+   "рейтинг": 4.9,
+   "оценок": 25,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://delo-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (930) 502-34-47",
+    "+7 (905) 958-56-29"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебельная фабрика",
+    "мебель для кухни",
+    "корпусная мебель"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "delivery",
+    "gift_certificate",
+    "kitchen_sinks",
+    "kz_kaspi_qr",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "rooms_measurement",
+    "show_briefly_about_the_place_block",
+    "showroom",
+    "street_entrance",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/delo_v_kukhne/55247496913/",
+   "последний_отзыв": "2026-09-05",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 38
+  },
+  {
+   "id": "210327733020",
+   "название": "Delo в кухне",
+   "seoname": "delo_v_kukhne",
+   "адрес": "ул. Гребенщикова, 6, микрорайон Родники, Калининский район",
+   "координаты": [
+    82.939907,
+    55.109045
+   ],
+   "рейтинг": 4.8,
+   "оценок": 32,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://delo-nsk.ru/"
+   ],
+   "телефоны": [
+    "+7 (905) 958-56-29",
+    "+7 (951) 388-62-44"
+   ],
+   "часы": "ежедневно, 10:00–22:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель на заказ",
+    "мебель для кухни",
+    "шкафы-купе"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "call_button",
+    "car_park",
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_boards",
+    "furniture_facades",
+    "gift_certificate",
+    "glass_aprons",
+    "handmade_furniture",
+    "individual_sizes",
+    "kitchen_sinks",
+    "kz_kaspi_qr",
+    "no_prepayment",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "rooms_measurement",
+    "show_briefly_about_the_place_block",
+    "showroom",
+    "tabletop",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/delo_v_kukhne/210327733020/",
+   "последний_отзыв": "2026-10-24",
+   "отзывов_за_12_мес_из_загруженных": 5,
+   "загружено_дат": 41
+  },
+  {
+   "id": "221813316516",
+   "название": "Айва54",
+   "seoname": "ayva54",
+   "адрес": "ул. Бориса Богаткова, 217/2",
+   "координаты": [
+    82.973152,
+    55.038671
+   ],
+   "рейтинг": 4.5,
+   "оценок": 32,
+   "отзывов": 23,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://kuhniaiva.ru/"
+   ],
+   "телефоны": [
+    "+7 (983) 002-31-77"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "магазин мебели"
+   ],
+   "признаки": [
+    "delivery",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/ayva54/221813316516/",
+   "последний_отзыв": "2026-08-26",
+   "отзывов_за_12_мес_из_загруженных": 9,
+   "загружено_дат": 24
+  },
+  {
+   "id": "47786039516",
+   "название": "Зов",
+   "seoname": "zov",
+   "адрес": "Светлановская ул., 50",
+   "координаты": [
+    82.933969,
+    55.082439
+   ],
+   "рейтинг": 4.9,
+   "оценок": 22,
+   "отзывов": 22,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://zov-mebel.com/",
+    "https://zov-mebel.com/novosibirsk"
+   ],
+   "телефоны": [
+    "+7 (800) 234-72-72"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель на заказ",
+    "мебель для кухни",
+    "корпусная мебель"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_facades",
+    "gift_certificate",
+    "glass_furniture",
+    "individual_sizes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "showroom",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/zov/47786039516/",
+   "последний_отзыв": "2026-10-15",
+   "отзывов_за_12_мес_из_загруженных": 10,
+   "загружено_дат": 29
+  },
+  {
+   "id": "218702571549",
+   "название": "Любимая кухня",
+   "seoname": "lyubimaya_kukhnya",
+   "адрес": "просп. Карла Маркса, 15",
+   "координаты": [
+    82.8994,
+    54.985426
+   ],
+   "рейтинг": 4.8,
+   "оценок": 21,
+   "отзывов": 16,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.lovekuhnya.ru/",
+    "https://nsb.lovekuhnya.ru/"
+   ],
+   "телефоны": [
+    "+7 (923) 139-50-00"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "мебель на заказ",
+    "шкафы-купе"
+   ],
+   "признаки": [
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "individual_sizes",
+    "payment_by_credit_card",
+    "ramp",
+    "street_entrance",
+    "wall_panels",
+    "wheelchair_accessability"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/lyubimaya_kukhnya/218702571549/",
+   "последний_отзыв": "2026-10-14",
+   "отзывов_за_12_мес_из_загруженных": 15,
+   "загружено_дат": 20
+  },
+  {
+   "id": "25743190393",
+   "название": "МебельВилл",
+   "seoname": "mebelvill",
+   "адрес": "ул. Гоголя, 38",
+   "координаты": [
+    82.935299,
+    55.043476
+   ],
+   "рейтинг": 4.7,
+   "оценок": 18,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мебельвилл.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 954-08-04"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "детская мебель",
+    "корпусная мебель"
+   ],
+   "признаки": [
+    "delivery",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mebelvill/25743190393/",
+   "последний_отзыв": "2026-08-21",
+   "отзывов_за_12_мес_из_загруженных": 7,
+   "загружено_дат": 21
+  },
+  {
+   "id": "204323586610",
+   "название": "Академия кухни",
+   "seoname": "akademiya_kukhni",
+   "адрес": "Советская ул., 18",
+   "координаты": [
+    82.917117,
+    55.030029
+   ],
+   "рейтинг": 4.8,
+   "оценок": 18,
+   "отзывов": 15,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://akademiyakuhni.ru/"
+   ],
+   "телефоны": [
+    "+7 (953) 779-77-63"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "корпусная мебель",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "chipboard_cutting",
+    "delivery",
+    "free_measurement",
+    "furniture_boards",
+    "furniture_facades",
+    "gift_certificate",
+    "glass_aprons",
+    "glass_furniture",
+    "individual_sizes",
+    "kitchen_sinks",
+    "laminated_particle_board_cutting",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "schienalі",
+    "tabletop",
+    "wall_panels",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/akademiya_kukhni/204323586610/",
+   "последний_отзыв": "2025-04-23",
+   "отзывов_за_12_мес_из_загруженных": 0,
+   "загружено_дат": 18
+  },
+  {
+   "id": "66362946521",
+   "название": "Gold Choice",
+   "seoname": "gold_choice",
+   "адрес": "Гусинобродское ш., 35",
+   "координаты": [
+    83.021704,
+    55.040053
+   ],
+   "рейтинг": 4.2,
+   "оценок": 29,
+   "отзывов": 13,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "https://www.gold-choice.ru/"
+   ],
+   "телефоны": [
+    "+7 (913) 729-63-86",
+    "+7 (913) 982-37-52"
+   ],
+   "часы": "пн-пт 09:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "мебель для офиса"
+   ],
+   "признаки": [
+    "bike_parking",
+    "car_park",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "gift_certificate",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "ramp",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/gold_choice/66362946521/",
+   "последний_отзыв": "2026-03-10",
+   "отзывов_за_12_мес_из_загруженных": 2,
+   "загружено_дат": 15
+  },
+  {
+   "id": "19094003913",
+   "название": "54Кухни",
+   "seoname": "54kukhni",
+   "адрес": "просп. Карла Маркса, 10",
+   "координаты": [
+    82.900106,
+    54.98508
+   ],
+   "рейтинг": 4.4,
+   "оценок": 12,
+   "отзывов": 9,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "http://54кухни.рф/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-12-28",
+    "+7 (913) 911-38-20"
+   ],
+   "часы": "ежедневно, 10:00–20:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "delivery",
+    "glass_aprons",
+    "laminated_particle_board_cutting",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "rooms_measurement",
+    "schienalі",
+    "showroom",
+    "street_entrance",
+    "wall_panels",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/54kukhni/19094003913/"
+  },
+  {
+   "id": "1273606411",
+   "название": "Mr.Doors",
+   "seoname": "mr_doors",
+   "адрес": "Светлановская ул., 50, Новосибирск",
+   "координаты": [
+    82.93416,
+    55.082327
+   ],
+   "рейтинг": 4.4,
+   "оценок": 16,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.mrdoors.ru/"
+   ],
+   "телефоны": [
+    "8 (800) 511-95-45"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "магазин мебели",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "delivery",
+    "gift_certificate",
+    "payment_by_credit_card",
+    "pickup",
+    "wheelchair_accessability"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mr_doors/1273606411/"
+  },
+  {
+   "id": "8488752281",
+   "название": "54Кухни",
+   "seoname": "54kukhni",
+   "адрес": "ул. Татьяны Снежиной, 40",
+   "координаты": [
+    83.020003,
+    55.019505
+   ],
+   "рейтинг": 4.4,
+   "оценок": 10,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://54кухни.рф/"
+   ],
+   "телефоны": [
+    "+7 (913) 911-38-20",
+    "+7 (383) 310-12-28"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "chipboard_cutting",
+    "delivery",
+    "elevator_wheelchair_accessible",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_boards",
+    "furniture_facades",
+    "glass_aprons",
+    "individual_sizes",
+    "laminated_particle_board_cutting",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "rooms_measurement",
+    "schienalі",
+    "showroom",
+    "wall_panels",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/54kukhni/8488752281/"
+  },
+  {
+   "id": "225447520858",
+   "название": "Idearoom",
+   "seoname": "idearoom",
+   "адрес": "Светлановская ул., 50, Новосибирск",
+   "координаты": [
+    82.93372,
+    55.082281
+   ],
+   "рейтинг": 4.4,
+   "оценок": 32,
+   "отзывов": 8,
+   "хорошее_место": false,
+   "владелец_подтвердил": false,
+   "сайты": [
+    "http://idearoom.ru/"
+   ],
+   "телефоны": [
+    "+7 (383) 310-27-10",
+    "+7 (983) 510-27-10"
+   ],
+   "часы": "ежедневно, 10:00–21:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни",
+    "корпусная мебель",
+    "мебель на заказ"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "disable_captions",
+    "disable_photopoi",
+    "kitchen_sinks",
+    "payment_by_credit_card",
+    "pickup",
+    "rooms_measurement",
+    "show_briefly_about_the_place_block",
+    "showroom",
+    "supports",
+    "tabletop",
+    "wall_panels",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": false,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/idearoom/225447520858/"
+  },
+  {
+   "id": "204761438474",
+   "название": "Ателье Мебельных Фасадов",
+   "seoname": "atelye_mebelnykh_fasadov",
+   "адрес": "ул. Галущака, 1",
+   "координаты": [
+    82.900758,
+    55.050233
+   ],
+   "рейтинг": 4.3,
+   "оценок": 6,
+   "отзывов": 6,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [],
+   "телефоны": [
+    "+7 (383) 291-96-52",
+    "+7 (913) 915-96-52",
+    "+7 (913) 989-42-65"
+   ],
+   "часы": "пн-пт 09:00–18:00; сб 10:00–15:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель на заказ",
+    "мебель для кухни",
+    "мебельная фабрика"
+   ],
+   "признаки": [
+    "Possible_with_dog",
+    "car_park",
+    "delivery",
+    "express_delivery",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "showroom",
+    "street_entrance",
+    "veneer",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/atelye_mebelnykh_fasadov/204761438474/"
+  },
+  {
+   "id": "189767953727",
+   "название": "Mayer Haus",
+   "seoname": "mayer_haus",
+   "адрес": "ул. Владимира Заровного, 8",
+   "координаты": [
+    82.963522,
+    54.994057
+   ],
+   "рейтинг": 4.3,
+   "оценок": 16,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://www.mayerhaus.ru/"
+   ],
+   "телефоны": [
+    "+7 (903) 900-02-15",
+    "+7 (383) 263-02-15"
+   ],
+   "часы": "вт-пт 10:00–19:00; сб 10:00–17:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель на заказ",
+    "мебель для кухни",
+    "мебельная фабрика"
+   ],
+   "признаки": [
+    "call_button",
+    "delivery",
+    "free_measurement",
+    "from_manufacturer",
+    "furniture_facades",
+    "gift_certificate",
+    "glass_furniture",
+    "individual_sizes",
+    "parking_disabled",
+    "payment_by_credit_card",
+    "pickup",
+    "show_briefly_about_the_place_block",
+    "street_entrance",
+    "wheelchair_accessability",
+    "wi_fi"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mayer_haus/189767953727/"
+  },
+  {
+   "id": "153666721707",
+   "название": "МебельВилл",
+   "seoname": "mebelvill",
+   "адрес": "ул. Титова, 23",
+   "координаты": [
+    82.873277,
+    54.9818
+   ],
+   "рейтинг": 4.3,
+   "оценок": 12,
+   "отзывов": 5,
+   "хорошее_место": false,
+   "владелец_подтвердил": true,
+   "сайты": [
+    "https://мебельвилл.рф/"
+   ],
+   "телефоны": [
+    "+7 (923) 777-44-11",
+    "+7 (913) 010-26-39"
+   ],
+   "часы": "ежедневно, 10:00–18:00",
+   "круглосуточно": false,
+   "рубрики": [
+    "Мебель для кухни"
+   ],
+   "признаки": [
+    "car_park",
+    "delivery",
+    "kitchen_sinks",
+    "laminated_particle_board_cutting",
+    "payment_by_credit_card",
+    "pickup",
+    "preliminary_registration",
+    "ramp",
+    "show_briefly_about_the_place_block",
+    "tabletop",
+    "wall_panels"
+   ],
+   "реклама": true,
+   "статус": "open",
+   "карточка": "https://yandex.ru/maps/org/mebelvill/153666721707/"
+  }
+ ]
+}

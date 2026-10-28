@@ -18,8 +18,9 @@ interface Props {
   srezLine?: boolean;
   /** Не ставить canonical (404) */
   noCanonical?: boolean;
+  bodyClass?: string;
 }
-const { title, description = '', noindex = false, path, active, ld = null, srezLine = false, noCanonical = false } = Astro.props;
+const { title, description = '', noindex = false, path, active, ld = null, srezLine = false, noCanonical = false, bodyClass = '' } = Astro.props;
 const canonical = abs(path, Astro.site);
 // Тестовый показ на Pages закрыт целиком; иначе – по карте сайта (noindex, follow).
 const robots = NOINDEX_ALL ? 'noindex, nofollow' : noindex ? 'noindex, follow' : '';
@@ -45,7 +46,7 @@ const robots = NOINDEX_ALL ? 'noindex, nofollow' : noindex ? 'noindex, follow' :
     <link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&family=Literata:ital,opsz,wght@0,7..72,500;0,7..72,700;0,7..72,800;1,7..72,500;1,7..72,700&display=swap" rel="stylesheet" />
     {ld && <script type="application/ld+json" set:html={JSON.stringify(ld)} />}
   </head>
-  <body>
+  <body class={bodyClass || undefined}>
     <a class="sr-only" href="#main">К содержимому</a>
     <Header active={active} />
     <main id="main">

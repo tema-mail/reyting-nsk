@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "astro dev",
     "sverka": "node scripts/sverka.mjs",
-    "build": "astro build",
+    "build": "node scripts/sverka.mjs && astro build",
     "preview": "astro preview",
     "check-links": "node scripts/check-links.mjs"
   },

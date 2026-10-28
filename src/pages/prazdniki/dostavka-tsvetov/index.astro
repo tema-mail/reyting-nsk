@@ -1,0 +1,297 @@
+---
+// Рейтинг «Доставка цветов» – тексты дословно из teksty-nsk.md (раздел 3), цифры таблицы и разметки – из формулы и съёма.
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import Tbc from '../../../components/Tbc.astro';
+import Faq from '../../../components/Faq.astro';
+import LeadForm from '../../../components/LeadForm.astro';
+import { COMPANIES, NICHE, TOTAL_REVIEWS, TOTAL_SHOPS, tel } from '../../../lib/niche';
+import { u, abs } from '../../../lib/url';
+import { int, rate, dec, date } from '../../../lib/fmt';
+import { SREZ, SREZ_ISO, PUBLISHED_ISO } from '../../../lib/site';
+import { org, orgId, crumbs, graph } from '../../../lib/ld';
+
+const site = Astro.site;
+const top = COMPANIES.slice(0, 7);
+const rest = COMPANIES.slice(7);
+const [c1, c2, c3] = COMPANIES;
+const H1 = 'Лучшие доставки цветов Новосибирска – рейтинг 2026';
+const nf = { rel: 'nofollow noopener', target: '_blank' };
+const hoursCell = (h: string) => h.replace(/^ежедневно\s*/, '');
+
+const faq = [
+  {
+    q: 'Сколько стоит доставка цветов в Новосибирске?',
+    a: 'По сайтам служб рейтинга на 25.10.2026: Astraflo берёт за доставку в двухчасовой интервал от 250 ₽, Ваши Цветы везут бесплатно при заказе от 2 000 ₽. Остальные службы цену доставки в отдельной строке не показывают – спросите при заказе и назовите адрес.',
+  },
+  {
+    q: 'Где заказать цветы с доставкой недорого?',
+    a: 'Самые низкие цены, которые мы нашли на сайтах: букет из 7 роз у Amour – от 1 880 ₽, авторский букет у Ваших Цветов – 2 300 ₽, «Палермо» у Русского Букета – 2 810 ₽. У Сфинкса можно собрать букет поштучно: роза 40 см – 220 ₽.',
+  },
+  {
+    q: 'Есть ли круглосуточная доставка цветов в Новосибирске?',
+    a: 'По часам на Яндекс Картах круглосуточно работают Русский Букет (Ипподромская, 42), Moulen Rose (Советская, 52), La Rose (Советская, 55) и Amour (Гоголя, 25). Возят ли курьеры ночью и сколько это стоит, уточните у службы.',
+  },
+  {
+    q: 'Доставляют ли цветы на левый берег и в Академгородок, и сколько это стоит?',
+    a: 'Зоны и цены доставки по районам в нашем срезе 25.10.2026 не собраны. Назовите адрес при заказе – служба назовёт цену. <span class="tbc">подтвердить: собрать зоны и цены по районам при следующем съёме</span>',
+  },
+  {
+    q: 'Пришлют ли фото букета перед доставкой?',
+    a: 'На сайтах служб рейтинга мы не проверяли это условие. Спросите при заказе – это первая проверка из нашего списка. <span class="tbc">подтвердить: сверить с отзывами и сайтами</span>',
+  },
+  {
+    q: 'За сколько привезут букет после заказа?',
+    a: 'Сроков доставки службы в данных, которые мы собрали, не публикуют. Astraflo указывает доставку в двухчасовой интервал. <span class="tbc">подтвердить: сроки доставки служб</span>',
+  },
+  {
+    q: 'Что делать, если букет не похож на фото?',
+    a: 'Сфотографируйте букет при получении и в тот же день напишите в службу с фото и номером заказа. Если вопрос не решили, оставьте отзыв на Яндекс Картах или в 2ГИС – свежие отзывы влияют на балл службы в нашем рейтинге. <span class="tbc">подтвердить: условия возврата служб</span>',
+  },
+];
+const strip = (h: string) => h.replace(/<span class="tbc">.*?<\/span>/g, '').replace(/<[^>]+>/g, '').trim();
+
+const pageUrl = abs(NICHE.path, site);
+const ld = graph(
+  org(site),
+  {
+    '@type': 'CollectionPage',
+    '@id': pageUrl + '#page',
+    url: pageUrl,
+    name: H1,
+    inLanguage: 'ru',
+    datePublished: PUBLISHED_ISO,
+    dateModified: SREZ_ISO,
+    publisher: { '@id': orgId(site) },
+    mainEntity: { '@id': pageUrl + '#list' },
+  },
+  {
+    '@type': 'ItemList',
+    '@id': pageUrl + '#list',
+    name: 'Рейтинг доставки цветов в Новосибирске',
+    numberOfItems: COMPANIES.length,
+    itemListOrder: 'https://schema.org/ItemListOrderDescending',
+    itemListElement: COMPANIES.map((c) => ({
+      '@type': 'ListItem',
+      position: c.place,
+      item: {
+        '@type': 'Florist',
+        '@id': abs(`/kompanii/${c.slug}/`, site) + '#company',
+        name: c.name,
+        url: abs(`/kompanii/${c.slug}/`, site),
+        address: { '@type': 'PostalAddress', streetAddress: c.raw.адреса[0], addressLocality: 'Новосибирск', addressCountry: 'RU' },
+      },
+    })),
+  },
+  crumbs([{ name: 'Главная', path: '/' }, { name: 'Праздники', path: '/prazdniki/' }, { name: H1, path: NICHE.path }], site),
+  { '@type': 'FAQPage', mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: strip(f.a) } })) },
+);
+---
+<Base
+  title="Доставка цветов в Новосибирске: рейтинг 2026, топ по отзывам"
+  description={`Рейтинг доставки цветов Новосибирска: ${COMPANIES.length} служб, баллы по открытой формуле, отзывы Карт и 2ГИС, букеты от 1 880 ₽. На ${SREZ}.`}
+  path={NICHE.path}
+  active="prazdniki"
+  ld={ld}
+  srezLine
+  bodyClass="has-sticky"
+>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: 'Праздники', href: '/prazdniki/' }, { name: 'Доставка цветов' }]} />
+      <h1>{H1}</h1>
+      <p class="kratko">
+        <b>Кратко:</b> на {SREZ} в рейтинге доставки цветов Новосибирска первые места у {c1.name} ({dec(c1.ball)}/10; {rate(c1.raw['яндекс'].рейтинг)} на Яндекс Картах, {int(c1.raw['яндекс'].текстовых_отзывов)} отзывов), Русского Букета ({dec(c2.ball)}) и {c3.name} ({dec(c3.ball)}). Сравнили {COMPANIES.length} служб по оценкам и отзывам на картах, их свежести и открытым ценам; за место никто не платит. Самый недорогой букет, который мы нашли на сайтах, – 7 роз от 1 880 ₽ у Amour; круглосуточно, по данным карт, работают Русский Букет, Moulen Rose, La Rose на Советской и Amour на Гоголя.
+      </p>
+      <ul class="facts">
+        <li>{COMPANIES.length} служб, {TOTAL_SHOPS} магазинов, {int(TOTAL_REVIEWS)} отзывов на двух картах</li>
+        <li>Срез {SREZ}, пересчёт раз в месяц</li>
+        <li>Платных мест нет</li>
+      </ul>
+      <p class="note">Связь команды сайта с компаниями из рейтинга: <Tbc text="раскрываем ли связь – если да, пометка у компании: «клиент команды, которая ведёт сайт; балл по общей формуле»" /></p>
+      <div class="btns" style="margin-top:18px">
+        <a class="btn" href="#tablitsa">К таблице</a>
+        <a class="btn btn--ghost" href="#podobrat">Подобрать службу</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="tablitsa">
+    <div class="wrap">
+      <h2>Рейтинг доставки цветов в Новосибирске: таблица баллов</h2>
+      <p class="lead">Баллы из 10 – по формуле со страницы «<a href={u('/metodika/#dostavka-tsvetov')}>Как считаем</a>». У сетей с двумя магазинами отзывы сложены. Название ведёт на страницу службы.</p>
+      <table class="rt">
+        <thead>
+          <tr><th>Место</th><th>Служба</th><th>Балл</th><th>Яндекс Карты</th><th>2ГИС</th><th>Магазины</th><th>Часы</th><th>Цена на сайте</th></tr>
+        </thead>
+        <tbody>
+          {COMPANIES.map((c) => (
+            <tr>
+              <td class="rt__place">{c.place}</td>
+              <td class="rt__name">
+                <a href={u(`/kompanii/${c.slug}/`)}>{c.name}</a>
+                {c.text.clientOfTeam && <> <Tbc text="пометка о связи с командой" /></>}
+              </td>
+              <td class="rt__ball"><span class:list={['score', { 'score--top': c.place === 1 }]}>{dec(c.ball)}<small>/10</small></span></td>
+              <td data-l="Яндекс Карты"><span>{rate(c.raw['яндекс'].рейтинг)} · {int(c.raw['яндекс'].текстовых_отзывов)} отз.</span></td>
+              <td data-l="2ГИС"><span>{rate(c.raw['2гис'].рейтинг)} · {int(c.raw['2гис'].отзывов)} отз.</span></td>
+              <td data-l="Магазины"><span>{c.raw.адреса.join('; ')}</span></td>
+              <td data-l="Часы"><span>{hoursCell(c.raw.часы)}</span></td>
+              <td data-l="Цена на сайте"><span>{c.text.priceCell}</span></td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <p class="cap">Срез Яндекс Карт, 2ГИС и сайтов {SREZ}. «Отз.» – отзывы с текстом. Часы – по карточкам на картах; круглосуточно ли работают курьеры, уточняйте у службы. Колонку «зоны доставки» добавим после сбора <Tbc text="зоны и цены доставки по районам" />.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Лучшие по задаче: больше всего отзывов, круглосуточно, недорого, свежие отзывы</h2>
+      <ul class="noms">
+        <li><h3>Больше всего отзывов – Оверсайз Букет</h3><p>{int(c1.calc.reviews)} отзыва на двух картах, 5,0 и на Яндексе, и в 2ГИС.</p></li>
+        <li><h3>Круглосуточно – Русский Букет и Moulen Rose</h3><p>Оба магазина работают круглые сутки. У La Rose и Amour круглосуточно открыт один из двух магазинов: Советская, 55 и Гоголя, 25.</p></li>
+        <li><h3>Самый недорогой букет на сайте – Amour</h3><p>Букет из 7 красных роз от 1 880 ₽. У Сфинкса есть прайс поштучно: роза 40 см – 220 ₽.</p></li>
+        <li><h3>Отзывы самые свежие – Русский Букет и Amour</h3><p>У обоих последний отзыв на Яндексе – 20.10.2026, за год – 36 и 35 отзывов среди загруженных.</p></li>
+        <li><h3>Доставка с понятной ценой – Astraflo и Ваши Цветы</h3><p>Astraflo: доставка в двухчасовой интервал от 250 ₽. Ваши Цветы: доставка бесплатно при заказе от 2 000 ₽.</p></li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--alt" id="podrobno">
+    <div class="wrap">
+      <h2>Службы доставки цветов: подробно о каждой</h2>
+      {top.map((c) => {
+        const y = c.raw['яндекс'];
+        const g = c.raw['2гис'];
+        const marks = [y.хорошее_место_2026 && '«Хорошее место 2026»', y.владелец_подтвердил && 'карточку подтвердил владелец'].filter(Boolean).join(', ');
+        return (
+          <article class="co" id={c.slug}>
+            <div class="co__head">
+              <h3><a href={u(`/kompanii/${c.slug}/`)}>{c.place}. {c.name} – {dec(c.ball)}/10</a></h3>
+              <span class:list={['score', { 'score--top': c.place === 1 }]}>{dec(c.ball)}<small>/10</small></span>
+            </div>
+            <p class="co__data"><b>Данные среза {SREZ}:</b> Яндекс Карты {rate(y.рейтинг)} ({int(y.оценок)} оценок, {int(y.текстовых_отзывов)} отзывов), 2ГИС {rate(g.рейтинг)} ({int(g.отзывов)} отзывов). Последний отзыв на Яндексе – {date(y.последний_отзыв)}, за год – {y.отзывов_за_12_мес_из_загруженных}{c.place === 1 ? ' среди загруженных' : ''}.{marks && ` ${marks[0].toUpperCase()}${marks.slice(1)}.`}</p>
+            <div class="co__grid">
+              <div>
+                <h4>Сильные стороны</h4>
+                <ul>{c.text.strengths!.map((s) => <li>{s}</li>)}</ul>
+              </div>
+              <div>
+                <h4>Обратите внимание</h4>
+                <p>{c.text.attention![0].toUpperCase() + c.text.attention!.slice(1)}</p>
+                <p><b>Подходит,</b> {c.text.podhodit}</p>
+              </div>
+            </div>
+            <div class="co__meta">
+              <span><b>{c.raw.адреса.length > 1 ? 'Магазины' : 'Магазин'}:</b> {c.text.shops}</span>
+              <span><b>Телефон:</b> {c.phones.map((p, i) => <>{i > 0 && '; '}<a href={tel(p)}>{p}</a></>)} · <b>Сайт:</b> <a href={c.site} {...nf}>{c.siteHost}</a></span>
+              <span><b>Карточки:</b> {c.yaLinks.map((l, i) => <><a href={l} {...nf}>Яндекс Карты{c.yaLinks.length > 1 ? ` (${c.raw.адреса[i] || i + 1})` : ''}</a>{' · '}</>)}{c.gisLinks.map((l, i) => <><a href={l} {...nf}>2ГИС{c.gisLinks.length > 1 ? ` (${c.raw.адреса[i] || i + 1})` : ''}</a>{i < c.gisLinks.length - 1 && ' · '}</>)}</span>
+              <span><b>Отзывы:</b> <Tbc text="2 свежих отзыва с датой и источником" /></span>
+            </div>
+            <div class="btns">
+              <a class="btn btn--sm" href={tel(c.phones[0])}>Позвонить</a>
+              <a class="btn btn--sm btn--ghost" href={c.site} {...nf}>Сайт</a>
+              <a class="btn btn--sm btn--ghost" href={c.yaLinks[0]} {...nf}>Маршрут</a>
+              <a class="btn btn--sm btn--ghost" href={u(`/kompanii/${c.slug}/`)}>Подробнее</a>
+            </div>
+          </article>
+        );
+      })}
+      <h3 style="margin-top:28px">8–12. Остальные службы</h3>
+      <p class="muted">Ещё в рейтинге – коротко, подробности на странице службы.</p>
+      <ul class="rest">
+        {rest.map((c) => (
+          <li>
+            <a href={u(`/kompanii/${c.slug}/`)}>{c.place}. {c.name} – {dec(c.ball)}.</a>
+            {c.text.clientOfTeam && <> <Tbc text="пометка о связи с командой" /></>}
+            {' '}Яндекс {rate(c.raw['яндекс'].рейтинг)} ({int(c.raw['яндекс'].текстовых_отзывов)}), 2ГИС {rate(c.raw['2гис'].рейтинг)} ({int(c.raw['2гис'].отзывов)}). {c.text.restLine} {c.text.shops} · <a href={tel(c.phones[0])}>{c.phones[0]}</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <section class="section section--ink" id="podobrat">
+    <div class="wrap narrow">
+      <h2 class="sr-only">Подобрать службу</h2>
+      <p style="font:700 clamp(22px,3.4vw,30px)/1.25 var(--f-head);margin-bottom:10px">Нужен букет к сроку?</p>
+      <p>Напишите дату, время, район доставки и бюджет – пришлём 2–3 службы из рейтинга, которые подходят. Ваша заявка на места в рейтинге не влияет.</p>
+      <LeadForm kind="podobrat" />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <h2>Как считали места</h2>
+      <p>Балл службы складывают четыре показателя: средняя оценка на Яндекс Картах и в 2ГИС (35%), сколько всего отзывов (35%), как давно и как часто их пишут (15%), открытость службы – цены и часы на сайте, рабочий сайт, подтверждённая карточка (15%). Отдельного признака ниши для цветов нет. Срез сделан {SREZ}, за место не платят.</p>
+      <a class="link-arrow" href={u('/metodika/#dostavka-tsvetov')}>Подробно о формуле</a>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap">
+      <h2>Как выбрать доставку цветов: 6 проверок перед заказом</h2>
+      <ol class="steps">
+        <li><b>Фото готового букета.</b> Спросите, пришлют ли фото до отправки курьера. Так вы увидите букет до того, как его увидит получатель.</li>
+        <li><b>Окно доставки.</b> Уточните интервал: «до обеда» и «с 12 до 14» – разные обещания. Astraflo, например, указывает на сайте двухчасовой интервал.</li>
+        <li><b>Зона и цена доставки.</b> Назовите адрес: доставка на другой берег или в Академгородок может стоить иначе, чем по центру.</li>
+        <li><b>Замена цветов.</b> Договоритесь, что флорист заменит цветок только с вашего согласия.</li>
+        <li><b>Свежесть и уход.</b> Спросите, сколько простоит букет и положат ли подкормку и инструкцию.</li>
+        <li><b>Если букет не как на фото.</b> Узнайте до оплаты, что служба сделает: переделает, вернёт деньги или даст скидку.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <h2>Сколько стоят букет и доставка в Новосибирске</h2>
+      <p>Цены с сайтов служб рейтинга на {SREZ}. Это цены конкретных позиций, а не средние по рынку.</p>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead><tr><th>Что</th><th>Цена</th><th>Служба</th></tr></thead>
+          <tbody>
+            <tr><td>Роза 40 см, поштучно</td><td>220 ₽</td><td>Сфинкс</td></tr>
+            <tr><td>Букет из 7 красных роз</td><td>от 1 880 ₽</td><td>Amour</td></tr>
+            <tr><td>«Доставка цветов» (так на сайте)</td><td>от 1 630 ₽</td><td>Русский Букет</td></tr>
+            <tr><td>Авторский букет</td><td>2 300–6 800 ₽</td><td>Ваши Цветы</td></tr>
+            <tr><td>Букет «Палермо»</td><td>2 810 ₽</td><td>Русский Букет</td></tr>
+            <tr><td>Сборный букет с гортензией и розой</td><td>3 500 ₽</td><td>La Rose</td></tr>
+            <tr><td>Букет от флориста</td><td>3 500 ₽</td><td>Сфинкс</td></tr>
+            <tr><td>Моно-букет из роз Nina</td><td>от 4 750 ₽</td><td>La Rose</td></tr>
+            <tr><td>Корзина с французскими розами</td><td>5 500 ₽</td><td>Astraflo</td></tr>
+            <tr><td>Букет</td><td>5 990 ₽</td><td>Оверсайз Букет</td></tr>
+            <tr><td>Букет из французских роз</td><td>8 000 ₽</td><td>Оверсайз Букет</td></tr>
+            <tr><td>45 белых роз</td><td>от 9 100 ₽</td><td>Amour</td></tr>
+            <tr><td>Доставка в двухчасовой интервал</td><td>от 250 ₽</td><td>Astraflo</td></tr>
+            <tr><td>Доставка при заказе от 2 000 ₽</td><td>бесплатно</td><td>Ваши Цветы</td></tr>
+            <tr><td>Доставка на левый берег, в Академгородок, ночью</td><td><Tbc text="цены по районам и ночная доставка" /></td><td>–</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap narrow">
+      <h2>Частые вопросы</h2>
+      <Faq items={faq} />
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <h2>Другие рейтинги Новосибирска</h2>
+      <p>Других опубликованных рейтингов пока нет. Блок появится со второй нишей.</p>
+      <h2 style="margin-top:40px">Ваш цветочный магазин не в рейтинге?</h2>
+      <p>Отправьте название магазина и ссылку на Яндекс Карты – посчитаем балл по общей формуле. Если в описании вашей службы устарели цены, часы или сайт, напишите туда же. Платить не нужно, место не продаётся.</p>
+      <a class="btn btn--ghost" href={u('/dobavit-kompaniyu/')}>Предложить магазин</a>
+    </div>
+  </section>
+
+  <div class="sticky" slot="after">
+    <a class="btn btn--ob" href="#podobrat">Подобрать службу</a>
+    <a class="btn btn--ghost" href="#tablitsa">Наверх к таблице ↑</a>
+  </div>
+</Base>

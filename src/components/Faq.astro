@@ -1,0 +1,13 @@
+---
+// Вопросы и ответы. Ответ – HTML (со ссылками и пометками), в разметку FAQPage идёт тот же текст без тегов.
+interface Props { items: { q: string; a: string }[] }
+const { items } = Astro.props;
+---
+<div class="faq">
+  {items.map((it, i) => (
+    <details open={i === 0}>
+      <summary>{it.q}</summary>
+      <div class="faq__a"><p set:html={it.a} /></div>
+    </details>
+  ))}
+</div>

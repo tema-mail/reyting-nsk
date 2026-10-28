@@ -1,0 +1,210 @@
+---
+// Две формы сайта: «Подобрать службу» (посетитель) и «Добавить компанию» (бизнес).
+// Приёмник не выбран (docs/resheniya.md): PUBLIC_FORM_ENDPOINT пуст – после проверки полей честно пишем «Тестовая версия».
+import Tbc from './Tbc.astro';
+import { u } from '../lib/url';
+import { FORM_ENDPOINT } from '../lib/site';
+
+interface Props { kind: 'podobrat' | 'dobavit'; id?: string }
+const { kind, id = `form-${kind}` } = Astro.props;
+const agreeHref = u('/soglasie-na-obrabotku-dannykh/');
+const thanks = u('/spasibo/');
+---
+<form class="form-box lead-form" id={id} novalidate data-kind={kind} data-endpoint={FORM_ENDPOINT} data-thanks={thanks}>
+  {kind === 'podobrat' ? (
+    <div class="fgrid">
+      <div class="f">
+        <label for={`${id}-when`}>Когда доставить (дата и время) *</label>
+        <input id={`${id}-when`} name="when" type="text" placeholder="Например, 14.11, к 18:00" required autocomplete="off" />
+        <div class="f__err">Укажите дату и время</div>
+      </div>
+      <div class="f">
+        <label for={`${id}-rayon`}>Район *</label>
+        <input id={`${id}-rayon`} name="rayon" type="text" placeholder="Например, Академгородок" required />
+        <div class="f__err">Укажите район доставки</div>
+      </div>
+      <div class="f">
+        <label for={`${id}-budget`}>Бюджет, ₽</label>
+        <input id={`${id}-budget`} name="budget" type="text" inputmode="numeric" placeholder="3 000" />
+      </div>
+      <div class="f">
+        <label for={`${id}-phone`}>Телефон *</label>
+        <input id={`${id}-phone`} name="phone" type="tel" inputmode="tel" placeholder="+7 (___) ___-__-__" autocomplete="tel" data-phone required />
+        <div class="f__err">Нужен номер из 11 цифр или Telegram ниже</div>
+      </div>
+      <div class="f f--wide">
+        <label for={`${id}-tg`}>Или Telegram</label>
+        <input id={`${id}-tg`} name="telegram" type="text" placeholder="@имя" data-alt-contact />
+        <div class="f__hint">Достаточно одного контакта: телефона или Telegram.</div>
+      </div>
+    </div>
+  ) : (
+    <div class="fgrid">
+      <div class="f">
+        <label for={`${id}-name`}>Название *</label>
+        <input id={`${id}-name`} name="company" type="text" required />
+        <div class="f__err">Укажите название</div>
+      </div>
+      <div class="f">
+        <label for={`${id}-niche`}>Ниша *</label>
+        <select id={`${id}-niche`} name="niche" required>
+          <option value="">Выберите</option>
+          <option>Доставка цветов</option>
+          <option>Другая</option>
+        </select>
+        <div class="f__err">Выберите нишу</div>
+      </div>
+      <div class="f f--wide">
+        <label for={`${id}-adr`}>Адрес</label>
+        <input id={`${id}-adr`} name="address" type="text" />
+      </div>
+      <div class="f">
+        <label for={`${id}-ya`}>Ссылка на Яндекс Карты *</label>
+        <input id={`${id}-ya`} name="yandex" type="url" placeholder="https://yandex.ru/maps/org/…" required data-url />
+        <div class="f__err">Нужна ссылка на карточку, без неё не посчитаем балл</div>
+      </div>
+      <div class="f">
+        <label for={`${id}-gis`}>Ссылка на 2ГИС</label>
+        <input id={`${id}-gis`} name="gis" type="url" placeholder="https://2gis.ru/novosibirsk/firm/…" data-url-opt />
+        <div class="f__err">Проверьте ссылку</div>
+      </div>
+      <div class="f">
+        <label for={`${id}-site`}>Сайт</label>
+        <input id={`${id}-site`} name="site" type="text" />
+      </div>
+      <div class="f">
+        <label for={`${id}-prices`}>Страница с ценами</label>
+        <input id={`${id}-prices`} name="prices" type="text" />
+      </div>
+      <div class="f f--wide">
+        <label for={`${id}-fix`}>Что исправить (если компания уже на сайте)</label>
+        <textarea id={`${id}-fix`} name="fix"></textarea>
+      </div>
+      <div class="f">
+        <label for={`${id}-person`}>Имя *</label>
+        <input id={`${id}-person`} name="person" type="text" required autocomplete="name" />
+        <div class="f__err">Как к вам обращаться</div>
+      </div>
+      <div class="f">
+        <label for={`${id}-phone`}>Телефон *</label>
+        <input id={`${id}-phone`} name="phone" type="tel" inputmode="tel" placeholder="+7 (___) ___-__-__" autocomplete="tel" data-phone required />
+        <div class="f__err">Нужен номер из 11 цифр или почта ниже</div>
+      </div>
+      <div class="f f--wide">
+        <label for={`${id}-mail`}>Или почта</label>
+        <input id={`${id}-mail`} name="email" type="email" autocomplete="email" data-alt-contact />
+        <div class="f__hint">Достаточно одного контакта: телефона или почты.</div>
+      </div>
+      <div class="f f--wide">
+        <span class="f-label" style="font-weight:600;font-size:15px;display:block;margin-bottom:6px">Вы</span>
+        <div class="radios">
+          <label><input type="radio" name="role" value="владелец" /> владелец</label>
+          <label><input type="radio" name="role" value="сотрудник" /> сотрудник</label>
+          <label><input type="radio" name="role" value="клиент" /> клиент</label>
+        </div>
+      </div>
+    </div>
+  )}
+  <div class="f f--wide" style="margin-top:16px">
+    <label class="agree">
+      <input type="checkbox" name="agree" data-agree />
+      <span>Согласен на обработку персональных данных по <a href={agreeHref} target="_blank" rel="noopener">согласию</a></span>
+    </label>
+  </div>
+  <div class="btns" style="margin-top:16px">
+    <button class="btn btn--ob" type="submit" disabled>{kind === 'podobrat' ? 'Подобрать' : 'Отправить'}</button>
+  </div>
+  {kind === 'podobrat' ? (
+    <p class="muted" style="margin:12px 0 0">Кто и когда ответит: <Tbc text="кто и когда ответит" />. <Tbc text="передаём ли заявку службам – если да, вторая галочка о передаче данных" /></p>
+  ) : (
+    <p class="muted" style="margin:12px 0 0">Срок проверки: <Tbc text="кто ответит и когда" /></p>
+  )}
+  <div class="form-msg" role="status" aria-live="polite" hidden></div>
+</form>
+
+<script>
+  // Маска +7, кнопка неактивна до галочки согласия, проверка полей, отправка или честное «Тестовая версия».
+  function mask(raw: string) {
+    let d = raw.replace(/\D/g, '');
+    if (!d) return '';
+    if (d.startsWith('8')) d = '7' + d.slice(1);
+    if (!d.startsWith('7')) d = '7' + d;
+    const p = d.slice(1, 11);
+    let out = '+7';
+    if (p.length) out += ' (' + p.slice(0, 3);
+    if (p.length >= 3) out += ')';
+    if (p.length > 3) out += ' ' + p.slice(3, 6);
+    if (p.length > 6) out += '-' + p.slice(6, 8);
+    if (p.length > 8) out += '-' + p.slice(8, 10);
+    return out;
+  }
+  const digits = (v: string) => v.replace(/\D/g, '').length;
+  const isUrl = (v: string) => /^https?:\/\/[^\s.]+\.[^\s]+$/i.test(v.trim());
+
+  document.querySelectorAll<HTMLFormElement>('form.lead-form').forEach((form) => {
+    const btn = form.querySelector<HTMLButtonElement>('button[type=submit]')!;
+    const agree = form.querySelector<HTMLInputElement>('[data-agree]')!;
+    const msg = form.querySelector<HTMLElement>('.form-msg')!;
+    const phone = form.querySelector<HTMLInputElement>('[data-phone]');
+    const alt = form.querySelector<HTMLInputElement>('[data-alt-contact]');
+    agree.checked = false; // галочка всегда пустая, даже после «назад» в браузере
+    btn.disabled = true;
+    agree.addEventListener('change', () => { btn.disabled = !agree.checked; });
+    phone?.addEventListener('input', () => { phone.value = mask(phone.value); });
+    phone?.addEventListener('focus', () => { if (!phone.value) phone.value = '+7 ('; });
+    phone?.addEventListener('blur', () => { if (digits(phone.value) <= 1) phone.value = ''; });
+
+    const setErr = (el: Element | null, bad: boolean) => el?.closest('.f')?.classList.toggle('is-err', bad);
+
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      msg.hidden = true;
+      let ok = true;
+      form.querySelectorAll<HTMLInputElement>('[required]:not([data-phone])').forEach((el) => {
+        const bad = !el.value.trim() || (el.hasAttribute('data-url') && !isUrl(el.value));
+        setErr(el, bad);
+        if (bad) ok = false;
+      });
+      form.querySelectorAll<HTMLInputElement>('[data-url-opt]').forEach((el) => {
+        const bad = !!el.value.trim() && !isUrl(el.value);
+        setErr(el, bad);
+        if (bad) ok = false;
+      });
+      if (phone) {
+        const hasAlt = !!alt?.value.trim();
+        const phoneOk = digits(phone.value) === 11;
+        const bad = !(phoneOk || (hasAlt && digits(phone.value) <= 1));
+        setErr(phone, bad);
+        if (bad) ok = false;
+      }
+      if (!agree.checked) ok = false;
+      if (!ok) {
+        (form.querySelector('.is-err input, .is-err select, .is-err textarea') as HTMLElement | null)?.focus();
+        return;
+      }
+      const endpoint = form.dataset.endpoint || '';
+      if (!endpoint) {
+        msg.className = 'form-msg form-msg--test';
+        msg.textContent = 'Тестовая версия: заявки пока не принимаются. Данные никуда не отправлены.';
+        msg.hidden = false;
+        return;
+      }
+      btn.disabled = true;
+      try {
+        const data = Object.fromEntries(new FormData(form).entries());
+        const r = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ...data, form: form.dataset.kind, page: location.pathname }),
+        });
+        if (!r.ok) throw new Error(String(r.status));
+        location.href = form.dataset.thanks || '/';
+      } catch {
+        msg.className = 'form-msg form-msg--err';
+        msg.textContent = 'Не получилось отправить. Попробуйте ещё раз через минуту.';
+        msg.hidden = false;
+        btn.disabled = !agree.checked;
+      }
+    });
+  });
+</script>

@@ -1,0 +1,37 @@
+---
+// «Сколько стоит»: цены «от» с сайтов компаний рейтинга (если цены есть хотя бы у трёх). В балл не входят.
+import type { Niche } from '../lib/reytingi';
+import { rub } from '../lib/ceny';
+import { date } from '../lib/fmt';
+import { u } from '../lib/url';
+interface Props { n: Niche; title?: string; id?: string; note?: string; places?: boolean }
+const { n, title = 'Сколько стоит', id = 'ceny', note = '', places = true } = Astro.props;
+const rows = n.rows.filter((r) => r.prices);
+const mins = rows.map((r) => r.prices!.min);
+const lo = Math.min(...mins), hi = Math.max(...mins);
+const goods = rows.some((r) => r.prices!.minGoods);
+const nf = { rel: 'nofollow noopener', target: '_blank' };
+---
+{rows.length >= 3 && (
+  <section class="section" id={id}>
+    <div class="wrap narrow">
+      <h2>{title}</h2>
+      {note && <p>{note}</p>}
+      <p>Цены «от» нашли на сайтах {rows.length} компаний рейтинга: самая низкая стартовая цена – {rub(lo)}, самая высокая – {rub(hi)}. У каждой компании показана самая низкая цена с её сайта и за что она. Это цены по данным сайтов компаний на {date(rows[0].prices!.srez)}; точную сумму называет компания после расчёта. {goods && 'Где стоит пометка «цена изделия» – это цена товара, а не работы. '}В балл цены не входят.</p>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead><tr><th>Компания</th>{places && <th>Место</th>}<th>Цена от</th></tr></thead>
+          <tbody>
+            {rows.map((r) => (
+              <tr>
+                <td>{r.slug ? <a href={u(`/kompanii/${r.slug}/`)}>{r.name}</a> : r.name}<small class="muted" style="display:block">{r.prices!.items[0].name}</small></td>
+                {places && <td>{r.place}</td>}
+                <td><a href={r.prices!.url} {...nf}>{rub(r.prices!.min)}</a>{r.prices!.minGoods && <small class="muted" style="display:block">цена изделия</small>}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+)}

@@ -1,0 +1,51 @@
+---
+// «Как мы составляли рейтинг» на странице ниши: запросы, поиск по городу и районам, правило рубрик, отсев и показатели всех компаний.
+// Подробности ниши живут здесь, на странице рейтинга; в методике – только общая формула и список ниш.
+import type { Niche } from '../lib/reytingi';
+import { W } from '../lib/formula-ya.mjs';
+import { OTBOR } from '../lib/nishi.mjs';
+import { units, r1 } from '../lib/reyting-text';
+import { dec, date, plural } from '../lib/fmt';
+import { u } from '../lib/url';
+interface Props { n: Niche }
+const { n } = Astro.props;
+const pct = (x: number) => Math.round(x * 100) + '%';
+const q = n.queries.length ? n.queries.map((x) => `«${x}»`).join(', ') : `«${n.name.toLowerCase()}»`;
+const why = new Map<string, number>();
+for (const d of n.dropped) why.set(d.why, (why.get(d.why) || 0) + 1);
+const WHY: Record<string, string> = { 'рубрика': 'не та рубрика', 'рубрика-исключение': 'рубрика-исключение', 'название': 'не подходит по названию', 'закрыто': 'закрыты', 'нет оценки': 'нет оценки', 'далеко': 'дальше допустимого от центра' };
+const chains = n.rows.filter((r) => r.points.length > 1).length;
+---
+<section class="section section--alt" id="kak">
+  <div class="wrap narrow">
+    <h2>Как мы составляли рейтинг</h2>
+    <p>Искали на Яндекс Картах по {n.queries.length > 1 ? 'запросам' : 'запросу'} {q} – {n.byRayon ? 'по всему Новосибирску и отдельно по каждому из 10 районов' : 'по Новосибирску'}. Нашли {n.found} {plural(n.found, ['точку', 'точки', 'точек'])}. Срез {date(n.srezIso)}.</p>
+    <p><b>Правило отбора:</b> {n.rule.why}; оценка от {dec(OTBOR.minRating, 1)}, не меньше {OTBOR.minReviews} отзывов, карточка не закрыта. Ручных исключений нет. Прошли {units(n, n.rows.length)}.{why.size > 0 && ` Не вошли: ${[...why].map(([k, v]) => `${WHY[k] || k} – ${v}`).join('; ')}.`}</p>
+    <p><b>Сети.</b> Точки с одним названием – одна строка. Баллы сети считаем по главной точке – той, у которой больше всего оценок на Яндекс Картах; остальные адреса перечислены под названием.{chains > 0 && ` В этом рейтинге сетей: ${chains}.`}</p>
+    <p>Балл из 10: оценка – {pct(W.rating)}, число отзывов – {pct(W.reviews)}, свежесть отзывов – {pct(W.fresh)}, открытость карточки (сайт, часы, подтверждение владельца, «Хорошее место») – {pct(W.open)}. Оценку и отзывы сравниваем внутри рейтинга: лучший получает полную долю. Цены с сайтов показываем для удобства, в балл они не входят. 2ГИС не учтён.</p>
+    <details>
+      <summary>Показатели всех компаний (от 0 до 1)</summary>
+      <div class="tbl-wrap">
+        <table class="tbl">
+          <thead><tr><th>Компания</th><th>Балл</th><th>Оценка</th><th>Отзывы</th><th>Свежесть</th><th>Открытость</th></tr></thead>
+          <tbody>
+            {n.rows.map((r) => (
+              <tr>
+                <td>{r.place}. {r.name} <small>({r1(r.rating)}; {r.reviews})</small></td>
+                <td><b>{dec(r.ball)}</b></td>
+                <td>{dec(r.calc.normRating, 2)}</td>
+                <td>{dec(r.calc.normReviews, 2)}</td>
+                <td>{r.calc.noDate ? 'нет дат' : dec(r.calc.fresh, 2)}</td>
+                <td>{dec(r.calc.open, 2)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </details>
+    <p style="margin-top:14px"><a class="link-arrow" href={u('/metodika/')}>Формула целиком</a></p>
+  </div>
+</section>
+<style>
+  details summary { cursor: pointer; color: var(--ob); font-weight: 600; font-size: 15px; margin: 6px 0 8px; }
+</style>

@@ -12,7 +12,7 @@ export const GET: APIRoute = ({ site }) => {
     [NICHE.path, SREZ_ISO],
     ...NICHES.map((n) => [n.path, n.srezIso] as [string, string]),
     ...COMPANIES.map((c) => [`/kompanii/${c.slug}/`, SREZ_ISO] as [string, string]),
-    ...CARDS.map((c) => [`/kompanii/${c.slug}/`, c.main.niche.srezIso] as [string, string]),
+    ...CARDS.filter((c) => c.index).map((c) => [`/kompanii/${c.slug}/`, c.main.niche.srezIso] as [string, string]),
     ...['/metodika/', '/o-proekte/', '/dobavit-kompaniyu/', '/politika-konfidentsialnosti/', '/soglasie-na-obrabotku-dannykh/'].map((p) => [p, SREZ_NEW_ISO] as [string, string]),
   ];
   const body = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls

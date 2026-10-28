@@ -6,6 +6,7 @@ import Crumbs from './Crumbs.astro';
 import type { Company } from '../lib/reytingi';
 import { breakdown, whyPlace, strengths, attention, otz, r1 } from '../lib/reyting-text';
 import { tel } from '../lib/niche';
+import { rub } from '../lib/ceny';
 import { u, abs } from '../lib/url';
 import { int, dec, date, plural } from '../lib/fmt';
 import { org, orgId, crumbs, graph } from '../lib/ld';
@@ -27,11 +28,13 @@ const sim = n.rows.filter((x) => x !== m && x.slug && x.slug !== c.slug).sort((a
 const sites = [...new Set(c.points.flatMap((p) => p.sites))].slice(0, 2);
 const phones = [...new Set(c.points.flatMap((p) => p.phones))].slice(0, 3);
 const pageUrl = abs(path, site);
+const pr = c.rows.find((r) => r.prices)?.prices || null;
+const prNiche = c.rows.find((r) => r.prices)?.niche;
 const ld = graph(
   org(site),
   { '@type': 'WebPage', '@id': pageUrl + '#page', url: pageUrl, name: c.name, inLanguage: 'ru', dateModified: n.srezIso, publisher: { '@id': orgId(site) }, about: { '@id': pageUrl + '#company' } },
   {
-    '@type': 'LocalBusiness', '@id': pageUrl + '#company', name: c.name,
+    '@type': n.ld, '@id': pageUrl + '#company', name: c.name,
     address: c.points.map((p) => ({ '@type': 'PostalAddress', streetAddress: p.adr, addressLocality: 'Новосибирск', addressCountry: 'RU' })),
     ...(phones.length ? { telephone: phones } : {}),
     ...(sites[0] ? { url: sites[0] } : {}),
@@ -40,7 +43,7 @@ const ld = graph(
   crumbs([{ name: 'Главная', path: '/' }, { name: n.cat.name, path: `/${n.cat.slug}/` }, { name: n.name, path: n.path }, { name: c.name, path }], site),
 );
 ---
-<Base title={`${c.name}, Новосибирск: отзывы и место в рейтинге`} description={`${c.name}: ${places}. ${r1(m.rating)} на Яндекс Картах, ${otz(m.reviews)}. Срез ${SREZ}.`} path={path} active={n.cat.slug} ld={ld}>
+<Base noindex={!c.index} title={`${c.name} – ${n.name.toLowerCase()}, Новосибирск: место в рейтинге`} description={`${c.name}: ${places}. ${r1(m.rating)} на Яндекс Картах, ${otz(m.reviews)}. Срез ${SREZ}.`} path={path} active={n.cat.slug} ld={ld}>
   <section class="hero">
     <div class="wrap">
       <Crumbs items={[{ name: 'Главная', href: '/' }, { name: n.cat.name, href: `/${n.cat.slug}/` }, { name: n.name, href: n.path }, { name: c.name }]} />
@@ -51,7 +54,7 @@ const ld = graph(
           <p class="kratko">{c.name} – {places}; балл {dec(m.ball)} из 10, оценка {r1(m.rating)} на Яндекс Картах по {int(m.ratings)} {plural(m.ratings, ['оценке', 'оценкам', 'оценкам'])}, срез {SREZ}.</p>
           <div class="src-grid">
             <div class="src"><div class="src__k">Оценка на Яндекс Картах</div><div class="src__v">{r1(m.rating)}</div><div class="src__s">{int(m.ratings)} {plural(m.ratings, ['оценка', 'оценки', 'оценок'])}</div></div>
-            <div class="src"><div class="src__k">Отзывы</div><div class="src__v">{int(m.reviews)}</div><div class="src__s">за 12 месяцев – {m.n12} среди загруженных</div></div>
+            <div class="src"><div class="src__k">Отзывы</div><div class="src__v">{int(m.reviews)}</div><div class="src__s">{c.points.length > 1 ? 'у главной точки; ' : ''}за 12 месяцев – {m.n12} среди загруженных</div></div>
             <div class="src"><div class="src__k">Последний отзыв</div><div class="src__v">{m.last ? date(m.last) : 'нет даты'}</div><div class="src__s">срез {SREZ}</div></div>
           </div>
           <div class="btns">
@@ -110,7 +113,19 @@ const ld = graph(
     </div>
   </section>
 
-  <section class="section section--alt">
+  {pr && (
+    <section class="section section--alt" id="ceny">
+      <div class="wrap narrow">
+        <h2>Цены на сайте компании</h2>
+        <ul class="rest">
+          {pr.items.map((x) => <li>{x.name} – от {rub(x.rub)}{x.goods && <small class="muted"> (цена изделия)</small>}</li>)}
+        </ul>
+        <p class="muted" style="margin-top:10px">По данным сайта компании на {date(pr.srez)}: <a href={pr.url} {...nf}>{host(pr.url)}</a>. Цены «от» – стартовые, точную сумму называет компания. В балл рейтинга{prNiche && prNiche !== n ? ` «${prNiche.name}»` : ''} цены не входят.</p>
+      </div>
+    </section>
+  )}
+
+  <section class={pr ? 'section' : 'section section--alt'}>
     <div class="wrap narrow">
       <h2>{c.points.length > 1 ? 'Адреса и часы работы' : 'Адрес и часы работы'}</h2>
       <ul class="rest">

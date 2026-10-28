@@ -7,19 +7,15 @@ export const units = (n: Niche, k: number) => `${k} ${plural(k, n.text.unit)}`;
 export const otz = (k: number) => `${int(k)} ${plural(k, ['отзыв', 'отзыва', 'отзывов'])}`;
 export const r1 = (x: number) => dec(Math.round(x * 100) / 100, 2).replace(/0$/, '').replace(/,$/, '');
 
-/** Часы для таблицы: «круглосуточно», часы главной точки или «у филиалов разные». */
-export function hoursCell(r: Row) {
-  if (r.points.every((p) => p.h24)) return 'круглосуточно';
-  const hs = [...new Set(r.points.map((p) => p.hours).filter(Boolean))];
-  if (!hs.length) return 'не указаны';
-  if (hs.length > 1) return r.h24 ? 'есть круглосуточный филиал' : 'у филиалов разные';
-  return hs[0];
-}
+/** Часы для таблицы – главной точки (по ней считается балл сети). */
+export const hoursCell = (r: Row) => r.points[0].hours || 'не указаны';
 
+/** «Кратко»: первая фраза – с названием ниши (у соседних ниш она разная), затем №2–3 и совет из чек-листа этой ниши. */
 export function kratko(n: Niche) {
   const [a, b, c] = n.rows;
   const tail = [b && `${b.name} (${dec(b.ball)})`, c && `${c.name} (${dec(c.ball)})`].filter(Boolean).join(' и ');
-  return `№1 – ${a.name}: ${dec(a.ball)} из 10, оценка ${r1(a.rating)} на Яндекс Картах, ${otz(a.reviews)}. Следом – ${tail}. Мы сравнили ${units(n, n.rows.length)} Новосибирска по оценке и числу отзывов на Яндекс Картах, их свежести и открытости карточки; за место никто не платит.`;
+  const [c1, c2] = n.text.check;
+  return `${n.name} Новосибирска по отзывам: №1 – ${a.name}, ${dec(a.ball)} из 10, оценка ${r1(a.rating)} на Яндекс Картах, ${otz(a.reviews)}. Следом – ${tail}. Перед выбором начните с пунктов «${c1.t}» и «${c2.t}» из чек-листа ниже.`;
 }
 
 export interface Nom { t: string; who: string; d: string; slug?: string }
@@ -27,13 +23,15 @@ export interface Nom { t: string; who: string; d: string; slug?: string }
 export function nominations(n: Niche): Nom[] {
   const out: Nom[] = [];
   const most = [...n.rows].sort((a, b) => b.reviews - a.reviews)[0];
-  out.push({ t: 'Больше всего отзывов', who: most.name, slug: most.slug, d: `${otz(most.reviews)} на Яндекс Картах${most.points.length > 1 ? `, ${most.points.length} ${plural(most.points.length, ['филиал', 'филиала', 'филиалов'])}` : ''}.` });
+  out.push({ t: 'Больше всего отзывов', who: most.name, slug: most.slug, d: `${otz(most.reviews)} на Яндекс Картах${most.points.length > 1 ? ` у главной точки сети, всего ${most.points.length} ${plural(most.points.length, ['адрес', 'адреса', 'адресов'])}` : ''}.` });
   const hi = n.rows.filter((r) => r.reviews >= 100).sort((a, b) => b.rating - a.rating || b.reviews - a.reviews)[0];
   if (hi && hi !== most) out.push({ t: 'Высокая оценка при 100+ отзывах', who: hi.name, slug: hi.slug, d: `${r1(hi.rating)} при ${otz(hi.reviews)}.` });
   const fresh = n.rows.filter((r) => r.last).sort((a, b) => (b.last! > a.last! ? 1 : b.last! < a.last! ? -1 : b.n12 - a.n12))[0];
   if (fresh) out.push({ t: 'Самый свежий отзыв', who: fresh.name, slug: fresh.slug, d: `последний отзыв – ${date(fresh.last!)}, за 12 месяцев – ${fresh.n12} среди загруженных.` });
   const h24 = n.rows.filter((r) => r.h24);
   if (h24.length) out.push({ t: 'Круглосуточно', who: h24.slice(0, 3).map((r) => r.name).join(', '), slug: h24.length === 1 ? h24[0].slug : undefined, d: h24.length > 3 ? `и ещё ${h24.length - 3} – по часам на Яндекс Картах.` : 'по часам на Яндекс Картах.' });
+  const priced = n.rows.filter((r) => r.prices);
+  if (priced.length >= 3) out.push({ t: 'Открытые цены', who: priced.slice(0, 3).map((r) => r.name).join(', '), slug: undefined, d: `цены «от» опубликованы на сайте${priced.length > 3 ? `; всего таких в рейтинге ${priced.length}` : ''}. В балл цены не входят.` });
   const open = n.rows.filter((r) => r.calc.open === 1);
   if (open.length) out.push({ t: 'Самая полная карточка', who: open.slice(0, 3).map((r) => r.name).join(', '), d: `сайт, часы, подтверждение владельца и «Хорошее место» – все четыре признака${open.length > 3 ? `; всего таких ${open.length}` : ''}.` });
   return out;
@@ -70,8 +68,8 @@ export function strengths(c: Company): string[] {
   if (r.n12 >= 12) s.push(`За 12 месяцев – ${r.n12} отзывов среди загруженных.`);
   if (r.good) s.push('Отметка Яндекса «Хорошее место».');
   if (r.owner) s.push('Карточку на Яндексе подтвердил владелец.');
-  if (r.h24) s.push(r.points.length > 1 ? 'Есть круглосуточный филиал.' : 'Работает круглосуточно.');
-  if (c.points.length > 1) s.push(`${c.points.length} ${plural(c.points.length, ['точка', 'точки', 'точек'])} в рейтинге.`);
+  if (r.h24) s.push('Работает круглосуточно.');
+  if (c.points.length > 1) s.push(`${c.points.length} ${plural(c.points.length, ['адрес', 'адреса', 'адресов'])} в Новосибирске и рядом.`);
   return s;
 }
 export function attention(c: Company): string[] {

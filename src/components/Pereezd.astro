@@ -1,0 +1,12 @@
+---
+// Мгновенный переход на другой адрес (на Pages нет 301): noindex, canonical на цель.
+import { u, abs } from '../lib/url';
+interface Props { to: string; title: string }
+const { to, title } = Astro.props;
+const href = u(to);
+---
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8" /><title>{title}</title>
+<meta name="robots" content="noindex, follow" /><link rel="canonical" href={abs(to.replace(/#.*$/, ''), Astro.site)} />
+<meta http-equiv="refresh" content={`0; url=${href}`} /></head>
+<body><p><a href={href}>{title}</a></p></body></html>

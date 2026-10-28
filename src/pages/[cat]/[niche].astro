@@ -4,33 +4,39 @@
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import Faq from '../../components/Faq.astro';
+import Pereezd from '../../components/Pereezd.astro';
 import Filtr from '../../components/Filtr.astro';
-import { NICHES, SUMMARIES, type Niche, type Row } from '../../lib/reytingi';
+import CenyNishi from '../../components/CenyNishi.astro';
+import KakNisha from '../../components/KakNisha.astro';
+import { rub } from '../../lib/ceny';
+import { NICHES, SUMMARIES, OVERLAP, type Niche, type Row } from '../../lib/reytingi';
 import { kratko, nominations, hoursCell, otz, r1, units } from '../../lib/reyting-text';
 import { RAYONY, ZA_GORODOM } from '../../lib/rayon.mjs';
 import { u, abs } from '../../lib/url';
 import { dec, date, int, plural } from '../../lib/fmt';
 import { PUBLISHED_ISO } from '../../lib/site';
 import { org, orgId, crumbs, graph } from '../../lib/ld';
-import { W } from '../../lib/formula-ya.mjs';
 
 export function getStaticPaths() {
-  return NICHES.map((n) => ({ params: { cat: n.cat.slug, niche: n.slug }, props: { n } }));
+  return [
+    ...NICHES.map((n) => ({ params: { cat: n.cat.slug, niche: n.slug }, props: { n } })),
+    // Свёрнутая ниша (больше 70 % состава совпало с соседней): адрес ведёт в раздел страницы соседа. На Pages 301 нет – мгновенный переход.
+    ...OVERLAP.filter((o) => o.folded).map((o) => ({ params: { cat: o.key.split('/')[0], niche: o.key.split('/')[1] }, props: { n: NICHES.find((x) => x.key === o.pair)!, to: `/${o.pair}/#${o.key.split('/')[1]}`, toName: o.name } })),
+  ];
 }
-const { n } = Astro.props as { n: Niche };
+const { n, to, toName } = Astro.props as { n: Niche; to?: string; toName?: string };
 const site = Astro.site;
 const t = n.text;
 const SREZ = date(n.srezIso);
 const nf = { rel: 'nofollow noopener', target: '_blank' };
-const flags = (r: Row) => [r.h24 && 'h24', r.rating >= 4.8 && 'r48', r.reviews >= 300 && 'o300', r.good && 'good', r.site && 'site'].filter(Boolean).join(' ');
+const flags = (r: Row) => [r.h24 && 'h24', r.rating >= 4.8 && 'r48', r.reviews >= 300 && 'o300', r.good && 'good', r.site && 'site', r.prices && 'price'].filter(Boolean).join(' ');
+const hasPrices = n.rows.some((r) => r.prices);
 const present = new Set(n.rows.flatMap((r) => r.rayony));
 const rayony = [...RAYONY.filter((x) => present.has(x)), ...(present.has(ZA_GORODOM) ? [ZA_GORODOM] : [])];
 const noms = nominations(n);
 const neighbours = SUMMARIES.filter((s) => s.cat === n.cat.slug && s.key !== n.key);
 const noDates = n.rows.filter((r) => r.calc.noDate).length;
 const total = n.rows.reduce((s, r) => s + r.reviews, 0);
-const pts = n.rows.reduce((s, r) => s + r.points.length, 0);
-const pct = (x: number) => Math.round(x * 100) + '%';
 const cardLink = (r: Row) => (r.slug ? u(`/kompanii/${r.slug}/`) : null);
 
 const pageUrl = abs(n.path, site);
@@ -41,7 +47,7 @@ const ld = graph(
     '@type': 'ItemList', '@id': pageUrl + '#list', name: `Рейтинг: ${n.name.toLowerCase()} Новосибирска`, numberOfItems: n.rows.length, itemListOrder: 'https://schema.org/ItemListOrderDescending',
     itemListElement: n.rows.map((r) => ({
       '@type': 'ListItem', position: r.place,
-      item: { '@type': 'LocalBusiness', name: r.name, ...(r.slug ? { '@id': abs(`/kompanii/${r.slug}/`, site) + '#company', url: abs(`/kompanii/${r.slug}/`, site) } : {}), address: { '@type': 'PostalAddress', streetAddress: r.points[0].adr, addressLocality: 'Новосибирск', addressCountry: 'RU' } },
+      item: { '@type': n.ld, name: r.name, ...(r.slug ? { '@id': abs(`/kompanii/${r.slug}/`, site) + '#company', url: abs(`/kompanii/${r.slug}/`, site) } : {}), address: { '@type': 'PostalAddress', streetAddress: r.points[0].adr, addressLocality: 'Новосибирск', addressCountry: 'RU' } },
     })),
   },
   crumbs([{ name: 'Главная', path: '/' }, { name: n.cat.name, path: `/${n.cat.slug}/` }, { name: n.name, path: n.path }], site),
@@ -49,6 +55,7 @@ const ld = graph(
 );
 const rowCells = (r: Row) => ({ ry: r.rayony.join('|'), f: flags(r) });
 ---
+{to ? <Pereezd to={to} title={`${toName}: раздел рейтинга «${n.name}»`} /> : (
 <Base title={t.title} description={`${n.name} Новосибирска: ${units(n, n.rows.length)} по баллам из 10. №1 – ${n.rows[0].name} (${dec(n.rows[0].ball)}). Оценки и отзывы Яндекс Карт на ${SREZ}.`} path={n.path} active={n.cat.slug} ld={ld}>
   <section class="hero">
     <div class="wrap">
@@ -68,19 +75,20 @@ const rowCells = (r: Row) => ({ ry: r.rayony.join('|'), f: flags(r) });
   <section class="section section--alt" id="tablitsa">
     <div class="wrap">
       <h2>Рейтинг: таблица баллов</h2>
-      <p class="lead">Баллы из 10 – по формуле со страницы «<a href={u(`/metodika/#${n.cat.slug}-${n.slug}`)}>Как считаем</a>». Сеть с одним названием – одна строка, отзывы филиалов сложены. Фильтр скрывает строки, места не меняет.</p>
-      <Filtr target="spisok" rayony={rayony} total={n.rows.length} />
+      <p class="lead">Баллы из 10 – по формуле со страницы «<a href={u(`/metodika/#${n.cat.slug}-${n.slug}`)}>Как считаем</a>». Сеть с одним названием – одна строка, баллы – по главной точке (больше всего оценок). Цены «от» – с сайтов компаний, в балл не входят. Фильтр скрывает строки, места не меняет.</p>
+      <Filtr target="spisok" rayony={rayony} total={n.rows.length} prices={hasPrices} />
       <div id="spisok">
         <table class="rt rt--ya">
-          <thead><tr><th>Место</th><th>Компания</th><th>Балл</th><th>Яндекс Карты</th><th>Район</th><th>Часы</th><th>Сайт</th></tr></thead>
+          <thead><tr><th>Место</th><th>Компания</th><th>Балл</th><th>Яндекс Карты</th><th>Район</th>{hasPrices && <th>Цена</th>}<th>Часы</th><th>Сайт</th></tr></thead>
           <tbody>
             {n.top.map((r) => (
               <tr data-row data-ry={rowCells(r).ry} data-f={rowCells(r).f}>
                 <td class="rt__place">{r.place}</td>
-                <td class="rt__name">{cardLink(r) ? <a href={cardLink(r)}>{r.name}</a> : r.name}{r.points.length > 1 && <small>{r.points.length} {plural(r.points.length, ['филиал', 'филиала', 'филиалов'])}</small>}</td>
+                <td class="rt__name">{cardLink(r) ? <a href={cardLink(r)}>{r.name}</a> : r.name}<small>{r.points[0].adr}</small>{r.points.length > 1 && <details class="fil"><summary>ещё {r.points.length - 1} {plural(r.points.length - 1, ['филиал', 'филиала', 'филиалов'])}</summary><ul>{r.points.slice(1).map((p) => <li>{p.adr}</li>)}</ul></details>}</td>
                 <td class="rt__ball"><span class:list={['score', { 'score--top': r.place === 1 }]}>{dec(r.ball)}<small>/10</small></span></td>
                 <td data-l="Яндекс Карты"><span>{r1(r.rating)} · {otz(r.reviews)}</span></td>
-                <td data-l="Район"><span>{r.rayony.join(', ')}</span></td>
+                <td data-l="Район"><span>{r.points[0].rayon}{r.rayony.length > 1 && <small> + филиалы ещё в {r.rayony.length - 1} {plural(r.rayony.length - 1, ['районе', 'районах', 'районах'])}</small>}</span></td>
+                {hasPrices && <td data-l="Цена" class="rt__price"><span>{r.prices ? <>от {rub(r.prices.min)}{r.prices.minGoods && <small>цена изделия</small>}</> : '–'}</span></td>}
                 <td data-l="Часы"><span>{hoursCell(r)}</span></td>
                 <td data-l="Сайт"><span>{r.siteUrl ? <a href={r.siteUrl} {...nf}>есть</a> : 'не указан'}</span></td>
               </tr>
@@ -99,7 +107,7 @@ const rowCells = (r: Row) => ({ ry: r.rayony.join('|'), f: flags(r) });
         )}
         <p class="note" data-empty hidden>Под выбранные условия в рейтинге никто не подходит. Снимите один из фильтров.</p>
       </div>
-      <p class="cap">Источник – только Яндекс Карты, срез {SREZ}: {pts} {plural(pts, ['точка', 'точки', 'точек'])} из {n.found} найденных по запросу. Часы и круглосуточная работа – по карточкам; уточняйте у компании.{noDates > 0 && ` У ${noDates} из ${n.rows.length} в срезе нет дат отзывов – свежесть у них посчитана как ноль.`}</p>
+      <p class="cap">Источник баллов – только Яндекс Карты, срез {SREZ}. Часы и круглосуточная работа – по карточке главной точки; уточняйте у компании.{noDates > 0 && ` У ${noDates} из ${n.rows.length} в срезе нет дат отзывов – свежесть у них посчитана как ноль.`}</p>
     </div>
   </section>
 
@@ -112,14 +120,10 @@ const rowCells = (r: Row) => ({ ry: r.rayony.join('|'), f: flags(r) });
     </div>
   </section>
 
-  <section class="section section--alt" id="kak">
-    <div class="wrap narrow">
-      <h2>Как мы составляли рейтинг</h2>
-      <p>Взяли {n.found} компаний, которые Яндекс Карты показывают по запросу «{n.name.toLowerCase()}» в Новосибирске. Оставили тех, у кого {n.rule.why}, оценка от 4,0 и не меньше 10 отзывов; закрытые не берём. Прошли {units(n, n.rows.length)}.</p>
-      <p>Балл из 10: оценка – {pct(W.rating)}, число отзывов – {pct(W.reviews)}, свежесть отзывов – {pct(W.fresh)}, открытость карточки (сайт, часы, подтверждение владельца, «Хорошее место») – {pct(W.open)}. Оценку и отзывы сравниваем внутри рейтинга: лучший получает полную долю. 2ГИС, сайты и цены в этом рейтинге не учтены – только Яндекс Карты.</p>
-      <a class="link-arrow" href={u(`/metodika/#${n.cat.slug}-${n.slug}`)}>Формула и правило отбора</a>
-    </div>
-  </section>
+  <CenyNishi n={n} />
+  {n.folded.map((f) => <CenyNishi n={f} title={`${f.name}: цены на сайтах клиник`} id={f.slug} note={`Отдельного рейтинга «${f.name.toLowerCase()}» нет: по запросу «${f.queries[0] || f.name.toLowerCase()}» Яндекс Карты показывают в основном те же клиники, что в таблице выше. Ниже – цены «от» на имплантацию с сайтов этих клиник.`} places={false} />)}
+
+  <KakNisha n={n} />
 
   <section class="section">
     <div class="wrap">
@@ -153,3 +157,4 @@ const rowCells = (r: Row) => ({ ry: r.rayony.join('|'), f: flags(r) });
     </div>
   </section>
 </Base>
+)}

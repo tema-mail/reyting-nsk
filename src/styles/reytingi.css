@@ -33,3 +33,8 @@ button.chip { cursor: pointer; }
 .search { width: 100%; max-width: 520px; font: inherit; font-size: 16px; min-height: 46px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--card); margin: 0 0 14px; }
 .home-tools { display: grid; gap: 8px; margin-bottom: 18px; }
 @media (max-width: 859px) { .rt--ya .rt__name { overflow-wrap: anywhere; } }
+.fil { margin-top: 4px; font-size: 13px; color: var(--ink-3); }
+.fil summary { cursor: pointer; color: var(--ob); font-weight: 500; }
+.fil ul { margin: 4px 0 0; padding-left: 18px; }
+.fil li { margin: 0; }
+.rt__price { white-space: nowrap; }

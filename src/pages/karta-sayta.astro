@@ -1,9 +1,14 @@
 ---
-// HTML-карта сайта: категории → ниши → компании. noindex, follow (карта сайта).
+// HTML-карта сайта: категории → рейтинги → компании с карточкой. noindex, follow (карта сайта).
 import Doc from '../components/Doc.astro';
 import { COMPANIES } from '../lib/niche';
+import { CATEGORIES, nicheByKey } from '../lib/reytingi';
 import { u } from '../lib/url';
-import { SITE_NAME, CATEGORIES } from '../lib/site';
+import { SITE_NAME } from '../lib/site';
+const firms = (key: string) =>
+  key === 'prazdniki/dostavka-tsvetov'
+    ? COMPANIES.map((x) => ({ name: x.name, slug: x.slug }))
+    : (nicheByKey(key)?.rows || []).filter((r) => r.slug).map((r) => ({ name: r.name, slug: r.slug! }));
 ---
 <Doc title={`Карта сайта – ${SITE_NAME}`} h1="Карта сайта" path="/karta-sayta/" noindex>
   <ul class="sitemap-tree">
@@ -14,7 +19,7 @@ import { SITE_NAME, CATEGORIES } from '../lib/site';
             <ul>
               {c.niches.map((n) => (
                 <li><a href={u(n.path)}>{n.name}</a>
-                  <ul>{COMPANIES.map((x) => <li><a href={u(`/kompanii/${x.slug}/`)}>{x.name}</a></li>)}</ul>
+                  <ul>{firms(n.key).map((x) => <li><a href={u(`/kompanii/${x.slug}/`)}>{x.name}</a></li>)}</ul>
                 </li>
               ))}
             </ul>

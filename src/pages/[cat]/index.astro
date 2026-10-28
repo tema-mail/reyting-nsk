@@ -1,0 +1,68 @@
+---
+// Хаб категории /<категория>/: рейтинги раздела, у каждого 1–2 строки и №1. Индексируется с двух опубликованных ниш (hubIndexable).
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import { CATEGORIES, hubIndexable } from '../../lib/reytingi';
+import { u, abs } from '../../lib/url';
+import { dec, date } from '../../lib/fmt';
+import { SITE_NAME } from '../../lib/site';
+import { org, orgId, crumbs, graph } from '../../lib/ld';
+
+export function getStaticPaths() {
+  return CATEGORIES.map((c) => ({ params: { cat: c.slug }, props: { c } }));
+}
+const { c } = Astro.props as { c: (typeof CATEGORIES)[number] };
+const site = Astro.site;
+const path = `/${c.slug}/`;
+const H1 = `${c.name}: рейтинги Новосибирска`;
+const srez = [...new Set(c.niches.map((n) => date(n.srez)))].join(' и ');
+const ld = graph(
+  org(site),
+  {
+    '@type': 'CollectionPage', url: abs(path, site), name: H1, inLanguage: 'ru', publisher: { '@id': orgId(site) },
+    mainEntity: { '@type': 'ItemList', itemListElement: c.niches.map((n, i) => ({ '@type': 'ListItem', position: i + 1, item: { '@type': 'WebPage', '@id': abs(n.path, site), name: n.name, url: abs(n.path, site) } })) },
+  },
+  crumbs([{ name: 'Главная', path: '/' }, { name: c.name, path }], site),
+);
+---
+<Base
+  title={`${c.name} в Новосибирске – рейтинги компаний | ${SITE_NAME}`}
+  description={`Рейтинги раздела «${c.name}» в Новосибирске: ${c.niches.map((n) => n.name.toLowerCase()).join(', ')}. Баллы по открытой формуле, срез ${srez}.`}
+  path={path}
+  noindex={!hubIndexable(c.slug)}
+  active={c.slug}
+  ld={ld}
+>
+  <section class="hero">
+    <div class="wrap">
+      <Crumbs items={[{ name: 'Главная', href: '/' }, { name: c.name }]} />
+      <h1>{H1}</h1>
+      <p class="lead">{c.lead} В разделе {c.niches.length} {c.niches.length < 5 ? 'рейтинга' : 'рейтингов'}, срез {srez}.</p>
+    </div>
+  </section>
+
+  <section class="section section--alt">
+    <div class="wrap">
+      <h2>Рейтинги раздела</h2>
+      <div class="tiles">
+        {c.niches.map((n) => (
+          <article class="tile tile--r">
+            <span class="tile__k">{n.count} в рейтинге · срез {date(n.srez)}</span>
+            <h3><a href={u(n.path)}>{n.name}</a></h3>
+            <p>{n.short}</p>
+            <p class="tile__one">№1 – {n.firstSlug ? <a href={u(`/kompanii/${n.firstSlug}/`)}>{n.first}</a> : n.first}, <b>{dec(n.firstBall)}</b> из 10</p>
+            <a class="link-arrow" href={u(n.path)}>Открыть рейтинг</a>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap narrow">
+      <h2>Как мы составляем рейтинги</h2>
+      <p>Берём компании из Яндекс Карт по запросу ниши, оставляем профильные по рубрике, с оценкой от 4,0 и от 10 отзывов. Балл считаем по опубликованной формуле: оценка, число отзывов, их свежесть и открытость карточки. За место не платят.</p>
+      <a class="link-arrow" href={u('/metodika/')}>Как считаем</a>
+    </div>
+  </section>
+</Base>

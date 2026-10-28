@@ -1,7 +1,7 @@
 ---
 import Logo from './Logo.astro';
 import { u } from '../lib/url';
-import { CATEGORIES } from '../lib/site';
+import { CATEGORIES } from '../lib/reytingi';
 interface Props { active?: string }
 const { active = '' } = Astro.props;
 ---
@@ -10,13 +10,11 @@ const { active = '' } = Astro.props;
     <Logo />
     <nav class="hdr__nav" aria-label="Основное меню">
       <details class="dd">
-        <summary class:list={[{ 'is-active': CATEGORIES.some((c) => c.slug === active) }]}>Категории</summary>
-        <div class="dd__menu">
+        <summary class:list={[{ 'is-active': CATEGORIES.some((c) => c.slug === active) }]}>Рейтинги</summary>
+        <div class="dd__menu dd__menu--cats">
+          <a class="dd__all" href={u('/#reytingi')}>Все рейтинги</a>
           {CATEGORIES.map((c) => (
-            <div class="dd__grp">
-              <a class="dd__cat" href={u(`/${c.slug}/`)}>{c.name}</a>
-              {c.niches.map((n) => <a class="dd__item" href={u(n.path)}>{n.name}</a>)}
-            </div>
+            <a class:list={['dd__item', { 'is-active': c.slug === active }]} href={u(`/${c.slug}/`)}>{c.name} <small>{c.niches.length}</small></a>
           ))}
         </div>
       </details>
@@ -26,7 +24,7 @@ const { active = '' } = Astro.props;
   </div>
 </header>
 <script>
-  // Закрыть меню категорий по клику мимо и по Esc
+  // Закрыть меню по клику мимо и по Esc
   const dd = document.querySelector('.dd') as HTMLDetailsElement | null;
   document.addEventListener('click', (e) => { if (dd && !dd.contains(e.target as Node)) dd.open = false; });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && dd) dd.open = false; });
